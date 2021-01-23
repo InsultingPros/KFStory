@@ -11,9 +11,9 @@ Yet another great mode from [Alex Quick]. Defend your base and destroy enemy one
 
 * Authors - *Alex Quick*
 * GH-Outskirts.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=98035013>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=77393>
-* D/L - <http://www.mediafire.com/download/v1k9peeo2ukq4ww/GH-Outskirts.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=98035013>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/outskirts.79224/>
+* D/L - <https://www.mediafire.com/file/v1k9peeo2ukq4ww/GH-Outskirts.zip/file>
 
 ![IMG](https://i.imgur.com/QCVkl9d.jpg)
 
@@ -21,8 +21,8 @@ Yet another great mode from [Alex Quick]. Defend your base and destroy enemy one
 
 * Authors - *Fel*
 * GH-HellPit.rom
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=77874>
-* D/L - <http://www.mediafire.com/download/7jddsmv7t11g6c1/GH-HellPit.zip>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/gh-hell-pit.79717/>
+* D/L - <https://www.mediafire.com/file/7jddsmv7t11g6c1/GH-HellPit.zip/file>
 
 ![IMG](https://i.imgur.com/rLelJwt.jpg)
 
@@ -30,7 +30,7 @@ Yet another great mode from [Alex Quick]. Defend your base and destroy enemy one
 
 * Authors - *Fel*
 * GH-Latitude.rom
-* D/L - <http://www.mediafire.com/download/prf951dcnkml6bi/GH-Latitude.zip>
+* D/L - <https://www.mediafire.com/file/prf951dcnkml6bi/GH-Latitude.zip/file>
 
 ![IMG](https://i.imgur.com/T35CPtW.jpg)
 

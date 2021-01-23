@@ -1,29 +1,17 @@
+* Некоторые карты из других режимов могут работать в KFO если вручную поменять акроним ([I][B][COLOR=#00c040]KF[/B]-[/I] / [I][B][COLOR=#00c040]KFS[/B]-[/I] / [I][B][COLOR=#00c040]TOY[/B]-[/I]).[/SIZE]
 
-
-[COLOR=#33ccff][SIZE=5][B]Заметки[/B]
-[SIZE=14px][B]-[/B] Символом * будут помечаться карты где используется серый, кастомный скрипт.
-[B]-[/B] Символом [COLOR=#ff8c00]* будут помечаться карты для которых нужен[/SIZE] [B][U][I]<http://forums.tripwireinteractive.com/showthread.php?t=100579>[COLOR=#00c040]CustomSpawnFix[/I][/U]. [/B]Спасибо Tripwire за то, что поменяли коды мобов и поломали старые карты.
-[B][SIZE=14px]- [/SIZE][/B][SIZE=14px][U]<http://www.mediafire.com/file/3e1oc7l7xwuzrbl/ScrnStoryGame.u/file>[COLOR=#00c040][B][I]ScrnStoryGame[/I][/B][/U] [B]/[/B] <https://www.mediafire.com/file/wqjdb9k2wfrqck8/KFChaingunTurret.u/file>[U][COLOR=#00c040][B][I]KFChaingunTurret[/I][/B][/U] [B]/[/B] [U]<http://www.mediafire.com/file/93r9x93o3kav8wm/Fall_TriggerPack.u/file>[COLOR=#00c040][B][I]Fall_TriggerPack[/I][/B][/U] [B]/[/B] [B][I]<http://www.mediafire.com/file/makbvdvgl9ocpbe/KFGasCan.u/file>[COLOR=#00b359][U]KFGasCan[/U] [/I]/[/B][/SIZE][B][I] [U]<http://www.mediafire.com/file/cxdr127c7q7q23n/clientmaterialtrigger.u/file>[COLOR=#00c040]clientmaterialtrigger[/U][/I][/B] белые мутаторы.
-[SIZE=14px][B]- [/B]Избегайте [U][I][B]<http://forums.tripwireinteractive.com/showthread.php?t=100703>[COLOR=#00c040]NetReduce[/B][/I][/U] и подобных мутаторов. Или будут пропадать ключи, спавны оружия, рубильники, не работать скрипты.
-[B]- [/B]Некоторые карты из других режимов могут работать в KFO если вручную поменять акроним ([I][B][COLOR=#00c040]KF[/B]-[/I] / [I][B][COLOR=#00c040]KFS[/B]-[/I] / [I][B][COLOR=#00c040]TOY[/B]-[/I]).[/SIZE]
-[spoiler]
-[LIST]
-[*][COLOR=#33ccff]kf-Arcade-Mission-v2
-[*][COLOR=#33ccff]KF-Hokuto_Ujou_Hagan_Ken_v2
-[*][COLOR=#33ccff]KF-LaserChallengeV3
-[*][COLOR=#33ccff]KF-Offices-Story-alpha1
-[*][COLOR=#33ccff]KF-roofhop
-[*][COLOR=#33ccff]KF-SaarV5
-[*][COLOR=#33ccff]KF-Strangev12
-[*][COLOR=#33ccff]KF-TheHiveV1REV3
-[*][COLOR=#33ccff]KF-TheHiveV2FC
-[*][COLOR=#33ccff]KF-TheHiveV3Beta
-[*][COLOR=#33ccff]TOY-DevilsDollhouse
-[*][COLOR=#33ccff]TOY-DevilsDollhouse-FixV3
-[/LIST]
-[/spoiler]
-
-
+* kf-Arcade-Mission-v2
+* KF-Hokuto_Ujou_Hagan_Ken_v2
+* KF-LaserChallengeV3
+* KF-Offices-Story-alpha1
+* KF-roofhop
+* KF-SaarV5
+* KF-Strangev12
+* KF-TheHiveV1REV3
+* KF-TheHiveV2FC
+* KF-TheHiveV3Beta
+* TOY-DevilsDollhouse
+* TOY-DevilsDollhouse-FixV3
 
 [COLOR=#ffa500][SIZE=36px][B]Testing Mode[/B]
 [COLOR=#33ccff][SIZE=5][B]Заметки[/B]
@@ -60,75 +48,7 @@
 ![IMG]https://i.imgur.com/6KscGfd.jpg
 [/spoiler]
 
-[COLOR=#ffa500][SIZE=36px][B]Aliens[/B]
-[COLOR=#33ccff][SIZE=5][B]Заметки[/B]
-[B]-[/B] Не рекомендуется играть на высоких сложностях и, особенно, маленькой командой.
-[B]-[/B] Если есть проблемы с покупкой оружия, устанавливайте [I]<http://www.moddb.com/mods/aliens-killing-floor/downloads/akf-shop-fix>[COLOR=#00c040][B]AKF Shop Fix[/B][/I].
-[B]-[/B] Для запуска выделенного сервера
-[CODE]Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFServerPerksMut,AliensKFXenos.MutAliensPath,AliensKFExtra.AKFDetailMut[/CODE]
-[spoiler]
-[COLOR=#33ccff][SIZE=24px]Aliens Killing Floor ~ [I]WPC*[/I]
-* Workshop [SIZE=14px]- <http://steamcommunity.com/workshop/filedetails/?id=111934166>steamcommunity.com/workshop/filedetails/?id=111934166
-* Форум - <http://forums.tripwireinteractive.com/showthread.php?t=81418>forums.tripwireinteractive.com/showthread.php?t=81418
-* ModDb [SIZE=14px]- <http://www.moddb.com/mods/aliens-killing-floor>moddb.com/mods/aliens-killing-floor
-[COLOR=#ff8c00]Сайт- <http://www.mostimpressive.nl/AKF/>mostimpressive.nl/AKF/
-* D/L - <http://www.mediafire.com/download/oofcx160f84xis7/AliensV1.2.zip>mediafire.com/download/oofcx160f84xis7/AliensV1.2.zip
-
-#### Aliens Tunnel ~ [I]Swift_Brutal_Death[/I] (+U.N.C.L.E.)[COLOR=#33ccff][SIZE=24px][I]*[/I]
-* KF-A-AliensTunnelBeta1-2.rom
-* Workshop [SIZE=14px]- <http://steamcommunity.com/sharedfiles/filedetails/?id=111959360>steamcommunity.com/sharedfiles/filedetails/?id=111959360
-* D/L - <http://www.mediafire.com/download/ytu24duslo1p83s/KF-A-AliensTunnelBeta1-2.zip>mediafire.com/download/ytu24duslo1p83s/KF-A-AliensTunnelBeta1-2.zip
-![IMG]https://i.imgur.com/GG2QrPH.jpg
-
-#### Bug Hunt ~ [I]HaTeMe*[/I]
-* KF-BugHunt-v3.rom
-* Workshop [SIZE=14px]- <http://steamcommunity.com/sharedfiles/filedetails/?id=126283862>steamcommunity.com/sharedfiles/filedetails/?id=126283862
-* D/L - <http://www.mediafire.com/download/t4d6j06jde4x893/KF-BugHunt-v3.zip>mediafire.com/download/t4d6j06jde4x893/KF-BugHunt-v3.zip
-![IMG]https://i.imgur.com/3E9Dem0.jpg
-
-#### Starship ~ [I]ReiN*[/I]
-* KF-A-Starship.rom
-* Workshop [SIZE=14px]- <http://steamcommunity.com/sharedfiles/filedetails/?id=143952091>steamcommunity.com/sharedfiles/filedetails/?id=143952091
-* D/L - <http://www.mediafire.com/download/2aq6gi579m2pvd9/KF-A-Starship.zip>mediafire.com/download/2aq6gi579m2pvd9/KF-A-Starship.zip
-![IMG]https://i.imgur.com/87lATc7.jpg
-
-#### Hadleys Hope ~ [I]ReiN*[/I]
-* KF-A-HadleysHope-beta-1-2.rom
-* Workshop [SIZE=14px]- <http://steamcommunity.com/sharedfiles/filedetails/?id=169211588>steamcommunity.com/sharedfiles/filedetails/?id=169211588
-* D/L - <http://www.mediafire.com/download/ofeq45605tpp5qh/KF-A-HadleysHope-beta-1-2.zip>mediafire.com/download/ofeq45605tpp5qh/KF-A-HadleysHope-beta-1-2.zip
-![IMG]https://i.imgur.com/yIQa7S9.jpg
-
-#### Outpost ~ [I]ReiN*[/I]
-* KF-A-Outpost.rom
-* Workshop [SIZE=14px]- <http://steamcommunity.com/sharedfiles/filedetails/?id=143430016>steamcommunity.com/sharedfiles/filedetails/?id=143430016
-* D/L - <http://www.mediafire.com/download/4b8md74wmo752qa/KF-A-Outpost.zip>mediafire.com/download/4b8md74wmo752qa/KF-A-Outpost.zip
-![IMG]https://i.imgur.com/znMkWjm.jpg
-
-#### Icarus ~ [I]U.N.C.L.E.*[/I]
-* KF-A-IcaruSVUbeta2.rom
-* Workshop [SIZE=14px]- <http://steamcommunity.com/sharedfiles/filedetails/?id=209922729>steamcommunity.com/sharedfiles/filedetails/?id=209922729
-* D/L - <http://www.mediafire.com/download/uxol1a2wbj6xel9/KF-A-IcaruSVUbeta2.zip>mediafire.com/download/uxol1a2wbj6xel9/KF-A-IcaruSVUbeta2.zip
-![IMG]https://i.imgur.com/SKb6izu.jpg
-
-#### Alien Base ~ [I]U.N.C.L.E.*[/I]
-* KF-AlienWorld_Base-Final4.rom
-* Workshop [SIZE=14px]- <http://steamcommunity.com/sharedfiles/filedetails/?id=369726276>steamcommunity.com/sharedfiles/filedetails/?id=369726276
-* D/L - <http://www.mediafire.com/download/bg96e36civllt8p/KF-AlienWorld_Base-Final4.zip>mediafire.com/download/bg96e36civllt8p/KF-AlienWorld_Base-Final4.zip
-![IMG]https://i.imgur.com/pQn0nU7.jpg
-
-#### Hadleys Hallway ~ [I]WPC Team*[/I]
-* KF-HadleysHallway.rom
-* Workshop [SIZE=14px]- <http://steamcommunity.com/sharedfiles/filedetails/?id=111928275>steamcommunity.com/sharedfiles/filedetails/?id=111928275
-* D/L - <http://www.mediafire.com/download/xjn5awbhb4jzlos/KF-HadleysHallway.zip>mediafire.com/download/xjn5awbhb4jzlos/KF-HadleysHallway.zip
-![IMG]https://i.imgur.com/WO8I3c3.jpg
-
-#### Atmosphere Processor  ~ [I]WPC Team*[/I]
-* KF-AtmosphereProcessor.rom
-* Workshop [SIZE=14px]- <http://steamcommunity.com/sharedfiles/filedetails/?id=111922917>steamcommunity.com/sharedfiles/filedetails/?id=111922917
-* D/L - <http://www.mediafire.com/download/wu84h6b5xaip9e5/KF-AtmosphereProcessor.zip>mediafire.com/download/wu84h6b5xaip9e5/KF-AtmosphereProcessor.zip
-![IMG]https://i.imgur.com/6jHqniC.jpg
-[/spoiler]
-
+[
 [COLOR=#ffa500][SIZE=36px][B]Dead Space[/B]
 [COLOR=#33ccff][SIZE=5][B]Заметки[/B]
 [B]- [/B]Мобы кривенькие но их так же весело рубить. Оружие с оригинальной игры прилагается.
@@ -165,3 +85,42 @@ TR-BeatTrials.rom
 [/spoiler]
 
 [SIZE=6][U]<http://killingfloor.ru/xforum/threads/raznye-game-type-i-karty-k-nim.4219/#post-114381>[COLOR=rgb(51, 204, 255)]Продолжение (Gun Game, ScrN, Specimen Versus) ->[/U][/SIZE]
+
+ScrN Game Types
+Заметки
+- Интенсивный PvP режим. Без слаженной команды и чтения манулов ([URL='http://steamcommunity.com/sharedfiles/filedetails/?id=287295306']правила[/URL] / [URL='http://steamcommunity.com/sharedfiles/filedetails/?id=287311410']как играть[/URL] ) не лезть.
+- Для запуска выделенного сервера
+[CODE]Game=ScrnBalanceSrv.BaronsGame?Mutator=ServerPerksMut.ServerPerksMut,ScrnBalanceSrv.ScrnBalance
+Game=ScrnBalanceSrv.FscGame
+Game=ScrnBalanceSrv.FtgGame
+Game=ScrnBalanceSrv.TSCGame
+Game=ScrnBalanceSrv.TurboGame
+[/CODE]
+[spoiler][/spoiler]
+
+Specimen Versus
+Заметки
+- Зеды против игроков. При чем это не так легко как кажется.
+- Менять команду (зед-игрок) можно в ESC меню.
+- м1 активирует основную атаку зеда а СКМ альтернативную.
+- АХТУНГ! Патриарх слишком читерный и игра превращается в игру кошки с инвалидами мышами.
+- Возможность играть за Патриарха контролируется в конфиге.
+[CODE]Game=KFMonsterVS.VSGame[/CODE]
+
+[spoiler]
+Specimen Versus ~ Marco*
+Форум - [URL='https://forums.tripwireinteractive.com/forum/killing-floor/killing-floor-modifications/general-modding-discussion-aa/55245-mod-specimen-versus?t=53994']forums.tripwireinteractive.com/.../55245-mod-specimen-versus?t=53994[/URL]
+D/L - [URL='http://www.mediafire.com/file/8n2a2lafy2cu03l/KFMonsterVS.zip']mediafire.com/file/8n2a2lafy2cu03l/KFMonsterVS.zip[/URL]
+[spoiler]
+[/spoiler]
+
+[spoiler]
+Шаблон
+-
+-
+
+O  ~ A**
+G.rom
+W-
+[spoiler][/spoiler]
+[/spoiler][/spoiler]

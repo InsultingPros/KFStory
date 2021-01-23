@@ -1,4 +1,6 @@
-> [back to Table of Content](README.md/#Table-of-content 'go back to Table of Content')
+[ret]: #Map-List 'return to map list'
+
+> [back to Table of Content](README.md 'go back to Table of Content')
 
 # Objective Mode
 
@@ -13,9 +15,9 @@
 
 * Authors - *Fel*
 * KFO-Peak.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=189074614>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=95876>
-* D/L - <http://www.mediafire.com/download/pgr1140rqw80687/KFO-Peak.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=189074614>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-peak-haloween-map.98150/>
+* D/L - <https://www.mediafire.com/file/pgr1140rqw80687/KFO-Peak.zip/file>
 
 ![IMG](https://i.imgur.com/93Qr8kI.jpg)
 
@@ -23,9 +25,9 @@
 
 * Authors - *Fel*
 * KFO-OnceUponATimeInMexico.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=190214076>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=93600>
-* D/L - <http://www.mediafire.com/download/328n3qa4n2upxbu/KFO-OnceUponATimeInMexico.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=190214076>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-ouatim-beta.95804/>
+* D/L - <https://www.mediafire.com/file/328n3qa4n2upxbu/KFO-OnceUponATimeInMexico.zip/file>
 
 ![IMG](https://i.imgur.com/SbwQVgN.jpg)
 
@@ -33,9 +35,9 @@
 
 * Authors - *Driftwood*
 * KFO-RE1-Mansion-V4.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=399639299>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=43498>
-* D/L - <http://www.mediafire.com/download/lxb2c33al5091io/KFO-RE1-Mansion-V4.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=399639299>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/resident-evil-1-mansion-story-mission-final.44508/>
+* D/L - <https://www.mediafire.com/file/lxb2c33al5091io/KFO-RE1-Mansion-V4.zip/file>
 
 ![IMG](https://i.imgur.com/WYJGpcJ.jpg)
 
@@ -43,9 +45,9 @@
 
 * Authors - *Smiff*
 * KFO-ManufracturedB2.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=172817252>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=94846>
-* D/L - <http://www.mediafire.com/download/c06evi565timp12/KFO-ManufracturedB2.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=172817252>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-manufracturedb1.97098/>
+* D/L - <https://www.mediafire.com/file/c06evi565timp12/KFO-ManufracturedB2.zip/file>
 
 ![IMG](https://i.imgur.com/T4Z5a81.png)
 
@@ -53,9 +55,9 @@
 
 * Authors - *Poosh*
 * KFO-Foundry-SE.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=207486983>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=95967>
-* D/L -<http://www.mediafire.com/download/nyd4930lbs2bcek/KFO-Foundry-SE.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=207486983>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-foundry-se-scrn-edition.99499/>
+* D/L -<https://www.mediafire.com/file/nyd4930lbs2bcek/KFO-Foundry-SE.zip/file>
 
 ![IMG](https://i.imgur.com/92Pq3OF.png)
 
@@ -63,8 +65,8 @@
 
 * Authors - *HIUFIGYO*
 * KFO-Stationv1-2.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=222972534>
-* D/L - <http://www.mediafire.com/download/4jjtxjqmb466ji6/KFO-Stationv1-2.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=222972534>
+* D/L - <https://www.mediafire.com/file/4jjtxjqmb466ji6/KFO-Stationv1-2.zip/file>
 
 ![IMG](https://i.imgur.com/KrvCqvD.jpg)
 
@@ -72,7 +74,7 @@
 
 * Authors - *The Hunter*
 * KFO-FilthsCross.rom
-* D/L - <http://www.mediafire.com/download/gj0g9isvwt23g09/KFO-FilthsCross.zip>
+* D/L - <https://www.mediafire.com/file/gj0g9isvwt23g09/KFO-FilthsCross.zip/file>
 
 ![IMG](https://i.imgur.com/1dnZ5i8.jpg)
 
@@ -80,9 +82,9 @@
 
 * Authors - *The Hunter*
 * KFO-WestLondon-FE.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=254449534>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=98295>
-* D/L - <http://www.mediafire.com/download/q7bbl7doseds5n5/KFO-WestLondon-FE.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=254449534>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-westlondon.100585/>
+* D/L - <https://www.mediafire.com/file/q7bbl7doseds5n5/KFO-WestLondon-FE.zip/file>
 
 ![IMG](https://i.imgur.com/lxTMUMF.jpg)
 
@@ -90,8 +92,8 @@
 
 * Authors - *The Hunter*
 * KFO-WestLondon-Survival.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=264566391>
-* D/L - <http://www.mediafire.com/download/u0ije5l1ofqceox/KFO-WestLondon-Survival.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=264566391>
+* D/L - <https://www.mediafire.com/file/u0ije5l1ofqceox/KFO-WestLondon-Survival.zip/file>
 
 ![IMG](https://i.imgur.com/4LmQu0b.jpg)
 
@@ -99,8 +101,8 @@
 
 * Authors - *The Hunter*
 * KFO-[Survival]-BioticsLab.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=289213740>
-* D/L - <http://www.mediafire.com/download/pab53zv1fx7d5ks/KFO-%5BSurvival%5D-BioticsLab.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=289213740>
+* D/L - <https://www.mediafire.com/file/pab53zv1fx7d5ks/KFO-%5BSurvival%5D-BioticsLab.zip/file>
 
 ![IMG](https://i.imgur.com/KShvPtp.jpg)
 
@@ -108,8 +110,8 @@
 
 * Authors - *The Hunter*
 * KFO-[Survival]-Manor.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=322218109>
-* D/L - <http://www.mediafire.com/download/8n30ecg0d829113/KFO-%5BSurvival%5D-Manor.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=322218109>
+* D/L - <https://www.mediafire.com/file/8n30ecg0d829113/KFO-%5BSurvival%5D-Manor.zip/file>
 
 ![IMG](https://i.imgur.com/xfrng3n.jpg)
 
@@ -117,8 +119,8 @@
 
 * Authors - *Cakedog*
 * KFO-ManorDefence.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=299954443>
-* D/L - <http://www.mediafire.com/download/d4195j4qa1b55fm/KFO-ManorDefence.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=299954443>
+* D/L - <https://www.mediafire.com/file/d4195j4qa1b55fm/KFO-ManorDefence.zip/file>
 
 ![IMG](https://i.imgur.com/tuNOadB.jpg)
 ![IMG](https://i.imgur.com/15sa9z3.jpg)
@@ -127,8 +129,9 @@
 
 * Authors - *GunsForBucks*
 * KFO-PlanetaryBattlegroundsZ_Beta01_ws.rom
-* Workshop -<http://steamcommunity.com/sharedfiles/filedetails/?id=354970200>
-* D/L - <http://www.mediafire.com/download/ddy19sf7vlqocw1/KFO-PlanetaryBattlegroundsZ_Beta01_ws.zip>
+* Workshop -<https://steamcommunity.com/sharedfiles/filedetails/?id=354970200>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-planetary-battlegrounds-z.105189/>
+* D/L - <https://www.mediafire.com/file/ddy19sf7vlqocw1/KFO-PlanetaryBattlegroundsZ_Beta01_ws.zip/file>
 
 ![IMG](https://i.imgur.com/c6cTnwY.jpg)
 
@@ -136,9 +139,9 @@
 
 * Authors - *GunsForBucks*
 * KFO-SoylentZed_multiplayer_Final_ws.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=253942341>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=99137>
-* D/L - <http://www.mediafire.com/download/z1l4fbxt4vm2eq1/KFO-SoylentZed_multiplayer_Final_ws.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=253942341>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-soylent-zed.101474/>
+* D/L - <https://www.mediafire.com/file/z1l4fbxt4vm2eq1/KFO-SoylentZed_multiplayer_Final_ws.zip/file>
 
 ![IMG](https://i.imgur.com/R4C6o9I.jpg)
 
@@ -146,8 +149,8 @@
 
 * Authors - *GunsForBucks*
 * KFO-SoylentZed_Final_Solo_ws.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=515857446>
-* D/L - <http://www.mediafire.com/download/2454898q4e2ne1o/KFO-SoylentZed_Final_Solo_ws.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=515857446>
+* D/L - <https://www.mediafire.com/file/2454898q4e2ne1o/KFO-SoylentZed_Final_Solo_ws.zip/file>
 
 #### [Fleshpound Challenge][ret]
 
@@ -157,61 +160,63 @@
 
 ![IMG](https://i.imgur.com/WiklqcN.png)
 
-#### Biotics Lab FPC
+#### [Biotics Lab FPC][ret]
 
 * KFO-FPChallenge_BioticsLab_V00_WS.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=259447743>
-* D/L - <http://www.mediafire.com/download/a3rsx4uxp5d62vw/KFO-FPChallenge_BioticsLab_V00_WS.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=259447743>
+* D/L - <https://www.mediafire.com/file/a3rsx4uxp5d62vw/KFO-FPChallenge_BioticsLab_V00_WS.zip/file>
 
-#### Departed FPC
+#### [Departed FPC][ret]
 
 * KFO-FPC_Departed_V00_WS.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=259770076>
-* D/L - <http://www.mediafire.com/download/c9da7s88ckizwgw/KFO-FPC_Departed_V00_WS.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=259770076>
+* D/L - <https://www.mediafire.com/file/c9da7s88ckizwgw/KFO-FPC_Departed_V00_WS.zip/file>
 
-#### Fright Yard FPC
+#### [Fright Yard FPC][ret]
 
 * KFO-FPChallenge_FrightYard_V00_WS.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=259310079>
-* D/L - <http://www.mediafire.com/download/ce9z2dijgb6r6dd/KFO-FPChallenge_FrightYard_V00_WS.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=259310079>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-fp-challenge-frightyard.101835/>
+* D/L - <https://www.mediafire.com/file/ce9z2dijgb6r6dd/KFO-FPChallenge_FrightYard_V00_WS.zip/file>
 
-#### Ice Breaker FPC
+#### [Ice Breaker FPC][ret]
 
 * KFO-FPC_Icebreaker.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=673350154>
-* D/L - <http://www.mediafire.com/download/cvy7aaospyd3o7x/KFO-FPC_Icebreaker.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=673350154>
+* D/L - <https://www.mediafire.com/file/cvy7aaospyd3o7x/KFO-FPC_Icebreaker.zip/file>
 
-#### Moonbase FPC
+#### [Moonbase FPC][ret]
 
 * KFO-FPC-MoonBase_V00_WS.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=259730854>
-* D/L - <http://www.mediafire.com/download/zkpzrppxn7ejkwa/KFO-FPC-MoonBase_V00_WS.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=259730854>
+* D/L - <https://www.mediafire.com/file/zkpzrppxn7ejkwa/KFO-FPC-MoonBase_V00_WS.zip/file>
 
-#### Moonbase: Sirens vs Husks FPC
+#### [Moonbase: Sirens vs Husks FPC][ret]
 
 * KFO-HuskVsSiren-MoonBase_V00-WS.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=264529260>
-* D/L - <http://www.mediafire.com/download/2hvqsfssi9d7vmm/KFO-HuskVsSiren-MoonBase_V00-WS.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=264529260>
+* D/L - <https://www.mediafire.com/file/2hvqsfssi9d7vmm/KFO-HuskVsSiren-MoonBase_V00-WS.zip/file>
 
-#### Sibyl Complex FPC
+#### [Sibyl Complex FPC][ret]
 
 * KFO-FP_Challenge_SibylComplex_BetaV00_WS.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=258378699>
-* D/L - <http://www.mediafire.com/download/0646lo4cuztwvot/KFO-FP_Challenge_SibylComplex_BetaV00_WS.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=258378699>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-fp-challenge-sibyl-complex.101756/>
+* D/L - <https://www.mediafire.com/file/0646lo4cuztwvot/KFO-FP_Challenge_SibylComplex_BetaV00_WS.zip/file>
 
-#### West London FPC
+#### [West London FPC][ret]
 
 * KFO-FPChallenge_WestLondon_V00_WS.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=259585957>
-* D/L - <http://www.mediafire.com/download/c6w4n2m53e019q2/KFO-FPChallenge_WestLondon_V00_WS.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=259585957>
+* D/L - <https://www.mediafire.com/file/c6w4n2m53e019q2/KFO-FPChallenge_WestLondon_V00_WS.zip/file>
 
-#### Wyre FPC
+#### [Wyre FPC][ret]
 
 * KFO-FPC_Wyre_ws.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=359680054>
-* D/L - <http://www.mediafire.com/download/g8n644eqg89663n/KFO-FPC_Wyre_ws.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=359680054>
+* D/L - <https://www.mediafire.com/file/g8n644eqg89663n/KFO-FPC_Wyre_ws.zip/file>
 
-#### [30 wave challenge]
+#### [30 wave challenge][ret]
 
 * Authors - *HIUFIGYO*
 
@@ -219,42 +224,42 @@
 
 ![IMG](https://i.imgur.com/tybAI21.png)
 
-#### Fright Yard 30WC
+#### [Fright Yard 30WC][ret]
 
 * KFO-FrightYard_30wavechallenge.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=299267623>
-* D/L - <http://www.mediafire.com/download/18epcoawl0opm3r/KFO-FrightYard_30wavechallenge.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=299267623>
+* D/L - <https://www.mediafire.com/file/18epcoawl0opm3r/KFO-FrightYard_30wavechallenge.zip/file>
 
-#### Hospital Horrors 30WC
+#### [Hospital Horrors 30WC][ret]
 
 * KFO-Hospitalhorrors_30wavechallenge.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=307472605>
-* D/L - <http://www.mediafire.com/download/hha8xv9f5em9t5m/KFO-Hospitalhorrors_30wavechallenge.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=307472605>
+* D/L - <https://www.mediafire.com/file/hha8xv9f5em9t5m/KFO-Hospitalhorrors_30wavechallenge.zip/file>
 
-#### Moonbase 30WC
+#### [Moonbase 30WC][ret]
 
 * KFO-MoonBase_30wavechallenge.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=302962518>
-* D/L - <http://www.mediafire.com/download/bcsd12qeiusgc8k/KFO-MoonBase_30wavechallenge.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=302962518>
+* D/L - <https://www.mediafire.com/file/bcsd12qeiusgc8k/KFO-MoonBase_30wavechallenge.zip/file>
 
-#### Station 30WC
+#### [Station 30WC][ret]
 
 * KFO-Station_30wavechallenge.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=330736115>
-* D/L - <http://www.mediafire.com/download/mokftfsm5am97ot/KFO-Station_30wavechallenge.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=330736115>
+* D/L - <https://www.mediafire.com/file/mokftfsm5am97ot/KFO-Station_30wavechallenge.zip/file>
 
-#### Steamland 30WC
+#### [Steamland 30WC][ret]
 
 * KFO-Steamland_30wavechallenge.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=290897621>
-* D/L - <http://www.mediafire.com/download/8dk08h1gj2eo24o/KFO-Steamland_30wavechallenge.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=290897621>
+* D/L - <https://www.mediafire.com/file/8dk08h1gj2eo24o/KFO-Steamland_30wavechallenge.zip/file>
 
-### [Run Kitty Run]
+### [Run Kitty Run][ret]
 
 * Authors - *Lethal_Vortex*
-* KFO-RunKittyRun_desertv3.rom.
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=299117328>
-* D/L - <http://www.mediafire.com/download/o6jtyr24w0p4rds/KFO-RunKittyRun_desertv3.zip>
+* KFO-RunKittyRun_desertv3.rom
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=299117328>
+* D/L - <https://www.mediafire.com/file/o6jtyr24w0p4rds/KFO-RunKittyRun_desertv3.zip/file>
 
 ![IMG](https://i.imgur.com/HnuDI4G.jpg)
 
@@ -262,10 +267,10 @@
 
 * Authors - *U.N.C.L.E.*
 * KFO-HellsFire.rom
-KFO-HellsFire-Expert.rom
-KFO-HellsFire-Novice.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=639953551>
-* D/L - <http://www.mediafire.com/download/4n3l4rbm7t668vv/KFO-HellsFire.zip>
+* KFO-HellsFire-Expert.rom
+* KFO-HellsFire-Novice.rom
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=639953551>
+* D/L - <https://www.mediafire.com/file/4n3l4rbm7t668vv/KFO-HellsFire.zip/file>
 
 ![IMG](https://i.imgur.com/II6lo7t.jpg)
 ![IMG](https://i.imgur.com/aBqXj01.jpg)
@@ -274,9 +279,9 @@ KFO-HellsFire-Novice.rom
 
 * Authors - *Fire*
 * KFO-BossArena.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=290037556>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=101067>
-* D/L - <http://www.mediafire.com/download/c1b879126qzabpo/KFO-BossArena.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=290037556>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-bossarena.103455/>
+* D/L - <https://www.mediafire.com/file/c1b879126qzabpo/KFO-BossArena.zip/file>
 
 ![IMG](https://i.imgur.com/efZI7zS.jpg)
 
@@ -285,14 +290,14 @@ KFO-HellsFire-Novice.rom
 * Authors - *SveN*
 * KFO-BossArenaUnlimitedDosh.rom
 * Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=844040753>
-* D/L - <http://www.mediafire.com/file/509eqcqsdjrcls3/KFO-BossArenaUnlimitedDosh.zip>
+* D/L - <https://www.mediafire.com/file/509eqcqsdjrcls3/KFO-BossArenaUnlimitedDosh.zip/file>
 
 ### [Lerwick Wonder][ret]
 
 * Authors - *PiX*
 * KFO-LerwickWonder-beta1f.rom
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=70674>
-* D/L - <http://www.mediafire.com/download/1y74cxnpewqa88x/KFO-LerwickWonder-beta1f.zip>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kf-lerwickwonder-beta1.72326/>
+* D/L - <https://www.mediafire.com/file/1y74cxnpewqa88x/KFO-LerwickWonder-beta1f.zip/file>
 
 ![IMG](https://i.imgur.com/CJSjTLJ.jpg)
 ![IMG](https://i.imgur.com/aHNOaqJ.jpg)
@@ -301,10 +306,10 @@ KFO-HellsFire-Novice.rom
 
 * Authors - *Mr.RoBoT & Marco*
 * KFO-Haunted-Hotel.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=188440184>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=96038>
-* ModDb - <http://www.moddb.com/games/killing-floor/addons/kfo-haunted-hotel>
-* D/L - <http://www.mediafire.com/download/get97w6j877az2m/KFO-Haunted-Hotel.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=188440184>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-haunted-hotel.98304/>
+* ModDb - <https://www.moddb.com/games/killing-floor/addons/kfo-haunted-hotel>
+* D/L - <https://www.mediafire.com/file/get97w6j877az2m/KFO-Haunted-Hotel.zip/file>
 
 ![IMG](https://i.imgur.com/85KmqYq.jpg)
 
@@ -314,8 +319,8 @@ KFO-HellsFire-Novice.rom
 * KFO-BioticsLab-challenge-endless.rom
 KFO-Biohazard-challenge-endless.rom
 KFO-EvilSantasLair-challenge-endless.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=186611598>
-* D/L - <http://www.mediafire.com/download/og1qs9ozliwlshw/Endless+Map+Pack.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=186611598>
+* D/L - <https://www.mediafire.com/file/og1qs9ozliwlshw/Endless+Map+Pack.zip/file>
 
 ![IMG](https://i.imgur.com/Cvzxdyo.jpg)
 ![IMG](https://i.imgur.com/O6rXGjw.jpg)
@@ -325,8 +330,8 @@ KFO-EvilSantasLair-challenge-endless.rom
 
 * Authors - *Fel*
 * KFO-ContainmentStationBETA.rom
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=93599>
-* D/L - <http://www.mediafire.com/download/9ux55vonb3at50t/KFO-ContainmentStationBETA.zip>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-containmentstation-beta.95803/>
+* D/L - <https://www.mediafire.com/file/9ux55vonb3at50t/KFO-ContainmentStationBETA.zip/file>
 
 ![IMG](https://i.imgur.com/MdCU6tB.jpg)
 
@@ -334,11 +339,9 @@ KFO-EvilSantasLair-challenge-endless.rom
 
 * Authors - *KF_Alex*
 * KFO-SnuffMonkey.rom
-* Workshop - <http://steamcommunity.com/sharedfiles/filedetails/?id=171724782>
-* Forum - <http://forums.tripwireinteractive.com/showthread.php?t=95222>
-* D/L - <http://www.mediafire.com/download/i4hchfya3d7a5zk/KFO-SnuffMonkey.zip>
+* Workshop - <https://steamcommunity.com/sharedfiles/filedetails/?id=171724782>
+* Forum - <https://forums.tripwireinteractive.com/index.php?threads/kfo-snuff.97442/>
+* D/L - <https://www.mediafire.com/file/i4hchfya3d7a5zk/KFO-SnuffMonkey.zip/file>
 
 ![IMG](https://i.imgur.com/zwBY8v1.jpg)
 ![IMG](https://i.imgur.com/gLa2K4o.jpg)
-
-[ret]: #Map-List 'return to map list'
