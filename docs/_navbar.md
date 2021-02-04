@@ -1,3 +1,4 @@
-* Localisation
-  * En
-  * Ru
+- Localisation
+
+  - :uk: English
+  - :ru: Russian

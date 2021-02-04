@@ -1,4 +1,4 @@
-[CustomSpawnFix]: <https://forums.tripwireinteractive.com/index.php?threads/mutator-customspawnfix.102956/> 'исправляет коды зедов в scripted triggers на старых картых'
+[CustomSpawnFix]: <https://forums.tripwireinteractive.com/index.php?threads/mutator-customspawnfix.102956/> 'исправляет коды зедов в scripted triggers на старых картах'
 
 [ScrnStoryGame]: <https://www.mediafire.com/file/sf1rm5e688dp9jt/ScrnStoryGame.zip/file>
 [KFChaingunTurret]: <https://www.mediafire.com/file/a0t0ypyd5wbbprt/KFChaingunTurret.zip/file>
@@ -9,12 +9,10 @@
 [NetReduce]: <https://forums.tripwireinteractive.com/index.php?threads/utility-de-serverpackage-listing.103071/> 'хак хаков чтобы понизить количество используемых игрой пакетов'
 [NetReduceSE]: <https://steamcommunity.com/groups/ScrNBalance/discussions/6/610575007209675730/> 'то же самое но с конфигом'
 
-[DMN666]: https://forums.tripwireinteractive.com/index.php?members/dmn666.51275/
-[NikC-]: https://steamcommunity.com/id/NikC-/
+[DMN666]: <https://forums.tripwireinteractive.com/index.php?members/dmn666.51275/>
+[atagene]: <https://www.deviantart.com/atagene>
 
-POWERED BY DOCSIFY :adult: !!!! <https://shtoyan.github.io/KFStory/>
-
-Список карт **большой**, вы можете наткнуться на ошибки, не найти нужную карту и тп, и тд. Если увидите такое, пожалуйста напишите мне в ПМ: [NikC-]
+Список карт **большой**, вы можете наткнуться на ошибки, не найти нужную карту и тп, и тд. Для обратной связи предпочтительнее [Github Issues](https://github.com/Shtoyan/KFStory/issues) или в [PM KF.ru](http://killingfloor.ru/xforum/members/wipemaster.8929/).
 
 * Для специальных случаев есть секции Notes. Например когда нужен [CustomSpawnFix] (Спасибо Tripwire за то, что поменяли коды мобов и поломали старые карты) или когда есть встроенные серые (greylisted) скрипты.
 * Если увидите эти пакеты в архивах, логах и тп, то знайте что они белые (whitelisted).
@@ -44,27 +42,6 @@ POWERED BY DOCSIFY :adult: !!!! <https://shtoyan.github.io/KFStory/>
 
 ## Credits
 
-Огромное спасибо [DMN666] за его посты и позволение использовать их для стартовой точки для меня. Без него этой темы не было бы.
+[DMN666]: за его посты и позволение использовать их для стартовой точки для меня. Без него этой темы не было бы.
 
-## Progress
-
-* [x] Aliens.
-* [x] Dead Space.
-* [x] Glass House.
-* [x] Gun Game.
-* [x] KF Mode.
-* [x] KF Objective.
-* [x] Тesting Mode.
-* [x] Toy Master.
-* [x] Trials.
-* [x] Map List.
-
-## To-Do
-
-* [ ] KF mod mission.
-* [ ] Story карты - fucked up by TWI.
-* [ ] Doom mod / screenshots.
-* [ ] Vehicle mod.
-* [ ] Добавить Trials карты от lethalvortex.
-* [ ] Снова протестировать все карты и добавить обратно ярлыки [CustomSpawnFix]...
-* [ ] Добавить бекап на новый файловый хостинг.
+[atagene]: за прекрасное [лого](https://www.deviantart.com/atagene/art/Killing-Floor-Text-522558359).

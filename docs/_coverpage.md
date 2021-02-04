@@ -1,9 +1,6 @@
-![logo](_mediaicon.svg)
+![img](_media/logo.png)
 
-# coverpage placeholder
+# **Story Gametypes and Maps**
 
- A magical documentation site generator.
-
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+[GitHub](https://github.com/Shtoyan/KFStory)
+[Get Started](README)
