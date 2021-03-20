@@ -12,7 +12,7 @@
 [DMN666]: <https://forums.tripwireinteractive.com/index.php?members/dmn666.51275/>
 [atagene]: <https://www.deviantart.com/atagene>
 
-Список карт **большой**, вы можете наткнуться на ошибки, не найти нужную карту и тп, и тд. Для обратной связи предпочтительнее [Github Issues](https://github.com/Shtoyan/KFStory/issues) или в [PM KF.ru](http://killingfloor.ru/xforum/members/wipemaster.8929/).
+Список карт **большой**, вы можете наткнуться на ошибки, не найти нужную карту и тп, и тд. Для обратной связи предпочтительнее [Github Issues](https://github.com/Insulting-Pros/KFStory/issues) или в [PM KF.ru](http://killingfloor.ru/xforum/members/wipemaster.8929/).
 
 * Для специальных случаев есть секции Notes. Например когда нужен [CustomSpawnFix] (Спасибо Tripwire за то, что поменяли коды мобов и поломали старые карты) или когда есть встроенные серые (greylisted) скрипты.
 * Если увидите эти пакеты в архивах, логах и тп, то знайте что они белые (whitelisted).
