@@ -1,3 +1,8 @@
+## [2021.06.29] Imgur links
+
+* All Imgur links are removed.
+* New main README.
+
 ## [2021.02.04] Docsify
 
 * Переименовал репозиторий в **KFStory**.
