@@ -13,7 +13,7 @@ Game=TrialsMod.TrialGame
   * TR-PowerGenerator-M.rom
   * TR-Sulferon.rom
   * TR-BeatTrials.rom
-* Ссылки - [Mediafire](<https://www.mediafire.com/file/hd5eo4e233afbew/TrialsMod_Full.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gametype-trials-mod.103311/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/hd5eo4e233afbew/TrialsMod_Full.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gametype-trials-mod.103311/>)
 
 ![IMG](./_images/tr_Tutorial.jpeg ':size=300')
 ![IMG](./_images/tr_PowerGenerator.jpeg ':size=300')
@@ -25,6 +25,6 @@ Game=TrialsMod.TrialGame
 
 * Authors - *Marco*
 * TR-Construct.rom
-* Ссылки - [Mediafire](<https://www.mediafire.com/file/0sd9yz4v7wxibwz/TR-Construct.zip/file>)
+* Links - [Mediafire](<https://www.mediafire.com/file/0sd9yz4v7wxibwz/TR-Construct.zip/file>)
 
 ![IMG](./_images/tr_Construct.jpeg ':size=300')
