@@ -4,6 +4,7 @@
 [CustomSpawnFix]: <https://forums.tripwireinteractive.com/index.php?threads/mutator-customspawnfix.102956/> 'fixes zed classes in old maps scripted triggers'
 
 [ScrnStoryGame]: <https://www.mediafire.com/file/sf1rm5e688dp9jt/ScrnStoryGame.zip/file>
+[FoundryObj]: <https://www.mediafire.com/file/6tpf11xsf7p9bg9/FoundryObj.zip/file>
 [KFChaingunTurret]: <https://www.mediafire.com/file/a0t0ypyd5wbbprt/KFChaingunTurret.zip/file>
 [Fall_TriggerPack]: <https://www.mediafire.com/file/iyqot9pefdfcub3/Fall_TriggerPack.zip/file>
 [KFGasCan]: <https://www.mediafire.com/file/p0d5acpbcunk7sw/KFGasCan.zip/file>
@@ -36,6 +37,7 @@ I adore **Killing Floor 1** story maps and greatly respect all the work, time th
 * Always keep [CustomSpawnFix] around, it will help greatly if you have invisible zeds. Thanks Tripwire for renaming zed classes in latest patches and breaking old story maps.
 * These packages are **Whitelisted**, if you see them don't worry:
   * [ScrnStoryGame] - adds many and many additional scripts, npc support, dialoges, etc.
+  * [FoundryObj] - a bit more scripts ^.
   * [KFChaingunTurret] - a usable gatling gun.
   * [Fall_TriggerPack] - one of the oldest ones around, has few usefull triggers.
   * [KFGasCan] - gas can and related scripts.
