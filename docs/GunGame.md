@@ -45,6 +45,14 @@ Game=iSnipe.KFGG
 
 ![IMG](./_images/gg_ISnipe.jpeg ':size=300')
 
+## Space and Watermelons
+
+* Authors - *no7sag*
+* GG-SpaceAndWatermelons.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/wy8vgauwf8d4vn4/GG-SpaceAndWatermelons.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=1322418475>)
+
+![IMG](./_images/gg_SpaceAndWatermelons.jpeg ':size=300')
+
 ## Vortex
 
 * Authors - *PiX*
