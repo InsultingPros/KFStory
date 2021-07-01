@@ -298,6 +298,12 @@ Game=KFStoryGame.KFStoryGameInfo
 ![IMG](./_images/kfo_LerwickWonder1.jpeg ':size=300')
 ![IMG](./_images/kfo_LerwickWonder2.jpeg ':size=300')
 
+## Lerwick Wonder Lazy Fix
+
+* Authors - *PiX & Holy Username Batman!*
+* KFO-LerwickWonder-LazyFix.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/7cd6lfi4jwbmie2/KFO-LerwickWonder-LazyFix.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=2274319712>)
+
 ## Manufractured
 
 * Authors - *Smiff*
