@@ -68,6 +68,7 @@
 * Authors - *PiX*
 * KF-OldeTower-beta2b.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/0khcnrl6pf7da1f/KF-OldeTower-beta2b.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-oldetower-beta2b.46946/>)
+* Notes - I put this version coz it differs a bit from newer version and people still play it.
 
 ## Story Map in 24h
 

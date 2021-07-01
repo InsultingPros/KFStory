@@ -4,6 +4,15 @@
 * Added lot's of additional info.
 * All Imgur links are removed.
 * New main README.
+* New file naming scheme.
+* Maps Added:
+  * KFO Lerwick Wonders Lazy Fix.
+  * KFO Hive Silent Hill.
+  * GG Space and Watermelons.
+  * KF Olde Tower Beta 2.
+* Maps Updated:
+  * KF Road to Perdition STD fix.
+  * KF New Haven fix.
 
 ## [2021.02.04] Docsify
 

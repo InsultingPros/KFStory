@@ -13,7 +13,7 @@
 [NetReduce]: <https://forums.tripwireinteractive.com/index.php?threads/utility-de-serverpackage-listing.103071/> 'hack of ol hacks to reduce serverpackage size'
 [NetReduceSE]: <https://steamcommunity.com/groups/ScrNBalance/discussions/6/610575007209675730/> 'same thing but with config file'
 
-[DMN666]: <https://forums.tripwireinteractive.com/index.php?members/dmn666.51275/>
+[DMN666]: <http://steamcommunity.com/profiles/76561198058194020>
 [atagene]: <https://www.deviantart.com/atagene>
 
 !> Map lists are **HUGE**, I've spent many days sorting files, creating categories and filling all the information at right spots. So there can be some typos, missing maps and disinformation. If you find any please contact me: [Github Issues] or [KillingFloor.ru PM].
@@ -34,15 +34,6 @@ I adore **Killing Floor 1** story maps and greatly respect all the work, time th
   * **Links**: starting from DL then Workshop, Forum, ModDb, Site, if there are any.
   * **Notes**: a special section for greylisted maps or when I need to warn you about gamebreaking stuff / [CustomSpawnFix].
   * **Clickable screenshots**: to easily recognize the maps.
-* Always keep [CustomSpawnFix] around, it will help greatly if you have invisible zeds. Thanks Tripwire for renaming zed classes in latest patches and breaking old story maps.
-* These packages are **Whitelisted**, if you see them don't worry:
-  * [ScrnStoryGame] - adds many and many additional scripts, npc support, dialoges, etc.
-  * [FoundryObj] - a bit more scripts ^.
-  * [KFChaingunTurret] - a usable gatling gun.
-  * [Fall_TriggerPack] - one of the oldest ones around, has few usefull triggers.
-  * [KFGasCan] - gas can and related scripts.
-  * [clientmaterialtrigger] - allows to change materials for clients.
-* Avoid [NetReduce] and [NetReduceSE] at all costs, or you will get broken spawns, pickups, missing keys, switches, etc etc.
 
 Some maps can work in KFO mode if you rename their prefix, aka `KF- / KFS- / TOY-` to `KFO-`.
 
@@ -60,10 +51,25 @@ Some maps can work in KFO mode if you rename their prefix, aka `KF- / KFS- / TOY
 * TOY-DevilsDollhouse-FixV3
 * can be more, test yourself if you want.
 
+## Map Packages
+
+!> Always keep [CustomSpawnFix] around, it will help greatly if you have invisible zeds. Thanks Tripwire for renaming zed classes in latest patches and breaking old story maps.
+
+!> Avoid [NetReduce] and [NetReduceSE] at all costs, or you will get broken spawns, pickups, missing keys, switches, etc etc.
+
+These packages are **Whitelisted**, if you see them don't worry:
+
+* [ScrnStoryGame] - adds many and many additional scripts, npc support, dialoges, etc.
+* [FoundryObj] - a bit more scripts ^.
+* [KFChaingunTurret] - a usable gatling gun.
+* [Fall_TriggerPack] - one of the oldest ones around, has few usefull triggers.
+* [KFGasCan] - gas can and related scripts.
+* [clientmaterialtrigger] - allows to change materials for clients.
+
 ## Credits
 
-**[DMN666]**: his original [thread](https://forums.tripwireinteractive.com/index.php?threads/kf-game-modes-and-maps.101777/) helped me a lot when I started this project. Without him this thread wouldnt exist.
+**[DMN666]**: his original [thread](https://forums.tripwireinteractive.com/index.php?threads/kf-game-modes-and-maps.101777/) helped me a lot when I started this project. Without him this thread wouldn't exist.
 
 **KillingFloor.ru** and staff: this forum was a great host for my initial [thread](http://killingfloor.ru/xforum/threads/kf-story-gametypes-i-karty-k-nim.4219/).
 
-**[atagene]**: thanks for a nice [лого](https://www.deviantart.com/atagene/art/Killing-Floor-Text-522558359)!
+**[atagene]**: thanks for a nice [logo](https://www.deviantart.com/atagene/art/Killing-Floor-Text-522558359)!
