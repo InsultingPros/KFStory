@@ -65,6 +65,14 @@ Game=KFStoryGame.KFStoryGameInfo
 ![IMG](./_images/kfo_endless_Biohazard.jpeg ':size=300')
 ![IMG](./_images/kfo_endless_EvilSantasLair.jpeg ':size=300')
 
+## Hive Silent Hill
+
+* Authors - *Crondog8*
+* KFO-Hive-SilentHill_v1_0.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/f9dn6m3g84aa3qe/KFO-Hive-SilentHill_v1_0.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=1412850520>)
+
+![IMG](./_images/kfo_Hive_SilentHill.jpeg ':size=300')
+
 ## Foundry
 
 * Authors - *Poosh*
