@@ -55,13 +55,19 @@
 ![IMG](./_images/kf_Candlesmoke1.jpeg ':size=300')
 ![IMG](./_images/kf_Candlesmoke2.jpeg ':size=300')
 
-## OldeTower v3
+## OldeTower Beta 3
 
 * Authors - *PiX*
 * KF-OldeTower-beta3.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/5sitxn0nmwf4ca3/KF-OldeTower-beta3.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=263729647>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-oldetower-beta3.47772/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-oldetower-beta3>)
 
 ![IMG](./_images/kf_OldeTower.jpeg ':size=300')
+
+## OldeTower Beta 2
+
+* Authors - *PiX*
+* KF-OldeTower-beta2b.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/0khcnrl6pf7da1f/KF-OldeTower-beta2b.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-oldetower-beta2b.46946/>)
 
 ## Story Map in 24h
 
