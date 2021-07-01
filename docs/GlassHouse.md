@@ -1,10 +1,10 @@
 [Alex Quick]: <https://steamcommunity.com/profiles/76561197968508560> 'KF_Alex'
 
-Еще один отличный мод от [Alex Quick]. Классический tower defender + pvp.
+!> Too many 3D fragments from buildings can **crash** the game. This is an engine limitation, can't do much about it, so try not to spam.
 
-**N.B.** слишком большое количество 3D фрагментов от зданий, взрывов могут **крашнуть** игру. Увы, ограничение движка.
+Yet another great mod from [Alex Quick]. A classic tower defender + pvp.
 
-Командная строка для выделенки:
+Cmdline for dedicated servers:
 
 ```clike
 Game=Glassmutator.GlasshouseGameInfo

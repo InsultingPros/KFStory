@@ -1,10 +1,10 @@
-[Hot Fix]: <https://www.mediafire.com/file/et7dwjasj46xaec/AliensHotFix.zip/file> 'исправь меня!'
+[Hot Fix]: <https://www.mediafire.com/file/et7dwjasj46xaec/AliensHotFix.zip/file> 'FIX ME!'
 
-> Если есть проблемы, устанавливайте [Hot Fix].
+!> If you have any issues install the [Hot Fix].
 
-Гигеровские монстры пришли и в KF. Не рекомендуется играть на высоких сложностях и, особенно, с маленькой командой.
+Giger's creatures came to have some fun in KF. Recommended to play on medium game difficulties and full team.
 
-Командная строка для выделенки:
+Cmdline for dedicated servers:
 
 ```clike
 Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFServerPerksMut,AliensKFXenos.MutAliensPath,AliensKFExtra.AKFDetailMut

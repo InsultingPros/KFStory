@@ -1,11 +1,9 @@
-* **Титульный лист**
-
+* **Title page**
   * [Welcome](README.md)
   * [To Do](_todo.md)
   * [Changelog](_Changelog.md)
 
-* **Содержание**
-
+* **Content**
   * [**Aliens**](Aliens.md)
   * [**Dead Space**](DeadSpace.md)
   * [**Glass House**](GlassHouse.md)

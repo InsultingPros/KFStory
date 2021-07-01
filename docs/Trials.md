@@ -1,6 +1,6 @@
-Режимы из старого, доброго Unreal.
+A fun mode from UT2k4.
 
-Командная строка для выделенки:
+Cmdline for dedicated servers:
 
 ```clike
 Game=TrialsMod.TrialGame

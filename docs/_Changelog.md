@@ -1,5 +1,7 @@
-## [2021.06.29] Imgur links
+## [2021.07.01] Imgur links
 
+* Translated into English.
+* Added lot's of additional info.
 * All Imgur links are removed.
 * New main README.
 

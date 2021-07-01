@@ -1,9 +1,9 @@
-Официальный PvP режим от TWI. Мин и макс количество игроков можно настраивать.
+Official PvP mode by TWI. You can set min and max player counts / use [bots mutator](https://forums.tripwireinteractive.com/index.php?threads/mutator-kf-bots.44969/).
 
-* Long Gun Game добавляет оружие из DLC.
-* iSnipe дает игрокам только M99.
+* Long Gun Game adds DLC weapons.
+* iSnipe gives only M99.
 
-Командная строка для выделенки:
+Cmdline for dedicated servers:
 
 ```clike
 Game=KFGunGame.KFGG?MaxPlayers=32?MinPlayers=8

@@ -1,4 +1,6 @@
-Можно тренироваться, экспериментировать с разным оружием. И главное никто не будет кикать :cool:. Будут перечислены только работающие, серые карты. А те, что используются для читинга, идут лесом.
+!> All powerleveling and broken maps are ignored.
+
+These kind of maps allow you to easily train against any zed you want, let it be a scrake, double fleshpounds, patriarch, etc. Or try different weapon combos. This greatly saves your time and allows not to waste 1000h in pubs to understand how basic stuff works in game.
 
 ## The Test Map v2
 

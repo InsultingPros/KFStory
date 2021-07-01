@@ -1,5 +1,5 @@
-* Карты старые, будьте готовы ко всяким багам.
-* Многие из них имеют модифицированные спавны / инвентарь. Если у вас начинает вылетать, в первую очередь пеняйте на мутаторы.
+* Maps are pretty old, so prepare for many bugs.
+* Most of them modify spawns, inventory, so try to use only crucial mutators. Else **crash** possibility will be high.
 
 ## New Haven
 
@@ -109,7 +109,7 @@
 
 * Authors - *KiCk3R*
 * KF-TheHiveV3Beta.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/u2vttt76ok0ranb/KF-TheHiveV3Beta.zip/file/>), [Workshop](<https://forums.tripwireinteractive.com/index.php?threads/kf-thehivev3.45029/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/the-hive.30714/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/u2vttt76ok0ranb/KF-TheHiveV3Beta.zip/file/>), [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=123976031), [Forum #1](<https://forums.tripwireinteractive.com/index.php?threads/kf-thehivev3.45029/>), [Forum #2](<https://forums.tripwireinteractive.com/index.php?threads/the-hive.30714/>)
 
 ![IMG](./_images/kf_HiveV3_1.jpeg ':size=300')
 ![IMG](./_images/kf_HiveV3_2.jpeg ':size=300')

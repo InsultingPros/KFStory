@@ -1,11 +1,11 @@
 [Alex Quick]: <https://steamcommunity.com/profiles/76561197968508560> 'KF_Alex'
 [Music downloader]: <https://forums.tripwireinteractive.com/index.php?threads/mutator-music-downloader.101249/> 'music downloader'
 
-Последний подарок игрокам от [Alex Quick]. Оригинал однако забагованный и не сбалансированный. Сразу устанавливайте [Fix](#Toy-Master-Fix) поверх мода, берегите нервы.
+!> If you are a server owner, double check if you are distributing **Karma** files with **[Music downloader]**. Or ask your clients to manually install them. Else they will **crash** in 100% cases.
 
-* ЕСЛИ у вас сервер, десять раз проверьте что вы раздаете **Karma** файлы с помощью [Music downloader], или попросите своих клиентов самостоятельно установить их. В противном случае они будут **крашаться**.
+Last gift from [Alex Quick]. Keep in mind that original is bugged and unbalanced, install the [Fix](#Toy-Master-Fix) on top of it, save your nerves.
 
-Командная строка для выделенки:
+Cmdline for dedicated servers:
 
 ```clike
 Game=KFCharPuppets.TOYGameInfo

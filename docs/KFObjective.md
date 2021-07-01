@@ -1,10 +1,10 @@
 [Alex Quick]: <https://steamcommunity.com/profiles/76561197968508560> 'KF_Alex'
 
-Оффициальный режим который был с самого начала адаптирован для создания story карт. Вырос из очередной [модификации](<https://forums.tripwireinteractive.com/index.php?threads/story-mode-gametype.79469/>) создателя Killing Floor [Alex Quick].
+!> Maps that are converted from `story / mission` will be only in this section. To keep it simple and clean.
 
-* Карты, которые конвертированы в KFO из story / mission силами своих создателей, будут только в этом разделе.
+Official mode that was creating especially to power story maps. It grew up from [Alex Quick]'s [modification](<https://forums.tripwireinteractive.com/index.php?threads/story-mode-gametype.79469/>).
 
-Командная строка для выделенки:
+Cmdline for dedicated servers:
 
 ```clike
 Game=KFStoryGame.KFStoryGameInfo
@@ -53,13 +53,17 @@ Game=KFStoryGame.KFStoryGameInfo
 ![IMG](./_images/kfo_SnuffMonkey1.jpeg ':size=300')
 ![IMG](./_images/kfo_SnuffMonkey2.jpeg ':size=300')
 
-## Manufractured
+## Endless Map Pack
 
-* Authors - *Smiff*
-* KFO-ManufracturedB2.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/c06evi565timp12/KFO-ManufracturedB2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=172817252>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-manufracturedb1.97098/>)
+* Authors - *oiruka101*
+  * KFO-BioticsLab-challenge-endless.rom
+  * KFO-Biohazard-challenge-endless.rom
+  * KFO-EvilSantasLair-challenge-endless.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/og1qs9ozliwlshw/Endless+Map+Pack.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=186611598>)
 
-![IMG](./_images/kfo_Manufractured.png ':size=300')
+![IMG](./_images/kfo_endless_BioticsLab.jpeg ':size=300')
+![IMG](./_images/kfo_endless_Biohazard.jpeg ':size=300')
+![IMG](./_images/kfo_endless_EvilSantasLair.jpeg ':size=300')
 
 ## Foundry
 
@@ -286,17 +290,13 @@ Game=KFStoryGame.KFStoryGameInfo
 ![IMG](./_images/kfo_LerwickWonder1.jpeg ':size=300')
 ![IMG](./_images/kfo_LerwickWonder2.jpeg ':size=300')
 
-## Endless Map Pack
+## Manufractured
 
-* Authors - *oiruka101*
-  * KFO-BioticsLab-challenge-endless.rom
-  * KFO-Biohazard-challenge-endless.rom
-  * KFO-EvilSantasLair-challenge-endless.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/og1qs9ozliwlshw/Endless+Map+Pack.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=186611598>)
+* Authors - *Smiff*
+* KFO-ManufracturedB2.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/c06evi565timp12/KFO-ManufracturedB2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=172817252>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-manufracturedb1.97098/>)
 
-![IMG](./_images/kfo_endless_BioticsLab.jpeg ':size=300')
-![IMG](./_images/kfo_endless_Biohazard.jpeg ':size=300')
-![IMG](./_images/kfo_endless_EvilSantasLair.jpeg ':size=300')
+![IMG](./_images/kfo_Manufractured.png ':size=300')
 
 ## Containment Station (Solo)
 
