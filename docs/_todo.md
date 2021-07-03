@@ -1,10 +1,9 @@
-* [ ] High Res скриншоты.
-* [ ] Локализация для En.
+* [ ] RU localization.
 * [ ] KF mod mission.
-* [ ] Story карты - fucked up by TWI.
-* [ ] Doom mod / screenshots.
+* [ ] KFS maps - fucked up by TWI.
+* [ ] Doom mod.
 * [ ] Vehicle mod.
-* [ ] Добавить Trials карты от lethalvortex.
+* [ ] Trials maps from lethalvortex.
 * [ ] Снова протестировать все карты и добавить обратно ярлыки **CustomSpawnFix**...
 * [x] Aliens.
 * [x] Dead Space.

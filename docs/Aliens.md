@@ -10,7 +10,7 @@ Cmdline for dedicated servers:
 Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFServerPerksMut,AliensKFXenos.MutAliensPath,AliensKFExtra.AKFDetailMut
 ```
 
-## Aliens Base Mod
+## Aliens v1.2
 
 * Authors - *WPC*
 * Links - [Mediafire](<https://www.mediafire.com/file/oofcx160f84xis7/AliensV1.2.zip/file>), [Workshop](<https://steamcommunity.com/workshop/filedetails/?id=111934166>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/mod-aliens-killingfloor.83344/>), [ModDb](<https://www.moddb.com/mods/aliens-killing-floor>), [Site](<http://www.mostimpressive.nl/AKF/>)

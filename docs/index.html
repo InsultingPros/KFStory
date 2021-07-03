@@ -85,18 +85,6 @@
       --badge-color: #fea81f;
       --badge-letter: "C";
     }
-    /* Formatting for Lua types. */
-    .lua-type {
-      border-radius: 0.1em;
-      border: 1px solid rgba(127, 127, 127, 0.4);
-      font-variant: small-caps;
-      margin: var(--code-inline-margin);
-      padding-top: 0;
-      padding: var(--code-inline-padding, 0.15em 0.3em);
-    }
-    .lua-type.optional {
-      font-style: oblique;
-    }
     /* Change the formatting of code in headers. */
     .markdown-section h1 code,
     .markdown-section h2 code,
@@ -143,7 +131,8 @@
         '/.*/_sidebar.md': '/_sidebar.md',
         '/.*/_navbar.md': '/_navbar.md',
       },
-      coverpage: window.localStorage.hideCoverpage !== 'true',
+      // logo: './_media/logo.png',
+      coverpage: false,
       // mergeNavbar: true,
       relativePath: true,
       executeScript: true,
@@ -169,6 +158,31 @@
       // Plugins
       // -----------------------------------------------------------------
       plugins: [
+        // Add a footer with actions.
+        function(hook, vm) {
+          hook.beforeEach(function (markdown) {
+            var file  = vm.route.file;
+            var URL_Edit = 'https://github.com/InsultingPros/KFStory/edit/main/docs/' + file;
+            var URL_Discuss = 'https://github.com/InsultingPros/KFStory/discussions/new';
+            var licenseBadge
+            = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">'
+            +   '<img style="vertical-align:middle" width="100" alt="Creative Commons License" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png" />'
+            + '</a>';
+
+            var footerHtml = [
+              '<a href="' + URL_Edit  + '" target="_blank" class="no-out-arrow">📝 Edit</a>',
+              '<a href="' + URL_Discuss + '" target="_blank" class="no-out-arrow">💬 Discuss</a>',
+              // 'Last modified: _{docsify-updated}_\n', // Doesn't work with the wiki as the basePath
+              licenseBadge,
+            ];
+            return (
+                markdown
+              + '\n\n----\n' // hr
+              + footerHtml.join(' —\n')
+            );
+          });
+        },
+
         // Power the theme switcher
         function (hook, vm) {
           hook.doneEach(function () {
@@ -178,15 +192,28 @@
             };
           });
         },
-        // Power the splash hider.
+
+        // Badges and types.
         function (hook, vm) {
+          var isCallback = RegExp('^on_|^update$');
+          var isFunction = RegExp('^KFStory:|^(?:get|new)_mod$');
+
+          // Add a badge to a code element, depending on its contents.
+          var addBadge = function (element) {
+            var textContent = element.textContent;
+            element.classList.add(
+              'badge',
+              isFunction.test(textContent) ? 'function' :
+              isCallback.test(textContent) ? 'callback' :
+              /* else */                     'property'
+            );
+          };
+
+          // Add the badges to the sidebar (must be done here).
           hook.doneEach(function () {
-            var checkbox = Docsify.dom.find('#hide-coverpage');
-            if (!checkbox) return;
-            checkbox.onclick = function (e) {
-              window.localStorage.hideCoverpage = checkbox.checked;
-              location.reload(); // Kludge to hide the cover page.
-            };
+            document.querySelectorAll('li > a.section-link > code').forEach(addBadge);
+            // Uncomment the next line to add badges to headers.
+            //document.querySelectorAll('a.anchor > span > code').forEach(addBadge);
           });
         },
       ],

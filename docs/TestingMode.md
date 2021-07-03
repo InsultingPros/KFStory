@@ -1,6 +1,6 @@
-!> All powerleveling and broken maps are ignored.
+!> All power leveling and broken maps are ignored. I'm not sorry.
 
-These kind of maps allow you to easily train against any zed you want, let it be a scrake, double fleshpounds, patriarch, etc. Or try different weapon combos. This greatly saves your time and allows not to waste 1000h in pubs to understand how basic stuff works in game.
+These kind of maps allow you to easily train against any zed you want, let it be a Scrake, double Fleshpounds, Patriarch, etc. Or try different weapon combos. This greatly saves your time and allows not to waste 1000h in pubs to understand how basic stuff works in game.
 
 ## The Test Map v2
 

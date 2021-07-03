@@ -1,10 +1,12 @@
-## [2021.07.01] Imgur links
+## [2021.07.04] Big Update
 
+* Moved to CC BY 4.0 license.
 * Translated into English.
 * Added lot's of additional info.
 * All Imgur links are removed.
 * New main README.
 * New file naming scheme.
+* Added Toy Master v4.
 * Maps Added:
   * KFO Lerwick Wonders Lazy Fix.
   * KFO Hive Silent Hill.

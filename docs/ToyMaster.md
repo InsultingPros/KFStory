@@ -3,7 +3,9 @@
 
 !> If you are a server owner, double check if you are distributing **Karma** files with **[Music downloader]**. Or ask your clients to manually install them. Else they will **crash** in 100% cases.
 
-Last gift from [Alex Quick]. Keep in mind that original is bugged and unbalanced, install the [Fix](#Toy-Master-Fix) on top of it, save your nerves.
+!> Original version is bugged and unbalanced to hell. Install **EITHER** the [Fix V3](#Toy-Master-Fix-V3) **OR** the [Fix V4](#Toy-Master-Fix-V4) on top of it, save your nerves.
+
+In a free, add-on mod for Killing Floor, created by David Hensley (with help from Killing Floor originator, [Alex Quick]), you can fight off the bizarre and warped toys of someone's nightmare, that are hell-bent on finishing you off. All the standard Zeds are replaced with evil toys, set in the Devil's Dollhouse map ©
 
 Cmdline for dedicated servers:
 
@@ -20,7 +22,7 @@ Game=KFCharPuppets.TOYGameInfo
 
 ![IMG](./_images/toy_DevilsDollhouse.jpeg ':size=300')
 
-## Toy Master Fix
+## Toy Master Fix V3
 
 * Authors - *Skell*
 * TOY-DevilsDollhouse-FixV3.rom
@@ -28,3 +30,10 @@ Game=KFCharPuppets.TOYGameInfo
 * Notes - *Greylisted, [Music downloader]*
 
 ![IMG](./_images/toy_DevilsDollhouseFix.png ':size=300')
+
+## Toy Master Fix V4
+
+* Authors - *Skell*
+* TOY-DevilsDollhouse.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/ish48ujyff1mryc/Toy+Master+Fix+V4.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=1707277817>)
+* Notes - *Greylisted, [Music downloader]*. If you don't want to get a brain cancer, don't even check the workshop link.

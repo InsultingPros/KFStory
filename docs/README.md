@@ -18,24 +18,22 @@
 
 !> Map lists are **HUGE**, I've spent many days sorting files, creating categories and filling all the information at right spots. So there can be some typos, missing maps and disinformation. If you find any please contact me: [Github Issues] or [KillingFloor.ru PM].
 
-## About
-
-I adore **Killing Floor 1** story maps and greatly respect all the work, time that their authors put into their creations. So I aimed to create a place where everyone can easily find, compare, download and install any map in few clicks. Enjoy.
-
 ## General Info
 
+Ola! I adore **Killing Floor 1** story maps and greatly respect all the work, time that their authors put into their creations. So I aimed to create a place where everyone can easily find, compare, download and install any map in a few clicks. Enjoy.
+
 * Maps are categorized by gametypes (map prefixes).
-* Most usefull and not broken maps are on top of the list. Yeah I sorted them by my taste, v52.
+* Most useful and not broken maps are on top of the list. Yeah I sorted them by my taste, v52.
 * All downloaded archives have **redirect** (*.uz2) files in them. Don't thank me.
 * All list entries follow the same format:
   * **Title**: map name.
   * **Authors**: one or more.
   * **Map filename**: with prefix ofc.
   * **Links**: starting from DL then Workshop, Forum, ModDb, Site, if there are any.
-  * **Notes**: a special section for greylisted maps or when I need to warn you about gamebreaking stuff / [CustomSpawnFix].
+  * **Notes**: a special section for greylisted maps or when I need to warn you about game breaking stuff / [CustomSpawnFix].
   * **Clickable screenshots**: to easily recognize the maps.
 
-Some maps can work in KFO mode if you rename their prefix, aka `KF- / KFS- / TOY-` to `KFO-`.
+Some maps can work in [Objective mode](./KFObjective.md) if you rename their prefix, aka `KF- / KFS- / TOY-` to `KFO-`.
 
 * kf-Arcade-Mission-v2
 * KF-Hokuto_Ujou_Hagan_Ken_v2
@@ -49,7 +47,7 @@ Some maps can work in KFO mode if you rename their prefix, aka `KF- / KFS- / TOY
 * KF-TheHiveV3Beta
 * TOY-DevilsDollhouse
 * TOY-DevilsDollhouse-FixV3
-* can be more, test yourself if you want.
+* might be more, test yourself.
 
 ## Map Packages
 
@@ -59,10 +57,10 @@ Some maps can work in KFO mode if you rename their prefix, aka `KF- / KFS- / TOY
 
 These packages are **Whitelisted**, if you see them don't worry:
 
-* [ScrnStoryGame] - adds many and many additional scripts, npc support, dialoges, etc.
+* [ScrnStoryGame] - adds many and many additional scripts, npc support, dialogues, etc.
 * [FoundryObj] - a bit more scripts ^.
 * [KFChaingunTurret] - a usable gatling gun.
-* [Fall_TriggerPack] - one of the oldest ones around, has few usefull triggers.
+* [Fall_TriggerPack] - one of the oldest ones around, has few useful triggers.
 * [KFGasCan] - gas can and related scripts.
 * [clientmaterialtrigger] - allows to change materials for clients.
 

@@ -1,4 +1,4 @@
-A fun mode from UT2k4.
+This is a silly mod inspired by Trials in UT2004. It features objectives you have to go through, record speed runs, rankings based on speed runs, double / multi jumping support and dodging / walldodging support. By interface it is slightly like UT2004 Assault © [Marco](https://steamcommunity.com/profiles/76561197975509070/)
 
 Cmdline for dedicated servers:
 
@@ -6,7 +6,7 @@ Cmdline for dedicated servers:
 Game=TrialsMod.TrialGame
 ```
 
-## Trials Base Mod
+## Trials v1.0
 
 * Authors - *Marco*
   * TR-Tutorial.rom

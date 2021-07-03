@@ -1,8 +1,8 @@
 [Alex Quick]: <https://steamcommunity.com/profiles/76561197968508560> 'KF_Alex'
 
-!> Maps that are converted from `story / mission` will be only in this section. To keep it simple and clean.
+!> Maps that are converted from [Story mode](./KFMode.md) will be only in this section. To keep it simple and clean.
 
-Official mode that was creating especially to power story maps. It grew up from [Alex Quick]'s [modification](<https://forums.tripwireinteractive.com/index.php?threads/story-mode-gametype.79469/>).
+Official Objective mode by TWI. It grew up from [Alex Quick]'s [modification](<https://forums.tripwireinteractive.com/index.php?threads/story-mode-gametype.79469/>) that exclusively aimed to power story driven maps.
 
 Cmdline for dedicated servers:
 
@@ -182,7 +182,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-SoylentZed_Final_Solo_ws.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/2454898q4e2ne1o/KFO-SoylentZed_Final_Solo_ws.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=515857446>)
 
-## Fleshpound Challenge
+## **Fleshpound Challenge**
 
 * Authors - *GunsForBucks*
 
@@ -235,7 +235,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-FPC_Wyre_ws.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/g8n644eqg89663n/KFO-FPC_Wyre_ws.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=359680054>)
 
-## 30 wave challenge
+## **30 wave challenge**
 
 * Authors - *HIUFIGYO*
 

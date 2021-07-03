@@ -1,7 +1,9 @@
-Official PvP mode by TWI. You can set min and max player counts / use [bots mutator](https://forums.tripwireinteractive.com/index.php?threads/mutator-kf-bots.44969/).
+Official deathmatch by TWI, very similar to Battlefield's [gun master](https://battlefield.fandom.com/wiki/Gun_Master) mode - every kill instantly gets you the next weapon in the list. Be the first player to get a kill with every weapon on the list to win!
 
-* Long Gun Game adds DLC weapons.
-* iSnipe gives only M99.
+* [Long Gun Game](#Long-Gun-Game) adds DLC weapons. Better install this immediately.
+* [iSnipe](#iSnipe) gives only M99.
+* You can set min and max player counts from cmdline.
+* Use Marco's [bots](https://forums.tripwireinteractive.com/index.php?threads/mutator-kf-bots.44969/) mutator for more fun.
 
 Cmdline for dedicated servers:
 
@@ -11,7 +13,7 @@ Game=LongGunGame.KFGG
 Game=iSnipe.KFGG
 ```
 
-## Gun Game Base Mod
+## Gun Game v1.0
 
 * Authors - *Ramm-Jaeger*
   * GG-TR_Bloreen.rom

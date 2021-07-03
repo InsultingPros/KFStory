@@ -1,5 +1,10 @@
-* Maps are pretty old, so prepare for many bugs.
-* Most of them modify spawns, inventory, so try to use only crucial mutators. Else **crash** possibility will be high.
+[CustomSpawnFix]: <./README.md#Map-Packages> 'fixes zed classes in old maps scripted triggers'
+
+!> Maps are pretty old, much older than official [Objective mode](./KFObjective.md). So prepare for many bugs.
+
+!> If you see invisible zeds you know what to do -> [CustomSpawnFix].
+
+Most of these maps modify spawns, inventory and god knows what else. So try to use only crucial mutators, else **crash** possibility will be very high.
 
 ## New Haven
 
