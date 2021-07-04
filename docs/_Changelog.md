@@ -1,4 +1,12 @@
-## [2021.07.04] Big Update
+## [2021.07.04] Start of the Doom
+
+* Added Doom I / II mod.
+* Added maps.
+  * KFS Single Player Campaign by lethalvortex.
+  * KFS Dragged into Hell by lethalvortex.
+  * KF NPC Stadium by lethalvortex.
+
+## [2021.07.03] Big Update
 
 * Moved to CC BY 4.0 license.
 * Translated into English.

@@ -259,6 +259,15 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 ![IMG](./_images/kf_Strange1.jpeg ':size=300')
 ![IMG](./_images/kf_Strange2.jpeg ':size=300')
 
+## NPC Stadium
+
+* Authors - *Lethalvortex*
+* KF-NPCstadiumv4.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/olvfqf9olsj753e/KF-NPCstadiumv4.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=112928590>)
+* Notes - *[CustomSpawnFix]*
+
+![IMG](./_images/kf_NPCstadium.png ':size=300')
+
 ## Hokuto Ujou Hagan Ken
 
 * Authors - *KOTS is GOD*

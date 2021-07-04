@@ -3,7 +3,7 @@
 
 !> Too many 3D fragments from buildings can **crash** the game. This is an engine limitation, can't do much about it, so try not to spam.
 
-Both teams spawn with M79 grenade launchers and must blow up the opposing team's building floor by floor. Respawns are infinite, but each time a floor is destroyed you will spawn on the next available floor down. Once the last spawn area in your building is destroyed you will not be able to respawn if you die. Oh and i guess I should also mention that there are dozens of angry fleshpounds at street level .. © [Alex Quick]
+Both teams spawn with M79 grenade launchers and must blow up the opposing team's building floor by floor. Respawns are infinite, but each time a floor is destroyed you will spawn on the next available floor down. Once the last spawn area in your building is destroyed you will not be able to respawn if you die © [Alex Quick]
 
 And you can always add some bots for more fun!
 
@@ -13,7 +13,7 @@ Cmdline for dedicated servers:
 Game=Glassmutator.GlasshouseGameInfo
 ```
 
-## Glass House Base
+## Glass House Mod
 
 * Authors - *Alex Quick*
 * GH-Outskirts.rom

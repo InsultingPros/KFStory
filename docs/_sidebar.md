@@ -6,6 +6,7 @@
 * **Content**
   * [**Aliens**](Aliens.md)
   * [**Dead Space**](DeadSpace.md)
+  * [**Doom**](Doom.md)
   * [**Glass House**](GlassHouse.md)
   * [**Gun Game**](GunGame.md)
   * [**Story Mode (KF)**](KFMode.md)
