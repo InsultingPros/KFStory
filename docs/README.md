@@ -23,8 +23,17 @@
 Ola! I adore **Killing Floor 1** story maps and greatly respect all the work, time that their authors put into their creations. So I aimed to create a place where everyone can easily find, compare, download and install any map in a few clicks. Enjoy.
 
 * Maps are categorized by gametypes (map prefixes).
-* Most useful and not broken maps are on top of the list. Yeah I sorted them by my taste, v52.
-* All downloaded archives have **redirect** (*.uz2) files in them. Don't thank me.
+* Most useful, not broken maps are on top of the list. Yeah I sorted them by my taste, v52.
+* All archives have **redirect** (*.uz2) files in them. Don't thank me.
+* All archives are made by [7zip](https://www.7-zip.org/) with following settings:
+  * Archive format:       zip
+  * Compression level:    Ultra
+  * Compression method:   Deflate
+  * Dictionary size:      32 KB
+  * Word size:            258
+
+This allow archives to be opened in windows explorer. I could go for *.rar or *.7z instead, but size savings are not that significant, and end users should have 3rd party apps to open them. So not worth it imo.
+
 * All list entries follow the same format:
   * **Title**: map name.
   * **Authors**: one or more.
