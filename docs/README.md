@@ -32,7 +32,7 @@ Ola! I adore **Killing Floor 1** story maps and greatly respect all the work, ti
   * Dictionary size:      32 KB
   * Word size:            258
 
-This allow archives to be opened in windows explorer. I could go for *.rar or *.7z instead, but size savings are not that significant, and end users should have 3rd party apps to open them. So not worth it imo.
+This allow archives to be opened in windows explorer. I could go for *.rar or *.7z instead, but size savings are not that significant, and end users must have 3rd party apps to open them. So not worth it imo.
 
 * All list entries follow the same format:
   * **Title**: map name.
