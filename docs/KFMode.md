@@ -159,6 +159,15 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 
 ![IMG](./_images/kf_Horzinebunker.jpeg ':size=300')
 
+## Deathtrap Portal Edition
+
+* Authors - *Sugarfree*
+* KF-MIS-Deathtrap_PortalEdition.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/zpash8pudhu6keg/KF-MIS-Deathtrap_PortalEdition.zip/file>)
+
+![IMG](./_images/kf-DeathtrapPortalEdition.png ':size=300')
+
+
 ## Opposition
 
 * Authors - *patrikstar*
