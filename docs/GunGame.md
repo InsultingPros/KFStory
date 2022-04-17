@@ -254,7 +254,7 @@ Game=iSnipe.KFGG
 
 ## Platform
 
-* Authors - *UNKNOWN*
+* Authors - *Mastrocoltello*
 * GG-Platform.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/bz69kwid0rjfi8p/GG-Platform.zip/file>)
 
@@ -262,7 +262,7 @@ Game=iSnipe.KFGG
 
 ## Platform Low Gravity
 
-* Authors - *UNKNOWN*
+* Authors - *Mastrocoltello*
 * GG-Platform_Low_Grav.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/jiy962x203wkthn/GG-Platform_Low_Grav.zip/file>)
 
@@ -308,7 +308,7 @@ Game=iSnipe.KFGG
 
 ## Nova Deli
 
-* Authors - *UNKNOWN*
+* Authors - *Symec / rain962*
 * GG-NovaDeli.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/13rgsofgu00dpug/GG-NovaDeli.zip/file>)
 
@@ -340,7 +340,7 @@ Game=iSnipe.KFGG
 
 ## Swamp
 
-* Authors - *UNKNOWN*
+* Authors - *Kyben & Maul*
 * GG-Swamp.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/jabws4zfmiqd22n/GG-Swamp.zip/file>)
 
@@ -348,7 +348,7 @@ Game=iSnipe.KFGG
 
 ## Dust 2
 
-* Authors - *UNKNOWN*
+* Authors - *Equinox*
 * GG-Dust2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/crtimt0bevtxo9f/GG-Dust2.zip/file>)
 
@@ -356,7 +356,7 @@ Game=iSnipe.KFGG
 
 ## Favela
 
-* Authors - *UNKNOWN*
+* Authors - *BeastFiend*
 * GG-Favela.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/9hk0e8ip1urinif/GG-Favela.zip/file>)
 
@@ -364,7 +364,7 @@ Game=iSnipe.KFGG
 
 ## Arcade Laboratory
 
-* Authors - *UNKNOWN*
+* Authors - *KINGshinobi*
 * GG-Arcade-Laboratory.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/kgkga976ozwbn4n/GG-Arcade-Laboratory.zip/file>)
 
