@@ -18,7 +18,7 @@
 [DMN666]: <http://steamcommunity.com/profiles/76561198058194020>
 [atagene]: <https://www.deviantart.com/atagene>
 
-!> Map lists are **HUGE**, I've spent many days sorting files, creating categories and filling all the information at right spots. So there can be some typos, missing maps and disinformation. If you find any please contact me: [Github Issues] or [KillingFloor.ru PM].
+!> Map lists are **HUGE**, I've spent many days sorting files, creating categories and filling all the information at right spots. So there can be typos, missing maps, links, credits and false information. If you find any please contact me: [Github Issues] or [KillingFloor.ru PM].
 
 ## General Info
 
@@ -34,7 +34,7 @@ Ola! I adore **Killing Floor 1** story maps and greatly respect all the work, ti
   * Dictionary size:      32 KB
   * Word size:            258
 
-This allow archives to be opened in windows explorer. I could go for *.rar or *.7z instead, but size savings are not that significant, and end users must have 3rd party apps to open them. So not worth it imo.
+This allow archives to be opened in windows explorer. I could go for `*.rar` or `*.7z` instead, but size savings are not that significant, and end users must have 3rd party apps to open them. So not worth it imo.
 
 * All list entries follow the same format:
   * **Title**: map name.
@@ -42,7 +42,7 @@ This allow archives to be opened in windows explorer. I could go for *.rar or *.
   * **Map filename**: with prefix ofc.
   * **Links**: starting from DL then Workshop, Forum, ModDb, Site, if there are any.
   * **Notes**: a special section for greylisted maps or when I need to warn you about game breaking stuff / [CustomSpawnFix].
-  * **Clickable screenshots**: to easily recognize the maps.
+  * **Clickable screenshots**: to easily recognize the maps. Except some old, exported JPG's, these are [TinyPNG](https://tinypng.com/) optimized PNG's.
 
 Some maps can work in [Objective mode](./KFObjective.md) if you rename their prefix, aka `KF- / KFS- / TOY-` to `KFO-`.
 
