@@ -369,3 +369,11 @@ Game=iSnipe.KFGG
 * Links - [Mediafire](<https://www.mediafire.com/file/kgkga976ozwbn4n/GG-Arcade-Laboratory.zip/file>)
 
 ![IMG](./_images/GG-Arcade-Laboratory.png ':size=300')
+
+## Battlefield 3 Metro
+
+* Authors - *UNKNOWN*
+* GG-BF3metro.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/iwbsmd63ajf24k2/GG-BF3metro.zip/file>)
+
+![IMG](./_images/GG-BF3metro.png ':size=300')
