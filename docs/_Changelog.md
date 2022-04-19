@@ -18,6 +18,7 @@
   * [GG] Favela
   * [GG] Arcade Laboratory
   * [GG] BF3 Metro
+  * [GG] Combat
   * [KF] Deathtrap Portal Edition
 * Screenshot, server setup and other additional info in README.
 * Links to fixed Glasshouse. No more crashes!

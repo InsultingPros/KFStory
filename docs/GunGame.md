@@ -377,3 +377,11 @@ Game=iSnipe.KFGG
 * Links - [Mediafire](<https://www.mediafire.com/file/iwbsmd63ajf24k2/GG-BF3metro.zip/file>)
 
 ![IMG](./_images/GG-BF3metro.png ':size=300')
+
+## Combat
+
+* Authors - *UNKNOWN*
+* GG-Combat.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/zlsghjub29m8jjn/GG-Combat.zip/file>)
+
+![IMG](./_images/GG-Combat.png ':size=300')
