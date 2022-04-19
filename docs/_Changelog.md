@@ -1,3 +1,27 @@
+## [2022.04.19] Big Gun Game Update
+
+* Added maps:
+  * [GG] Uptime Funk
+  * [GG] Platform Low
+  * [GG] Platform Low Gravity
+  * [GG] Aftermath
+  * [GG] Encruzilhada
+  * [GG] Noshahr Canals
+  * [GG] Octogono
+  * [GG] Hangar
+  * [GG] Nova Deli
+  * [GG] Security Floor
+  * [GG] Ponte
+  * [GG] High Rise
+  * [GG] Swamp
+  * [GG] Dust 2
+  * [GG] Favela
+  * [GG] Arcade Laboratory
+  * [GG] BF3 Metro
+  * [KF] Deathtrap Portal Edition
+* Screenshot, server setup and other additional info in README.
+* Links to fixed Glasshouse. No more crashes!
+
 ## [2021.07.04] Start of the Doom
 
 * Added Doom I / II mod.
