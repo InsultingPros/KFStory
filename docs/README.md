@@ -18,7 +18,7 @@
 [DMN666]: <http://steamcommunity.com/profiles/76561198058194020>
 [atagene]: <https://www.deviantart.com/atagene>
 
-!> Map lists are **HUGE**, I've spent many days sorting files, creating categories and filling all the information at right spots. So there can be typos, missing maps, links, credits and false information. If you find any please contact me: [Github Issues] or [KillingFloor.ru PM].
+!> Map lists are **HUGE**, a lot of days were spent sorting files, creating categories and filling in all the information in the right places. So there can be typos, missing maps, links, credits and false information. If you find any please let us know: [Github Issues].
 
 ## General Info
 
@@ -38,9 +38,9 @@ This allow archives to be opened in windows explorer. I could go for `*.rar` or 
 
 * All list entries follow the same format:
   * **Title**: map name.
-  * **Authors**: one or more.
+  * **Authors**: one or more, with [links to user accounts](./_links.md#map-authors) (if there are any).
   * **Map filename**: with prefix ofc.
-  * **Links**: starting from DL then Workshop, Forum, ModDb, Site, if there are any.
+  * **Links**: starting from DL then Workshop, Forum, ModDb, Site (if there are any).
   * **Notes**: a special section for greylisted maps or when I need to warn you about game breaking stuff / [CustomSpawnFix].
   * **Clickable screenshots**: to easily recognize the maps. Except some old, exported JPG's, these are [TinyPNG](https://tinypng.com/) optimized PNG's.
 

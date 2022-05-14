@@ -1,4 +1,4 @@
-This is a silly mod inspired by Trials in UT2004. It features objectives you have to go through, record speed runs, rankings based on speed runs, double / multi jumping support and dodging / walldodging support. By interface it is slightly like UT2004 Assault © [Marco](https://steamcommunity.com/profiles/76561197975509070/)
+This is a silly mod inspired by Trials in UT2004. It features objectives you have to go through, record speed runs, rankings based on speed runs, double / multi jumping support and dodging / walldodging support. By interface it is slightly like UT2004 Assault © [*Marco*](Docs/../_links.md#Marco)
 
 Cmdline for dedicated servers:
 
@@ -8,7 +8,7 @@ Game=TrialsMod.TrialGame
 
 ## Trials v1.0
 
-* Authors - *Marco*
+* Authors - [*Marco*](Docs/../_links.md#Marco)
   * TR-Tutorial.rom
   * TR-PowerGenerator-M.rom
   * TR-Sulferon.rom
@@ -24,7 +24,7 @@ Game=TrialsMod.TrialGame
 
 ## Construction
 
-* Authors - *Marco*
+* Authors - [*Marco*](Docs/../_links.md#Marco)
 * TR-Construct.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/0sd9yz4v7wxibwz/TR-Construct.zip/file>)
 

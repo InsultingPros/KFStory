@@ -4,7 +4,7 @@ These kind of maps allow you to easily train against any zed you want, let it be
 
 ## The Test Map v2
 
-* Authors - *Mutant*
+* Authors - [*Mutant*](Docs/../_links.md#Mutant)
 * KF-TheTestmap-2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/5m5qd4lxovhpt36/KF-TheTestmap-2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=99193018>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-thetestmap-2.98827/>)
 * Notes - *Greylisted*
@@ -16,7 +16,7 @@ These kind of maps allow you to easily train against any zed you want, let it be
 
 ## The Test Map v1
 
-* Authors - *Mutant*
+* Authors - [*Mutant*](Docs/../_links.md#Mutant)
 * KF-TheTestmap.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/pjmfuuwvuhz170z/KF-TheTestmap.zip/file>)
 * Notes - *Greylisted*
@@ -26,7 +26,7 @@ These kind of maps allow you to easily train against any zed you want, let it be
 
 ## Steamy Test Map
 
-* Authors - *Skell*
+* Authors - [*Skell*](Docs/../_links.md#Skell)
 * KF-SteamyTestMapV3.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/5y6j4dckbs9bnx7/KF-SteamyTestMapV3.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=288451842>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-steamytestmap.97358/>)
 * Notes - *Greylisted*
@@ -37,7 +37,7 @@ These kind of maps allow you to easily train against any zed you want, let it be
 
 ## Steamy Test Map Rodeo Mod
 
-* Authors - *Gladius*
+* Authors - [*Gladius*](Docs/../_links.md#Gladius)
 * KF-SteamyTestMapV3RodeoMod.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/65pjdgww109c4dl/KF-SteamyTestMapV3RodeoMod.zip/file>)
 * Notes - *Greylisted*
@@ -47,7 +47,7 @@ These kind of maps allow you to easily train against any zed you want, let it be
 
 ## ScrN Testing Grounds
 
-* Authors - *Poosh*
+* Authors - [*Poosh*](Docs/../_links.md#Poosh)
 * KF-ScrnTestGrounds.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/15091afnx1lxugu/KF-ScrnTestGrounds.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=312696626>)
 * Notes - *Greylisted*

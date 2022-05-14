@@ -1,3 +1,7 @@
+## [2022.05.15] Author Links
+
+* Added GitHub, Steam, TWI-KF.ru Forum, ModDB, etc links to authors.
+
 ## [2022.04.19] Big Gun Game Update
 
 * Added maps:
