@@ -1,5 +1,4 @@
 [Github Issues]: <https://github.com/InsultingPros/KFStory/issues>
-[KillingFloor.ru PM]: <http://killingfloor.ru/xforum/members/wipemaster.8929/>
 
 [CustomSpawnFix]: <https://forums.tripwireinteractive.com/index.php?threads/mutator-customspawnfix.102956/> 'fixes zed classes in old maps scripted triggers'
 
@@ -102,6 +101,6 @@ H=(M="KF-SaarV7",P=9,S=5,G=,U="CustomSpawnFix.CustomSpawnFixMut")
 
 **[DMN666]**: his original [thread](https://forums.tripwireinteractive.com/index.php?threads/kf-game-modes-and-maps.101777/) helped me a lot when I started this project. Without him this thread wouldn't exist.
 
-**KillingFloor.ru** and staff: this forum was a great host for my initial [thread](http://killingfloor.ru/xforum/threads/kf-story-gametypes-i-karty-k-nim.4219/).
+**KillingFloor.ru** and staff: this forum was a great host for my initial [thread (use Wayback Machine)](http://killingfloor.ru/xforum/threads/kf-story-gametypes-i-karty-k-nim.4219/).
 
 **[atagene]**: thanks for a nice [logo](https://www.deviantart.com/atagene/art/Killing-Floor-Text-522558359)!

@@ -196,7 +196,7 @@ Game=iSnipe.KFGG
 
 * Authors - [*UltraK!11*](Docs/../_links.md#UltraK!11)
 * GG-Snow[UltraMapping].rom
-* Links - [Mediafire](<https://www.mediafire.com/file/vu719cuyp858g26/GG-Snow%5BUltraMapping%5D.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=305788271>), [Forum](<http://killingfloor.ru/xforum/threads/gg-snow-ultramapping.3929/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/vu719cuyp858g26/GG-Snow%5BUltraMapping%5D.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=305788271>), [Forum (use Wayback Machine)](<http://killingfloor.ru/xforum/threads/gg-snow-ultramapping.3929/>)
 
 ![IMG](./_images/gg_Snow.jpeg ':size=300')
 
@@ -204,7 +204,7 @@ Game=iSnipe.KFGG
 
 * Authors - [*UltraK!11*](Docs/../_links.md#UltraK!11)
 * GG-Shank[UltraMapping].rom
-* Links - [Mediafire](<https://www.mediafire.com/file/sd43hwkav6rznxz/GG-Shank%255BUltraMapping%255D.zip/file>), [Forum](<http://killingfloor.ru/xforum/threads/gg-shank.2876/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/sd43hwkav6rznxz/GG-Shank%255BUltraMapping%255D.zip/file>), [Forum (use Wayback Machine)](<http://killingfloor.ru/xforum/threads/gg-shank.2876/>)
 
 ![IMG](./_images/gg_Shank.jpeg ':size=300')
 
@@ -212,7 +212,7 @@ Game=iSnipe.KFGG
 
 * Authors - [*UltraK!11*](Docs/../_links.md#UltraK!11)
 * GG-FatalInstinct[UltraMapping].rom
-* Links - [Mediafire](<https://www.mediafire.com/file/77kibhj5ul3c583/GG-FatalInstinct%5BUltraMapping%5D.zip/file>), [Forum](<http://killingfloor.ru/xforum/threads/gg-fatal-instinct.2910/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/77kibhj5ul3c583/GG-FatalInstinct%5BUltraMapping%5D.zip/file>), [Forum (use Wayback Machine)](<http://killingfloor.ru/xforum/threads/gg-fatal-instinct.2910/>)
 
 ![IMG](./_images/gg_FatalInstinct.jpeg ':size=300')
 

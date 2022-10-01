@@ -171,7 +171,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 
 * Authors - [*patrikstar*](Docs/../_links.md#patrikstar)
 * Kf-Opposition.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/h4esb74z7qnt3pw/Kf-Opposition.zip/file/>), [Forum](<http://killingfloor.ru/xforum/threads/kf-opposition.3903/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/h4esb74z7qnt3pw/Kf-Opposition.zip/file/>), [Forum (use Wayback Machine)](<http://killingfloor.ru/xforum/threads/kf-opposition.3903/>)
 
 ![IMG](./_images/kf_Opposition1.jpeg ':size=300')
 ![IMG](./_images/kf_Opposition2.jpeg ':size=300')
@@ -180,7 +180,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 
 * Authors - [*patrikstar*](Docs/../_links.md#patrikstar)
 * KF-Oil_platform.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/oy41ucie8szclct/KF-Oil_platform.zip/file/>), [Forum](<http://killingfloor.ru/xforum/threads/oil-platform.4032/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/oy41ucie8szclct/KF-Oil_platform.zip/file/>), [Forum (use Wayback Machine)](<http://killingfloor.ru/xforum/threads/oil-platform.4032/>)
 
 ![IMG](./_images/kf_Oil_platform.jpeg ':size=300')
 
@@ -188,7 +188,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 
 * Authors - [*patrikstar*](Docs/../_links.md#patrikstar)
 * kf-PORT.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/xtdz844n3rsl3jv/kf-PORT.zip/file/>), [Forum](<http://killingfloor.ru/xforum/threads/port.4039/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/xtdz844n3rsl3jv/kf-PORT.zip/file/>), [Forum (use Wayback Machine)](<http://killingfloor.ru/xforum/threads/port.4039/>)
 
 ![IMG](./_images/kf_port.jpeg ':size=300')
 
