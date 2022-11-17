@@ -1,6 +1,6 @@
 [Music downloader]: <https://forums.tripwireinteractive.com/index.php?threads/mutator-music-downloader.101249/> 'music downloader'
 
-!> If you are a server owner, double check if you are distributing **Karma** files with **[Music downloader]**. Or ask your clients to manually install them. Else they will **crash** in 100% cases.
+!> If you are a server owner, double check if you are distributing **Karma** files with **[Music downloader]** / check this detailed setup [guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2885998191). Or ask your clients to manually install them. Else they will **crash** in 100% cases.
 
 !> Original version is bugged and unbalanced to hell. Install **EITHER** the [Fix V3](#Toy-Master-Fix-V3) **OR** the [Fix V4](#Toy-Master-Fix-V4) on top of it, save your nerves.
 
