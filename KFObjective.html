@@ -1,0 +1,515 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js ayu">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>KF Objective - Story Gametypes and Maps</title>
+
+    <!-- Custom HTML head -->
+
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="description" content="Map lists for KF1 objective based gametypes.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="shortcut icon" href="favicon.png">
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/general.css">
+    <link rel="stylesheet" href="css/chrome.css">
+    <link rel="stylesheet" href="css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="highlight.css">
+    <link rel="stylesheet" href="tomorrow-night.css">
+    <link rel="stylesheet" href="ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+    <link rel="stylesheet" href="theme/pagetoc.css">
+
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YG079RWEY9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-YG079RWEY9');
+    </script>
+
+</head>
+
+<body>
+    <!-- Provide site root to javascript -->
+    <script type="text/javascript">
+        var path_to_root = "";
+        var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
+    </script>
+
+    <!-- Work around some values being stored in localStorage wrapped in quotes -->
+    <script type="text/javascript">
+        try {
+            var theme = localStorage.getItem('mdbook-theme');
+            var sidebar = localStorage.getItem('mdbook-sidebar');
+
+            if (theme.startsWith('"') && theme.endsWith('"')) {
+                localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+            }
+
+            if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+            }
+        } catch (e) { }
+    </script>
+
+    <!-- Set the theme before any content is loaded, prevents flash -->
+    <script type="text/javascript">
+        var theme;
+        try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+        if (theme === null || theme === undefined) { theme = default_theme; }
+        var html = document.querySelector('html');
+        html.classList.remove('no-js')
+        html.classList.remove('ayu')
+        html.classList.add(theme);
+        html.classList.add('js');
+    </script>
+
+    <!-- Hide / unhide sidebar before it is displayed -->
+    <script type="text/javascript">
+        var html = document.querySelector('html');
+        var sidebar = 'hidden';
+        if (document.body.clientWidth >= 1080) {
+            try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+            sidebar = sidebar || 'visible';
+        }
+        html.classList.remove('sidebar-visible');
+        html.classList.add("sidebar-" + sidebar);
+    </script>
+
+    <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+        <div class="sidebar-scrollbox">
+            <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">Welcome</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Content</li><li class="chapter-item expanded "><a href="Aliens.html">Aliens</a></li><li class="chapter-item expanded "><a href="DeadSpace.html">Dead Space</a></li><li class="chapter-item expanded "><a href="Doom.html">Doom</a></li><li class="chapter-item expanded "><a href="GlassHouse.html">Glass House</a></li><li class="chapter-item expanded "><a href="GunGame.html">Gun Game</a></li><li class="chapter-item expanded "><a href="KFMode.html">KF Mode</a></li><li class="chapter-item expanded "><a href="KFObjective.html">KF Objective</a></li><li class="chapter-item expanded "><a href="TestingMode.html">Testing Mode</a></li><li class="chapter-item expanded "><a href="ToyMaster.html">Toy Master</a></li><li class="chapter-item expanded "><a href="Trials.html">Trials</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Tech Corner</li><li class="chapter-item expanded "><a href="tech/Links.html">Reference Links</a></li><li class="chapter-item expanded "><a href="tech/ServerSetup.html">Server Setup</a></li><li class="chapter-item expanded "><a href="tech/Credits.html">Credits</a></li></ol>
+        </div>
+        <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+    </nav>
+
+    <div id="page-wrapper" class="page-wrapper">
+
+        <div class="page">
+            <div id="menu-bar-hover-placeholder"></div>
+            <div id="menu-bar" class="menu-bar sticky bordered">
+                <div class="left-buttons">
+                    <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents"
+                        aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                        aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                        <i class="fa fa-paint-brush"></i>
+                    </button>
+                    <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                        <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button>
+                        </li>
+                    </ul>
+                    <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                        aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                        aria-controls="searchbar">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </div>
+
+                <h1 class="menu-title">Story Gametypes and Maps</h1>
+
+                <div class="right-buttons">
+                    <a href="print.html" title="Print this book" aria-label="Print this book">
+                        <i id="print-button" class="fa fa-print"></i>
+                    </a>
+                    <a href="https://github.com/InsultingPros/KFStory" title="Git repository" aria-label="Git repository">
+                        <i id="git-repository-button" class="fa fa-github-alt"></i>
+                    </a>
+                    <a href="https://github.com/InsultingPros/KFStory/issues/new/choose" title="Suggest an edit" aria-label="Suggest an edit">
+                        <i id="git-edit-button" class="fa fa-edit"></i>
+                    </a>
+
+                </div>
+            </div>
+
+            <div id="search-wrapper" class="hidden">
+                <form id="searchbar-outer" class="searchbar-outer">
+                    <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                        aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                </form>
+                <div id="searchresults-outer" class="searchresults-outer hidden">
+                    <div id="searchresults-header" class="searchresults-header"></div>
+                    <ul id="searchresults">
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+            <script type="text/javascript">
+                document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                    link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                });
+            </script>
+
+            <div id="content" class="content">
+
+                <main>
+                    <div class="sidetoc">
+                        <nav class="pagetoc"></nav>
+                    </div>
+                    <blockquote>
+<p>Maps that are converted from <a href="./KFMode.html">Story mode</a> will be only in this section. To keep it simple and clean.</p>
+</blockquote>
+<p>Official Objective mode by TWI. It grew up from <a href="./tech/Links.html#KF_Alex"><em>Alex Quick</em></a>’s <a href="https://forums.tripwireinteractive.com/index.php?threads/story-mode-gametype.79469/">modification</a> that exclusively aimed to power story driven maps.</p>
+<p>Cmdline for dedicated servers:</p>
+<pre><code class="language-java">Game=KFStoryGame.KFStoryGameInfo
+</code></pre>
+<h2 id="peak"><a class="header" href="#peak">Peak</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Fel"><em>Fel</em></a></li>
+<li>KFO-Peak.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/pgr1140rqw80687/KFO-Peak.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=189074614">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-peak-haloween-map.98150/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_Peak.jpeg" alt="IMG" /></p>
+<h2 id="once-upon-a-time-in-mexico"><a class="header" href="#once-upon-a-time-in-mexico">Once Upon A Time In Mexico</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Fel"><em>Fel</em></a></li>
+<li>KFO-OnceUponATimeInMexico.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/328n3qa4n2upxbu/KFO-OnceUponATimeInMexico.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=190214076">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-ouatim-beta.95804/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_OnceUponATimeInMexico.jpeg" alt="IMG" /></p>
+<h2 id="road-to-perdition-kfo"><a class="header" href="#road-to-perdition-kfo">Road To Perdition (KFO)</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Braindawg"><em>Braindawg</em></a>, <a href="./tech/Links.html#S281"><em>S281</em></a> &amp; <a href="./tech/Links.html#Fel"><em>Fel</em></a></li>
+<li>KFO-RoadToPerdition.rom</li>
+<li>Links - <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3468932466">Workshop</a>, <a href="https://drive.google.com/file/d/1xJRCyYpZGDMMRyJFNxKL-v0sw88TU-D_/view">GDrive</a>, <a href="https://www.mediafire.com/file/mpiccy4uv6j1ddn/KFO-RoadToPerdition.zip/file">Mediafire Mirror</a></li>
+</ul>
+<h2 id="resident-evil-1-mansion"><a class="header" href="#resident-evil-1-mansion">Resident Evil 1 Mansion</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Driftwood"><em>Driftwood</em></a></li>
+<li>KFO-RE1-Mansion-V4.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/lxb2c33al5091io/KFO-RE1-Mansion-V4.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=399639299">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/resident-evil-1-mansion-story-mission-final.44508/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_RE1_Mansion.jpeg" alt="IMG" /></p>
+<h2 id="haunted-hotel"><a class="header" href="#haunted-hotel">Haunted Hotel</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Mr.RoBoT"><em>Mr.RoBoT</em></a> &amp; <a href="./tech/Links.html#Marco"><em>Marco</em></a></li>
+<li>KFO-Haunted-Hotel.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/get97w6j877az2m/KFO-Haunted-Hotel.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=188440184">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-haunted-hotel.98304/">Forum</a>, <a href="https://www.moddb.com/games/killing-floor/addons/kfo-haunted-hotel">ModDb</a></li>
+<li>Notes - <em>Greylisted</em></li>
+</ul>
+<p><img src="./images/kfo_Haunted_Hotel.jpeg" alt="IMG" /></p>
+<h2 id="snuff-solo"><a class="header" href="#snuff-solo">Snuff (Solo)</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#KF_Alex"><em>Alex Quick</em></a></li>
+<li>KFO-SnuffMonkey.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/i4hchfya3d7a5zk/KFO-SnuffMonkey.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=171724782">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-snuff.97442/">Forum</a></li>
+<li>Notes - <em>Greylisted</em></li>
+</ul>
+<p><img src="./images/kfo_SnuffMonkey1.jpeg" alt="IMG" />
+<img src="./images/kfo_SnuffMonkey2.jpeg" alt="IMG" /></p>
+<h2 id="endless-map-pack"><a class="header" href="#endless-map-pack">Endless Map Pack</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#oiruka101"><em>oiruka101</em></a>
+<ul>
+<li>KFO-BioticsLab-challenge-endless.rom</li>
+<li>KFO-Biohazard-challenge-endless.rom</li>
+<li>KFO-EvilSantasLair-challenge-endless.rom</li>
+</ul>
+</li>
+<li>Links - <a href="https://www.mediafire.com/file/og1qs9ozliwlshw/Endless+Map+Pack.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=186611598">Workshop</a></li>
+</ul>
+<p><img src="./images/kfo_endless_BioticsLab.jpeg" alt="IMG" />
+<img src="./images/kfo_endless_Biohazard.jpeg" alt="IMG" />
+<img src="./images/kfo_endless_EvilSantasLair.jpeg" alt="IMG" /></p>
+<h2 id="hive-silent-hill"><a class="header" href="#hive-silent-hill">Hive Silent Hill</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Crondog8"><em>Crondog8</em></a></li>
+<li>KFO-Hive-SilentHill_v1_0.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/f9dn6m3g84aa3qe/KFO-Hive-SilentHill_v1_0.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1412850520">Workshop</a></li>
+</ul>
+<p><img src="./images/kfo_Hive_SilentHill.jpeg" alt="IMG" /></p>
+<h2 id="foundry"><a class="header" href="#foundry">Foundry</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Poosh"><em>Poosh</em></a></li>
+<li>KFO-Foundry-SE.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/nyd4930lbs2bcek/KFO-Foundry-SE.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=207486983">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-foundry-se-scrn-edition.99499/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_Foundry.png" alt="IMG" /></p>
+<h2 id="station"><a class="header" href="#station">Station</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#HIUFIGYO"><em>HIUFIGYO</em></a></li>
+<li>KFO-Stationv1-2.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/4jjtxjqmb466ji6/KFO-Stationv1-2.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=222972534">Workshop</a></li>
+</ul>
+<p><img src="./images/kfo_Station.jpeg" alt="IMG" /></p>
+<h2 id="filths-cross"><a class="header" href="#filths-cross">Filth’s Cross</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#The_Hunter"><em>The_Hunter</em></a></li>
+<li>KFO-FilthsCross.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/gj0g9isvwt23g09/KFO-FilthsCross.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/kfo_FilthsCross.jpeg" alt="IMG" /></p>
+<h2 id="west-london-v13"><a class="header" href="#west-london-v13">West London v1.3</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#The_Hunter"><em>The_Hunter</em></a></li>
+<li>KFO-WestLondon-FE.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/q7bbl7doseds5n5/KFO-WestLondon-FE.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=254449534">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-westlondon.100585/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_WestLondon.jpeg" alt="IMG" /></p>
+<h2 id="west-london-survival"><a class="header" href="#west-london-survival">West London Survival</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#The_Hunter"><em>The_Hunter</em></a></li>
+<li>KFO-WestLondon-Survival.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/u0ije5l1ofqceox/KFO-WestLondon-Survival.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=264566391">Workshop</a></li>
+</ul>
+<p><img src="./images/kfo_WestLondon_Survival.jpeg" alt="IMG" /></p>
+<h2 id="biotics-lab-survival"><a class="header" href="#biotics-lab-survival">Biotics Lab Survival</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#The_Hunter"><em>The_Hunter</em></a></li>
+<li>KFO-[Survival]-BioticsLab.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/pab53zv1fx7d5ks/KFO-%5BSurvival%5D-BioticsLab.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=289213740">Workshop</a></li>
+</ul>
+<p><img src="./images/kfo_Survival_BioticsLab.jpeg" alt="IMG" /></p>
+<h2 id="manor-survival"><a class="header" href="#manor-survival">Manor Survival</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#The_Hunter"><em>The_Hunter</em></a></li>
+<li>KFO-[Survival]-Manor.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/8n30ecg0d829113/KFO-%5BSurvival%5D-Manor.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=322218109">Workshop</a></li>
+</ul>
+<p><img src="./images/kfo_Survival_Manor.jpeg" alt="IMG" /></p>
+<h2 id="manor-defence"><a class="header" href="#manor-defence">Manor Defence</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Cakedog"><em>Cakedog</em></a></li>
+<li>KFO-ManorDefence.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/d4195j4qa1b55fm/KFO-ManorDefence.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=299954443">Workshop</a></li>
+</ul>
+<p><img src="./images/kfo_ManorDefence1.jpeg" alt="IMG" />
+<img src="./images/kfo_ManorDefence2.jpeg" alt="IMG" /></p>
+<h2 id="boss-arena"><a class="header" href="#boss-arena">Boss Arena</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Fire"><em>Fire</em></a></li>
+<li>KFO-BossArena.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/c1b879126qzabpo/KFO-BossArena.zip/file">Mediafire</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-bossarena.103455/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_BossArena.jpeg" alt="IMG" /></p>
+<h2 id="boss-arena-nerf"><a class="header" href="#boss-arena-nerf">Boss Arena Nerf</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Batman"><em>Holy Username Batman!</em></a> &amp; <a href="./tech/Links.html#nikc"><em>NikC-</em></a></li>
+<li>KFO-BossArenaNerf.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/p9wxdv7xckgifpj/KFO-BossArenaNerf.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2318348544">Workshop</a></li>
+</ul>
+<p><img src="./images/kfo_BossArenaNerf.jpeg" alt="IMG" /></p>
+<h2 id="boss-arena-unlimited-dosh"><a class="header" href="#boss-arena-unlimited-dosh">Boss Arena Unlimited Dosh</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#SveN"><em>SveN</em></a></li>
+<li>KFO-BossArenaUnlimitedDosh.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/509eqcqsdjrcls3/KFO-BossArenaUnlimitedDosh.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=844040753">Workshop</a></li>
+</ul>
+<h2 id="planetary-battlegrounds-z"><a class="header" href="#planetary-battlegrounds-z">Planetary Battlegrounds Z</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#GunsForBucks"><em>GunsForBucks</em></a></li>
+<li>KFO-PlanetaryBattlegroundsZ_Beta01_ws.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/ddy19sf7vlqocw1/KFO-PlanetaryBattlegroundsZ_Beta01_ws.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=354970200">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-planetary-battlegrounds-z.105189/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_PlanetaryBattlegrounds.jpeg" alt="IMG" /></p>
+<h2 id="soylent-zed"><a class="header" href="#soylent-zed">Soylent Zed</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#GunsForBucks"><em>GunsForBucks</em></a></li>
+<li>KFO-SoylentZed_multiplayer_Final_ws.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/z1l4fbxt4vm2eq1/KFO-SoylentZed_multiplayer_Final_ws.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=253942341">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-soylent-zed.101474/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_SoylentZed.jpeg" alt="IMG" /></p>
+<h2 id="soylent-zed-solo"><a class="header" href="#soylent-zed-solo">Soylent Zed (Solo)</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#GunsForBucks"><em>GunsForBucks</em></a></li>
+<li>KFO-SoylentZed_Final_Solo_ws.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/2454898q4e2ne1o/KFO-SoylentZed_Final_Solo_ws.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=515857446">Workshop</a></li>
+</ul>
+<h2 id="fleshpound-challenge"><a class="header" href="#fleshpound-challenge"><strong>Fleshpound Challenge</strong></a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#GunsForBucks"><em>GunsForBucks</em></a></li>
+</ul>
+<p>Будут появляться только фп. Имейте в виду, что система агра как в старых версиях KF.</p>
+<p><img src="./media/FPChallenge.png" alt="IMG" /></p>
+<h3 id="biotics-lab-fpc"><a class="header" href="#biotics-lab-fpc">Biotics Lab FPC</a></h3>
+<ul>
+<li>KFO-FPChallenge_BioticsLab_V00_WS.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/a3rsx4uxp5d62vw/KFO-FPChallenge_BioticsLab_V00_WS.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=259447743">Workshop</a></li>
+</ul>
+<h3 id="departed-fpc"><a class="header" href="#departed-fpc">Departed FPC</a></h3>
+<ul>
+<li>KFO-FPC_Departed_V00_WS.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/c9da7s88ckizwgw/KFO-FPC_Departed_V00_WS.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=259770076">Workshop</a></li>
+</ul>
+<h3 id="fright-yard-fpc"><a class="header" href="#fright-yard-fpc">Fright Yard FPC</a></h3>
+<ul>
+<li>KFO-FPChallenge_FrightYard_V00_WS.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/ce9z2dijgb6r6dd/KFO-FPChallenge_FrightYard_V00_WS.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=259310079">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-fp-challenge-frightyard.101835/">Forum</a></li>
+</ul>
+<h3 id="ice-breaker-fpc"><a class="header" href="#ice-breaker-fpc">Ice Breaker FPC</a></h3>
+<ul>
+<li>KFO-FPC_Icebreaker.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/cvy7aaospyd3o7x/KFO-FPC_Icebreaker.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=673350154">Workshop</a></li>
+</ul>
+<h3 id="moonbase-fpc"><a class="header" href="#moonbase-fpc">Moonbase FPC</a></h3>
+<ul>
+<li>KFO-FPC-MoonBase_V00_WS.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/zkpzrppxn7ejkwa/KFO-FPC-MoonBase_V00_WS.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=259730854">Workshop</a></li>
+</ul>
+<h3 id="moonbase-sirens-vs-husks-fpc"><a class="header" href="#moonbase-sirens-vs-husks-fpc">Moonbase Sirens vs Husks FPC</a></h3>
+<ul>
+<li>KFO-HuskVsSiren-MoonBase_V00-WS.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/2hvqsfssi9d7vmm/KFO-HuskVsSiren-MoonBase_V00-WS.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=264529260">Workshop</a></li>
+</ul>
+<h3 id="sibyl-complex-fpc"><a class="header" href="#sibyl-complex-fpc">Sibyl Complex FPC</a></h3>
+<ul>
+<li>KFO-FP_Challenge_SibylComplex_BetaV00_WS.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/0646lo4cuztwvot/KFO-FP_Challenge_SibylComplex_BetaV00_WS.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=258378699">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-fp-challenge-sibyl-complex.101756/">Forum</a></li>
+</ul>
+<h3 id="west-london-fpc"><a class="header" href="#west-london-fpc">West London FPC</a></h3>
+<ul>
+<li>KFO-FPChallenge_WestLondon_V00_WS.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/c6w4n2m53e019q2/KFO-FPChallenge_WestLondon_V00_WS.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=259585957">Workshop</a></li>
+</ul>
+<h3 id="wyre-fpc"><a class="header" href="#wyre-fpc">Wyre FPC</a></h3>
+<ul>
+<li>KFO-FPC_Wyre_ws.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/g8n644eqg89663n/KFO-FPC_Wyre_ws.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=359680054">Workshop</a></li>
+</ul>
+<h2 id="30-wave-challenge"><a class="header" href="#30-wave-challenge"><strong>30 wave challenge</strong></a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#HIUFIGYO"><em>HIUFIGYO</em></a></li>
+</ul>
+<p>Для любителей хардкора и длинных игр. На каждые 10 волн +1 патриарх.</p>
+<p><img src="./media/30Wave.png" alt="IMG" /></p>
+<h3 id="fright-yard-30wc"><a class="header" href="#fright-yard-30wc">Fright Yard 30WC</a></h3>
+<ul>
+<li>KFO-FrightYard_30wavechallenge.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/18epcoawl0opm3r/KFO-FrightYard_30wavechallenge.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=299267623">Workshop</a></li>
+</ul>
+<h3 id="hospital-horrors-30wc"><a class="header" href="#hospital-horrors-30wc">Hospital Horrors 30WC</a></h3>
+<ul>
+<li>KFO-Hospitalhorrors_30wavechallenge.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/hha8xv9f5em9t5m/KFO-Hospitalhorrors_30wavechallenge.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=307472605">Workshop</a></li>
+</ul>
+<h3 id="moonbase-30wc"><a class="header" href="#moonbase-30wc">Moonbase 30WC</a></h3>
+<ul>
+<li>KFO-MoonBase_30wavechallenge.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/bcsd12qeiusgc8k/KFO-MoonBase_30wavechallenge.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=302962518">Workshop</a></li>
+</ul>
+<h3 id="station-30wc"><a class="header" href="#station-30wc">Station 30WC</a></h3>
+<ul>
+<li>KFO-Station_30wavechallenge.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/mokftfsm5am97ot/KFO-Station_30wavechallenge.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=330736115">Workshop</a></li>
+</ul>
+<h3 id="steamland-30wc"><a class="header" href="#steamland-30wc">Steamland 30WC</a></h3>
+<ul>
+<li>KFO-Steamland_30wavechallenge.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/8dk08h1gj2eo24o/KFO-Steamland_30wavechallenge.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=290897621">Workshop</a></li>
+</ul>
+<h2 id="run-kitty-run"><a class="header" href="#run-kitty-run">Run Kitty Run</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Lethalvortex"><em>Lethalvortex</em></a></li>
+<li>KFO-RunKittyRun_desertv3.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/o6jtyr24w0p4rds/KFO-RunKittyRun_desertv3.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=299117328">Workshop</a></li>
+<li>Notes - <em>Greylisted</em></li>
+</ul>
+<p><img src="./images/kfo_RunKittyRun.jpeg" alt="IMG" /></p>
+<h2 id="hells-fire"><a class="header" href="#hells-fire">Hell’s Fire</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#U.N.C.L.E."><em>U.N.C.L.E.</em></a></li>
+<li>KFO-HellsFire.rom</li>
+<li>KFO-HellsFire-Expert.rom</li>
+<li>KFO-HellsFire-Novice.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/4n3l4rbm7t668vv/KFO-HellsFire.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=639953551">Workshop</a></li>
+<li>Notes - <em>Greylisted</em></li>
+</ul>
+<p><img src="./images/kfo_HellsFire1.jpeg" alt="IMG" />
+<img src="./images/kfo_HellsFire2.jpeg" alt="IMG" /></p>
+<h2 id="lerwick-wonder"><a class="header" href="#lerwick-wonder">Lerwick Wonder</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#PiX"><em>PiX</em></a></li>
+<li>KFO-LerwickWonder-beta1f.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/1y74cxnpewqa88x/KFO-LerwickWonder-beta1f.zip/file">Mediafire</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kf-lerwickwonder-beta1.72326/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_LerwickWonder1.jpeg" alt="IMG" />
+<img src="./images/kfo_LerwickWonder2.jpeg" alt="IMG" /></p>
+<h2 id="lerwick-wonder-lazy-fix"><a class="header" href="#lerwick-wonder-lazy-fix">Lerwick Wonder Lazy Fix</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#PiX"><em>PiX</em></a> &amp; <a href="./tech/Links.html#Batman"><em>Holy Username Batman!</em></a></li>
+<li>KFO-LerwickWonder-LazyFix.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/7cd6lfi4jwbmie2/KFO-LerwickWonder-LazyFix.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2274319712">Workshop</a></li>
+</ul>
+<h2 id="manufractured"><a class="header" href="#manufractured">Manufractured</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Smiff"><em>Smiff</em></a></li>
+<li>KFO-ManufracturedB2.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/c06evi565timp12/KFO-ManufracturedB2.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=172817252">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-manufracturedb1.97098/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_Manufractured.png" alt="IMG" /></p>
+<h2 id="containment-station-solo"><a class="header" href="#containment-station-solo">Containment Station (Solo)</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Fel"><em>Fel</em></a></li>
+<li>KFO-ContainmentStationBETA.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/9ux55vonb3at50t/KFO-ContainmentStationBETA.zip/file">Mediafire</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kfo-containmentstation-beta.95803/">Forum</a></li>
+</ul>
+<p><img src="./images/kfo_ContainmentStation.jpeg" alt="IMG" /></p>
+
+                </main>
+
+                <nav class="nav-wrapper" aria-label="Page navigation">
+                    <!-- Mobile navigation buttons -->
+                    <a rel="prev" href="KFMode.html" class="mobile-nav-chapters previous"
+                        title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="TestingMode.html" class="mobile-nav-chapters next"
+                        title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+
+                    <div style="clear: both"></div>
+                </nav>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+    <script type="text/javascript">
+        window.playground_copyable = true;
+    </script>
+
+
+    <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+    <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+    <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+    <!-- Custom JS scripts -->
+    <script type="text/javascript" src="theme/pagetoc.js"></script>
+
+
+</body>
+
+</html>

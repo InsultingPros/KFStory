@@ -1,0 +1,282 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js ayu">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>Doom - Story Gametypes and Maps</title>
+
+    <!-- Custom HTML head -->
+
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="description" content="Map lists for KF1 objective based gametypes.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="shortcut icon" href="favicon.png">
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/general.css">
+    <link rel="stylesheet" href="css/chrome.css">
+    <link rel="stylesheet" href="css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="highlight.css">
+    <link rel="stylesheet" href="tomorrow-night.css">
+    <link rel="stylesheet" href="ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+    <link rel="stylesheet" href="theme/pagetoc.css">
+
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YG079RWEY9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-YG079RWEY9');
+    </script>
+
+</head>
+
+<body>
+    <!-- Provide site root to javascript -->
+    <script type="text/javascript">
+        var path_to_root = "";
+        var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
+    </script>
+
+    <!-- Work around some values being stored in localStorage wrapped in quotes -->
+    <script type="text/javascript">
+        try {
+            var theme = localStorage.getItem('mdbook-theme');
+            var sidebar = localStorage.getItem('mdbook-sidebar');
+
+            if (theme.startsWith('"') && theme.endsWith('"')) {
+                localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+            }
+
+            if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+            }
+        } catch (e) { }
+    </script>
+
+    <!-- Set the theme before any content is loaded, prevents flash -->
+    <script type="text/javascript">
+        var theme;
+        try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+        if (theme === null || theme === undefined) { theme = default_theme; }
+        var html = document.querySelector('html');
+        html.classList.remove('no-js')
+        html.classList.remove('ayu')
+        html.classList.add(theme);
+        html.classList.add('js');
+    </script>
+
+    <!-- Hide / unhide sidebar before it is displayed -->
+    <script type="text/javascript">
+        var html = document.querySelector('html');
+        var sidebar = 'hidden';
+        if (document.body.clientWidth >= 1080) {
+            try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+            sidebar = sidebar || 'visible';
+        }
+        html.classList.remove('sidebar-visible');
+        html.classList.add("sidebar-" + sidebar);
+    </script>
+
+    <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+        <div class="sidebar-scrollbox">
+            <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">Welcome</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Content</li><li class="chapter-item expanded "><a href="Aliens.html">Aliens</a></li><li class="chapter-item expanded "><a href="DeadSpace.html">Dead Space</a></li><li class="chapter-item expanded "><a href="Doom.html">Doom</a></li><li class="chapter-item expanded "><a href="GlassHouse.html">Glass House</a></li><li class="chapter-item expanded "><a href="GunGame.html">Gun Game</a></li><li class="chapter-item expanded "><a href="KFMode.html">KF Mode</a></li><li class="chapter-item expanded "><a href="KFObjective.html">KF Objective</a></li><li class="chapter-item expanded "><a href="TestingMode.html">Testing Mode</a></li><li class="chapter-item expanded "><a href="ToyMaster.html">Toy Master</a></li><li class="chapter-item expanded "><a href="Trials.html">Trials</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Tech Corner</li><li class="chapter-item expanded "><a href="tech/Links.html">Reference Links</a></li><li class="chapter-item expanded "><a href="tech/ServerSetup.html">Server Setup</a></li><li class="chapter-item expanded "><a href="tech/Credits.html">Credits</a></li></ol>
+        </div>
+        <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+    </nav>
+
+    <div id="page-wrapper" class="page-wrapper">
+
+        <div class="page">
+            <div id="menu-bar-hover-placeholder"></div>
+            <div id="menu-bar" class="menu-bar sticky bordered">
+                <div class="left-buttons">
+                    <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents"
+                        aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                        aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                        <i class="fa fa-paint-brush"></i>
+                    </button>
+                    <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                        <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button>
+                        </li>
+                    </ul>
+                    <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                        aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                        aria-controls="searchbar">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </div>
+
+                <h1 class="menu-title">Story Gametypes and Maps</h1>
+
+                <div class="right-buttons">
+                    <a href="print.html" title="Print this book" aria-label="Print this book">
+                        <i id="print-button" class="fa fa-print"></i>
+                    </a>
+                    <a href="https://github.com/InsultingPros/KFStory" title="Git repository" aria-label="Git repository">
+                        <i id="git-repository-button" class="fa fa-github-alt"></i>
+                    </a>
+                    <a href="https://github.com/InsultingPros/KFStory/issues/new/choose" title="Suggest an edit" aria-label="Suggest an edit">
+                        <i id="git-edit-button" class="fa fa-edit"></i>
+                    </a>
+
+                </div>
+            </div>
+
+            <div id="search-wrapper" class="hidden">
+                <form id="searchbar-outer" class="searchbar-outer">
+                    <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                        aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                </form>
+                <div id="searchresults-outer" class="searchresults-outer hidden">
+                    <div id="searchresults-header" class="searchresults-header"></div>
+                    <ul id="searchresults">
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+            <script type="text/javascript">
+                document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                    link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                });
+            </script>
+
+            <div id="content" class="content">
+
+                <main>
+                    <div class="sidetoc">
+                        <nav class="pagetoc"></nav>
+                    </div>
+                    <p><img src="./media/doom.jpeg" alt="IMG" /></p>
+<h2 id="mods"><a class="header" href="#mods"><strong>Mods</strong></a></h2>
+<h3 id="doom-i--ii-mod"><a class="header" href="#doom-i--ii-mod">Doom I / II Mod</a></h3>
+<p>A mod for Doom 1 and 2 weapons to Killing floor (which is based on the one for UT2004 which again is based on one for Unreal 1). In total it contains all monsters and weapons (and couple of items) from the classic Doom. © <a href="./tech/Links.html#Marco"><em>Marco</em></a></p>
+<p>It comes with 2 mutators:</p>
+<ol>
+<li>Replace KF monsters with Doom monsters.</li>
+<li>Replace KF weapons with Doom weapons (initial weapons and shop weapons).</li>
+</ol>
+<p>Cmdline for dedicated servers:</p>
+<pre><code class="language-java">Game=DoomPawnsKF.DoomGameType
+</code></pre>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Marco"><em>Marco</em></a></li>
+<li>Links - <a href="https://www.mediafire.com/file/over08lx7th14wx/DoomPawnsKF.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=97737990">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kf-doom-i-ii.37838/">Forum</a></li>
+</ul>
+<h3 id="doom-3-mod-beta-4"><a class="header" href="#doom-3-mod-beta-4">Doom 3 Mod Beta 4</a></h3>
+<blockquote>
+<p>Better install <a href="#doom-3-mod-scrn-edition">Doom 3 SE</a> on top of this - it contains <strong>many</strong> <a href="https://github.com/poosh/KF-ScrnDoom3#version-history">fixes</a>.</p>
+</blockquote>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Marco"><em>Marco</em></a></li>
+<li>Links - <a href="https://www.mediafire.com/file/r5xzwslbdondt58/Doom3KFBeta4.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/workshop/filedetails/?id=98454734" title="monster pack">Workshop #1</a>, <a href="https://steamcommunity.com/workshop/filedetails/?id=98456936" title="textures">Workshop #2</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/kf-doom-iii.52427/">Forum</a></li>
+</ul>
+<h3 id="doom-3-mod-scrn-edition"><a class="header" href="#doom-3-mod-scrn-edition">Doom 3 Mod ScRN Edition</a></h3>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Poosh"><em>Poosh</em></a></li>
+<li>Links - <a href="https://www.mediafire.com/file/6b39wqk9om7nszp/ScrnDoom3KF.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=134455165">Workshop</a>, <a href="https://github.com/poosh/KF-ScrnDoom3">Github</a></li>
+</ul>
+<h2 id="doom-ii-maps"><a class="header" href="#doom-ii-maps"><strong>Doom II Maps</strong></a></h2>
+<h3 id="single-player-campaign"><a class="header" href="#single-player-campaign">Single Player Campaign</a></h3>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Lethalvortex"><em>Lethalvortex</em></a>
+<ul>
+<li>KF-BeginDoom.rom</li>
+<li>KFS-Doom2Map01F.rom <em>(02, 03 -&gt; 10)</em></li>
+<li>KFS-Doom2Map30F.rom</li>
+<li>KFS-Doom2Map31F.rom</li>
+<li>KFS-Doom2Map32F.rom</li>
+</ul>
+</li>
+<li>Links - <a href="https://www.mediafire.com/file/3955f9f7zq3vrka/KFDoomCampaign.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=98248061">Workshop</a></li>
+<li>Notes - <em>Greylisted</em></li>
+</ul>
+<p><img src="./images/doom_singleplayer1.png" alt="IMG" />
+<img src="./images/doom_singleplayer2.png" alt="IMG" />
+<img src="./images/doom_singleplayer3.png" alt="IMG" /></p>
+<h3 id="dragged-into-hell"><a class="header" href="#dragged-into-hell">Dragged into Hell</a></h3>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Lethalvortex"><em>Lethalvortex</em></a>
+<ul>
+<li>KFS-DraggedintoHell01v2.rom</li>
+<li>KFS-DraggedintoHell02v2.rom</li>
+<li>KFS-DraggedintoHell03v2.rom</li>
+<li>KFS-DraggedintoHell04v2.rom</li>
+<li>KFS-DraggedintoHell05v1.rom</li>
+</ul>
+</li>
+<li>Links - <a href="https://www.mediafire.com/file/4kcyndtkq6tui72/DraggedintoHell.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=98483655">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/draggedintohellv1-for-doom-mutator.43225/">Forum</a></li>
+<li>Notes - <em>Greylisted</em></li>
+</ul>
+<p><img src="./images/doom_DraggedintoHell1.png" alt="IMG" />
+<img src="./images/doom_DraggedintoHell2.png" alt="IMG" />
+<img src="./images/doom_DraggedintoHell3.png" alt="IMG" />
+<img src="./images/doom_DraggedintoHell4.png" alt="IMG" /></p>
+
+                </main>
+
+                <nav class="nav-wrapper" aria-label="Page navigation">
+                    <!-- Mobile navigation buttons -->
+                    <a rel="prev" href="DeadSpace.html" class="mobile-nav-chapters previous"
+                        title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="GlassHouse.html" class="mobile-nav-chapters next"
+                        title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+
+                    <div style="clear: both"></div>
+                </nav>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+    <script type="text/javascript">
+        window.playground_copyable = true;
+    </script>
+
+
+    <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+    <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+    <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+    <!-- Custom JS scripts -->
+    <script type="text/javascript" src="theme/pagetoc.js"></script>
+
+
+</body>
+
+</html>

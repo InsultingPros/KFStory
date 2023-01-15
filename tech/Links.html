@@ -1,0 +1,298 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js ayu">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>Reference Links - Story Gametypes and Maps</title>
+
+    <!-- Custom HTML head -->
+
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="description" content="Map lists for KF1 objective based gametypes.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="shortcut icon" href="../favicon.png">
+    <link rel="stylesheet" href="../css/variables.css">
+    <link rel="stylesheet" href="../css/general.css">
+    <link rel="stylesheet" href="../css/chrome.css">
+    <link rel="stylesheet" href="../css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="../fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="../highlight.css">
+    <link rel="stylesheet" href="../tomorrow-night.css">
+    <link rel="stylesheet" href="../ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+    <link rel="stylesheet" href="../theme/pagetoc.css">
+
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YG079RWEY9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-YG079RWEY9');
+    </script>
+
+</head>
+
+<body>
+    <!-- Provide site root to javascript -->
+    <script type="text/javascript">
+        var path_to_root = "../";
+        var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
+    </script>
+
+    <!-- Work around some values being stored in localStorage wrapped in quotes -->
+    <script type="text/javascript">
+        try {
+            var theme = localStorage.getItem('mdbook-theme');
+            var sidebar = localStorage.getItem('mdbook-sidebar');
+
+            if (theme.startsWith('"') && theme.endsWith('"')) {
+                localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+            }
+
+            if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+            }
+        } catch (e) { }
+    </script>
+
+    <!-- Set the theme before any content is loaded, prevents flash -->
+    <script type="text/javascript">
+        var theme;
+        try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+        if (theme === null || theme === undefined) { theme = default_theme; }
+        var html = document.querySelector('html');
+        html.classList.remove('no-js')
+        html.classList.remove('ayu')
+        html.classList.add(theme);
+        html.classList.add('js');
+    </script>
+
+    <!-- Hide / unhide sidebar before it is displayed -->
+    <script type="text/javascript">
+        var html = document.querySelector('html');
+        var sidebar = 'hidden';
+        if (document.body.clientWidth >= 1080) {
+            try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+            sidebar = sidebar || 'visible';
+        }
+        html.classList.remove('sidebar-visible');
+        html.classList.add("sidebar-" + sidebar);
+    </script>
+
+    <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+        <div class="sidebar-scrollbox">
+            <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">Welcome</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Content</li><li class="chapter-item expanded "><a href="Aliens.html">Aliens</a></li><li class="chapter-item expanded "><a href="DeadSpace.html">Dead Space</a></li><li class="chapter-item expanded "><a href="Doom.html">Doom</a></li><li class="chapter-item expanded "><a href="GlassHouse.html">Glass House</a></li><li class="chapter-item expanded "><a href="GunGame.html">Gun Game</a></li><li class="chapter-item expanded "><a href="KFMode.html">KF Mode</a></li><li class="chapter-item expanded "><a href="KFObjective.html">KF Objective</a></li><li class="chapter-item expanded "><a href="TestingMode.html">Testing Mode</a></li><li class="chapter-item expanded "><a href="ToyMaster.html">Toy Master</a></li><li class="chapter-item expanded "><a href="Trials.html">Trials</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Tech Corner</li><li class="chapter-item expanded "><a href="tech/Links.html">Reference Links</a></li><li class="chapter-item expanded "><a href="tech/ServerSetup.html">Server Setup</a></li><li class="chapter-item expanded "><a href="tech/Credits.html">Credits</a></li></ol>
+        </div>
+        <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+    </nav>
+
+    <div id="page-wrapper" class="page-wrapper">
+
+        <div class="page">
+            <div id="menu-bar-hover-placeholder"></div>
+            <div id="menu-bar" class="menu-bar sticky bordered">
+                <div class="left-buttons">
+                    <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents"
+                        aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                        aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                        <i class="fa fa-paint-brush"></i>
+                    </button>
+                    <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                        <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button>
+                        </li>
+                    </ul>
+                    <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                        aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                        aria-controls="searchbar">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </div>
+
+                <h1 class="menu-title">Story Gametypes and Maps</h1>
+
+                <div class="right-buttons">
+                    <a href="../print.html" title="Print this book" aria-label="Print this book">
+                        <i id="print-button" class="fa fa-print"></i>
+                    </a>
+                    <a href="https://github.com/InsultingPros/KFStory" title="Git repository" aria-label="Git repository">
+                        <i id="git-repository-button" class="fa fa-github-alt"></i>
+                    </a>
+                    <a href="https://github.com/InsultingPros/KFStory/issues/new/choose" title="Suggest an edit" aria-label="Suggest an edit">
+                        <i id="git-edit-button" class="fa fa-edit"></i>
+                    </a>
+
+                </div>
+            </div>
+
+            <div id="search-wrapper" class="hidden">
+                <form id="searchbar-outer" class="searchbar-outer">
+                    <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                        aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                </form>
+                <div id="searchresults-outer" class="searchresults-outer hidden">
+                    <div id="searchresults-header" class="searchresults-header"></div>
+                    <ul id="searchresults">
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+            <script type="text/javascript">
+                document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                    link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                });
+            </script>
+
+            <div id="content" class="content">
+
+                <main>
+                    <div class="sidetoc">
+                        <nav class="pagetoc"></nav>
+                    </div>
+                    <h1 id="reference-links"><a class="header" href="#reference-links">Reference Links</a></h1>
+<p>Contains all links in this repo.</p>
+<!-- ## Templates
+
+[*NAME*](Docs/../_links.md#NAME)
+<a name="NAME"></a>**NAME** - [Steam](), [TWI](), [ModDB]()
+<https://steamid.io/lookup/>
+-->
+<!-- Link order should be:
+
+```text
+Github -> Steam (steamID64 links) -> Forums -> Other sites.
+```
+-->
+<h2 id="map-packages"><a class="header" href="#map-packages">Map Packages</a></h2>
+<blockquote>
+<p>Always keep <a href="https://forums.tripwireinteractive.com/index.php?threads/mutator-customspawnfix.102956/" title="fixes zed classes in old maps scripted triggers">CustomSpawnFix</a> around, it will help greatly if you have invisible zeds. Thanks Tripwire for renaming zed classes in latest patches and breaking old story maps.</p>
+</blockquote>
+<blockquote>
+<p>Avoid <a href="https://forums.tripwireinteractive.com/index.php?threads/utility-de-serverpackage-listing.103071/" title="hack of ol hacks to reduce serverpackage size">NetReduce</a> and <a href="https://steamcommunity.com/groups/ScrNBalance/discussions/6/610575007209675730/" title="same thing but with config file">NetReduceSE</a> at all costs, or you will get broken spawns, pickups, missing keys, switches, etc etc.</p>
+</blockquote>
+<p>These packages are <strong>Whitelisted</strong>, if you see them don’t worry:</p>
+<ul>
+<li><a href="https://www.mediafire.com/file/sf1rm5e688dp9jt/ScrnStoryGame.zip/file">ScrnStoryGame</a> - adds many and many additional scripts, npc support, dialogues, etc.</li>
+<li><a href="https://www.mediafire.com/file/6tpf11xsf7p9bg9/FoundryObj.zip/file">FoundryObj</a> - a bit more scripts ^.</li>
+<li><a href="https://www.mediafire.com/file/a0t0ypyd5wbbprt/KFChaingunTurret.zip/file">KFChaingunTurret</a> - a usable gatling gun.</li>
+<li><a href="https://www.mediafire.com/file/iyqot9pefdfcub3/Fall_TriggerPack.zip/file">Fall_TriggerPack</a> - one of the oldest ones around, has few useful triggers.</li>
+<li><a href="https://www.mediafire.com/file/p0d5acpbcunk7sw/KFGasCan.zip/file">KFGasCan</a> - gas can and related scripts.</li>
+<li><a href="https://www.mediafire.com/file/x3ekplflstb3fc8/clientmaterialtrigger.zip/file">clientmaterialtrigger</a> - allows to change materials for clients.</li>
+</ul>
+<h2 id="map-authors"><a class="header" href="#map-authors">Map Authors</a></h2>
+<ul>
+<li><a name="avp2501"></a><strong>avp2501</strong> - <a href="https://steamcommunity.com/profiles/76561197966104966">Steam</a></li>
+<li><a name="Bangulo"></a><strong>Bangulo</strong> - <a href="https://forums.tripwireinteractive.com/index.php?members/bangulo.44593/">TWI</a></li>
+<li><a name="BartBear"></a><strong>BartBear</strong> - <a href="https://steamcommunity.com/profiles/76561197985180572">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/bartbear.10971/">TWI</a></li>
+<li><a name="Batman"></a><strong>Holy Username Batman!</strong> - <a href="https://steamcommunity.com/profiles/76561198134059371">Steam</a></li>
+<li><a name="Braindawg"></a><strong>Braindawg</strong> - <a href="http://steamcommunity.com/profiles/76561197988531991">Steam</a>, <a href="https://github.com/Brain-dawg">GitHub</a></li>
+<li><a name="Cakedog"></a><strong>Cakedog</strong> - <a href="https://steamcommunity.com/profiles/76561197981882240">Steam</a></li>
+<li><a name="Crondog8"></a><strong>Crondog8</strong> - <a href="https://steamcommunity.com/profiles/76561198076378149">Steam</a></li>
+<li><a name="Davidosski"></a><strong>Davidosski</strong> - <a href="https://github.com/davidoskky">GitHub</a>, <a href="https://steamcommunity.com/profiles/76561198023046954">Steam</a></li>
+<li><a name="Dextronaut"></a><strong>Dextronaut</strong> - <a href="https://steamcommunity.com/profiles/76561197989375871">Steam</a></li>
+<li><a name="Driftwood"></a><strong>Driftwood</strong> - <a href="https://steamcommunity.com/profiles/76561198000586665">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/driftwood.17335/">TWI</a></li>
+<li><a name="Drunken-Wolfer"></a><strong>Drunken Wolfer</strong> - <a href="https://forums.tripwireinteractive.com/index.php?members/drunken-wolfer.26449/">TWI</a></li>
+<li><a name="Fel"></a><strong>Fel</strong> - <a href="https://steamcommunity.com/profiles/76561197995894004">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/fel.18710/">TWI</a>, <a href="https://www.moddb.com/members/fel350">ModDB</a></li>
+<li><a name="Fire"></a><strong>Fire</strong> - <a href="https://forums.tripwireinteractive.com/index.php?members/thearcade.46198/">TWI</a></li>
+<li><a name="Gladius"></a><strong>Gladius</strong> - <a href="https://steamcommunity.com/profiles/76561197995382130">Steam</a></li>
+<li><a name="GunsForBucks"></a><strong>GunsForBucks</strong> - <a href="https://steamcommunity.com/profiles/76561198011580188">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/gunsforbucks.67565/">TWI</a></li>
+<li><a name="HaTeMe"></a><strong>HaTeMe</strong> - <a href="https://steamcommunity.com/profiles/76561197984742762">Steam</a></li>
+<li><a name="HIUFIGYO"></a><strong>HIUFIGYO</strong> - <a href="https://steamcommunity.com/profiles/76561198025403716">Steam</a></li>
+<li><a name="KF_Alex"></a><strong>Alex Quick / KF_Alex</strong> - <a href="https://steamcommunity.com/profiles/76561197968508560">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/alex_kf.5286/">TWI</a>, <a href="https://www.moddb.com/members/aj-quick">ModDB</a></li>
+<li><a name="KiCk3R"></a><strong>KiCk3R</strong> - <a href="https://steamcommunity.com/profiles/76561197976745875">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/kick3r.14247/">TWI</a>, <a href="https://www.moddb.com/members/kick3r">ModDB</a></li>
+<li><a name="kingshinobi"></a><strong>kingshinobi</strong> - <a href="https://steamcommunity.com/profiles/76561198011749270">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/kingshinobi.18083/">TWI</a>, <a href="https://www.moddb.com/members/kingshinobi">ModDB</a></li>
+<li><a name="Kyben"></a><strong>Kyben</strong> - <a href="https://steamcommunity.com/profiles/76561197972059603">Steam</a>, <a href="https://www.moddb.com/members/kyben">ModDB</a></li>
+<li><a name="Leon75"></a><strong>Leon75</strong> - <a href="https://forums.tripwireinteractive.com/index.php?members/leon75.18860/">TWI</a></li>
+<li><a name="Lethalvortex"></a><strong>Lethalvortex</strong> - <a href="https://steamcommunity.com/profiles/76561197964736311">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/lethalvortex.15503/">TWI</a></li>
+<li><a name="Marco"></a><strong>Marco</strong> - <a href="https://steamcommunity.com/profiles/76561197975509070">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/marco.16535/">TWI</a></li>
+<li><a name="Mastrocoltello"></a><strong>Mastrocoltello</strong> - <a href="https://github.com/Mastrocoltello">GitHub</a>, <a href="https://steamcommunity.com/profiles/76561198067319883">Steam</a></li>
+<li><a name="mgs-sniper"></a><strong>-MGS- Sniper</strong> - <a href="https://steamcommunity.com/profiles/76561197974280957">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/mgs-sniper.32673/">TWI</a></li>
+<li><a name="Mr.RoBoT"></a><strong>Mr.RoBoT</strong> - <a href="https://steamcommunity.com/profiles/76561198001963942">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/robot.14267/">TWI</a>, <a href="https://www.moddb.com/members/robot-n002">ModDB</a></li>
+<li><a name="Mutant"></a><strong>Mutant</strong> - <a href="https://steamcommunity.com/profiles/76561197985619606">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/themutant.50852/">TWI</a></li>
+<li><a name="nejcooo"></a><strong>nejcooo</strong> - <a href="https://steamcommunity.com/profiles/76561198008041378">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/nejcooo.50464/">TWI</a></li>
+<li><a name="nikc"></a><strong>NikC-</strong> - <a href="https://github.com/Shtoyan">GitHub</a>, <a href="https://steamcommunity.com/profiles/76561198044316328">Steam</a>, <a href="https://web.archive.org/web/*/http://killingfloor.ru/xforum/members/wipemaster.8929/">KF.ru (Wayback Machine)</a></li>
+<li><a name="Ninjakitty"></a><strong>Ninjakitty</strong> - <a href="https://forums.tripwireinteractive.com/index.php?members/ninjakitty.16503/">TWI</a></li>
+<li><a name="no7sag"></a><strong>no7sag</strong> - <a href="https://steamcommunity.com/profiles/76561198062408527">Steam</a></li>
+<li><a name="oiruka101"></a><strong>oiruka101</strong> - <a href="https://steamcommunity.com/profiles/76561198055608862">Steam</a></li>
+<li><a name="patrikstar"></a><strong>patrikstar</strong> - <a href="https://web.archive.org/web/*/http://killingfloor.ru/xforum/members/patrikstar.1181/">KF.ru (Wayback Machine)</a></li>
+<li><a name="PiX"></a><strong>PiX</strong> - <a href="https://steamcommunity.com/profiles/76561197971302918">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/pix.14239/">TWI</a>, <a href="https://www.moddb.com/members/elpix">ModDB</a></li>
+<li><a name="Poosh"></a><strong>Poosh</strong> - <a href="https://github.com/poosh">GitHub</a>, <a href="https://steamcommunity.com/profiles/76561197992537591">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/poosh.29614/">TWI</a></li>
+<li><a name="rain962"></a><strong>rain962</strong> - <a href="https://forums.tripwireinteractive.com/index.php?members/rain962.26367/">TWI</a></li>
+<li><a name="Ramm-Jaeger"></a><strong>Ramm-Jaeger</strong> - <a href="https://steamcommunity.com/profiles/76561197966407225">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/tw-ramm-jaeger.2/">TWI</a></li>
+<li><a name="ReiN"></a><strong>ReiN</strong> - <a href="https://steamcommunity.com/profiles/76561198060874988">Steam</a></li>
+<li><a name="S281"></a><strong>S281</strong> - <a href="https://steamcommunity.com/profiles/76561198080120483">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/s281.20966/">TWI</a></li>
+<li><a name="Skell"></a><strong>Skell</strong> - <a href="https://steamcommunity.com/profiles/76561198839666949">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/skell.58324/">TWI</a></li>
+<li><a name="Smiff"></a><strong>Smiff / Beasty / BeastFiend</strong> - <a href="https://steamcommunity.com/profiles/76561197995233881">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/smiff.19387/">TWI</a></li>
+<li><a name="Sugarfree"></a><strong>Sugarfree</strong> - <a href="https://forums.tripwireinteractive.com/index.php?members/sugarfree.23579/">TWI</a></li>
+<li><a name="SveN"></a><strong>SveN</strong> - <a href="https://steamcommunity.com/profiles/76561198098795804">Steam</a></li>
+<li><a name="Swift_Brutal_Death"></a><strong>Swift_Brutal_Death</strong> - <a href="https://steamcommunity.com/profiles/76561198011700695">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/swift-brutal-death.18878/">TWI</a></li>
+<li><a name="The_Hunter"></a><strong>The Hunter</strong> - <a href="https://steamcommunity.com/profiles/76561198054125031">Steam</a>, <a href="https://forums.tripwireinteractive.com/index.php?members/the-hunter.67437/">TWI</a></li>
+<li><a name="U.N.C.L.E."></a><strong>U.N.C.L.E.</strong> - <a href="https://steamcommunity.com/profiles/76561198047372370">Steam</a></li>
+<li><a name="UltraK!11"></a><strong>UltraK!11</strong> - <a href="https://steamcommunity.com/profiles/76561198074598456">Steam</a>, <a href="https://web.archive.org/web/*/http://killingfloor.ru/xforum/members/ultrakill.4625/">KF.ru (Wayback Machine)</a></li>
+</ul>
+
+                </main>
+
+                <nav class="nav-wrapper" aria-label="Page navigation">
+                    <!-- Mobile navigation buttons -->
+                    <a rel="prev" href="../Trials.html" class="mobile-nav-chapters previous"
+                        title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../tech/ServerSetup.html" class="mobile-nav-chapters next"
+                        title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+
+                    <div style="clear: both"></div>
+                </nav>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+    <script type="text/javascript">
+        window.playground_copyable = true;
+    </script>
+
+
+    <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+    <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+    <!-- Custom JS scripts -->
+    <script type="text/javascript" src="../theme/pagetoc.js"></script>
+
+
+</body>
+
+</html>

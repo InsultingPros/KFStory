@@ -1,0 +1,554 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js ayu">
+
+<head>
+    <!-- Book generated using mdBook -->
+    <meta charset="UTF-8">
+    <title>Gun Game - Story Gametypes and Maps</title>
+
+    <!-- Custom HTML head -->
+
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="description" content="Map lists for KF1 objective based gametypes.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff" />
+
+    <link rel="shortcut icon" href="favicon.png">
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/general.css">
+    <link rel="stylesheet" href="css/chrome.css">
+    <link rel="stylesheet" href="css/print.css" media="print">
+
+    <!-- Fonts -->
+    <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+    <link rel="stylesheet" href="fonts/fonts.css">
+
+    <!-- Highlight.js Stylesheets -->
+    <link rel="stylesheet" href="highlight.css">
+    <link rel="stylesheet" href="tomorrow-night.css">
+    <link rel="stylesheet" href="ayu-highlight.css">
+
+    <!-- Custom theme stylesheets -->
+    <link rel="stylesheet" href="theme/pagetoc.css">
+
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YG079RWEY9"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-YG079RWEY9');
+    </script>
+
+</head>
+
+<body>
+    <!-- Provide site root to javascript -->
+    <script type="text/javascript">
+        var path_to_root = "";
+        var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "ayu" : "ayu";
+    </script>
+
+    <!-- Work around some values being stored in localStorage wrapped in quotes -->
+    <script type="text/javascript">
+        try {
+            var theme = localStorage.getItem('mdbook-theme');
+            var sidebar = localStorage.getItem('mdbook-sidebar');
+
+            if (theme.startsWith('"') && theme.endsWith('"')) {
+                localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+            }
+
+            if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+            }
+        } catch (e) { }
+    </script>
+
+    <!-- Set the theme before any content is loaded, prevents flash -->
+    <script type="text/javascript">
+        var theme;
+        try { theme = localStorage.getItem('mdbook-theme'); } catch (e) { }
+        if (theme === null || theme === undefined) { theme = default_theme; }
+        var html = document.querySelector('html');
+        html.classList.remove('no-js')
+        html.classList.remove('ayu')
+        html.classList.add(theme);
+        html.classList.add('js');
+    </script>
+
+    <!-- Hide / unhide sidebar before it is displayed -->
+    <script type="text/javascript">
+        var html = document.querySelector('html');
+        var sidebar = 'hidden';
+        if (document.body.clientWidth >= 1080) {
+            try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch (e) { }
+            sidebar = sidebar || 'visible';
+        }
+        html.classList.remove('sidebar-visible');
+        html.classList.add("sidebar-" + sidebar);
+    </script>
+
+    <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+        <div class="sidebar-scrollbox">
+            <ol class="chapter"><li class="chapter-item expanded "><a href="index.html">Welcome</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Content</li><li class="chapter-item expanded "><a href="Aliens.html">Aliens</a></li><li class="chapter-item expanded "><a href="DeadSpace.html">Dead Space</a></li><li class="chapter-item expanded "><a href="Doom.html">Doom</a></li><li class="chapter-item expanded "><a href="GlassHouse.html">Glass House</a></li><li class="chapter-item expanded "><a href="GunGame.html">Gun Game</a></li><li class="chapter-item expanded "><a href="KFMode.html">KF Mode</a></li><li class="chapter-item expanded "><a href="KFObjective.html">KF Objective</a></li><li class="chapter-item expanded "><a href="TestingMode.html">Testing Mode</a></li><li class="chapter-item expanded "><a href="ToyMaster.html">Toy Master</a></li><li class="chapter-item expanded "><a href="Trials.html">Trials</a></li><li class="chapter-item expanded affix "><li class="spacer"></li><li class="chapter-item expanded affix "><li class="part-title">Tech Corner</li><li class="chapter-item expanded "><a href="tech/Links.html">Reference Links</a></li><li class="chapter-item expanded "><a href="tech/ServerSetup.html">Server Setup</a></li><li class="chapter-item expanded "><a href="tech/Credits.html">Credits</a></li></ol>
+        </div>
+        <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+    </nav>
+
+    <div id="page-wrapper" class="page-wrapper">
+
+        <div class="page">
+            <div id="menu-bar-hover-placeholder"></div>
+            <div id="menu-bar" class="menu-bar sticky bordered">
+                <div class="left-buttons">
+                    <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents"
+                        aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <button id="theme-toggle" class="icon-button" type="button" title="Change theme"
+                        aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                        <i class="fa fa-paint-brush"></i>
+                    </button>
+                    <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                        <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                        <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu (default)</button>
+                        </li>
+                    </ul>
+                    <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)"
+                        aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S"
+                        aria-controls="searchbar">
+                        <i class="fa fa-search"></i>
+                    </button>
+                </div>
+
+                <h1 class="menu-title">Story Gametypes and Maps</h1>
+
+                <div class="right-buttons">
+                    <a href="print.html" title="Print this book" aria-label="Print this book">
+                        <i id="print-button" class="fa fa-print"></i>
+                    </a>
+                    <a href="https://github.com/InsultingPros/KFStory" title="Git repository" aria-label="Git repository">
+                        <i id="git-repository-button" class="fa fa-github-alt"></i>
+                    </a>
+                    <a href="https://github.com/InsultingPros/KFStory/issues/new/choose" title="Suggest an edit" aria-label="Suggest an edit">
+                        <i id="git-edit-button" class="fa fa-edit"></i>
+                    </a>
+
+                </div>
+            </div>
+
+            <div id="search-wrapper" class="hidden">
+                <form id="searchbar-outer" class="searchbar-outer">
+                    <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..."
+                        aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                </form>
+                <div id="searchresults-outer" class="searchresults-outer hidden">
+                    <div id="searchresults-header" class="searchresults-header"></div>
+                    <ul id="searchresults">
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+            <script type="text/javascript">
+                document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                Array.from(document.querySelectorAll('#sidebar a')).forEach(function (link) {
+                    link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                });
+            </script>
+
+            <div id="content" class="content">
+
+                <main>
+                    <div class="sidetoc">
+                        <nav class="pagetoc"></nav>
+                    </div>
+                    <p>Official deathmatch by TWI, very similar to Battlefield’s <a href="https://battlefield.fandom.com/wiki/Gun_Master">gun master</a> mode - every kill instantly gets you the next weapon in the list. Be the first player to get a kill with every weapon on the list to win!</p>
+<ul>
+<li>Set min and max player counts from cmdline.</li>
+<li>Set your weapon lists in config file.</li>
+<li>Use <code>admin addbots &lt;desired_number&gt;</code> command to add bots. They are fun, so try em.</li>
+</ul>
+<p>Cmdline for dedicated servers:</p>
+<pre><code class="language-java">Game=KFGunGame.KFGG?MaxPlayers=32?MinPlayers=8
+</code></pre>
+<h2 id="gun-game-mod"><a class="header" href="#gun-game-mod">Gun Game Mod</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Ramm-Jaeger"><em>Ramm-Jaeger</em></a>, modified by <a href="./tech/Links.html#nikc"><em>NikC-</em></a></li>
+<li>Links - <a href="https://github.com/InsultingPros/KFGunGame/releases">GitHub</a></li>
+<li>Notes - <em>Greylisted</em></li>
+</ul>
+<p><img src="./images/GunGamePoster.jpeg" alt="IMG" /></p>
+<h2 id="original-maps"><a class="header" href="#original-maps">Original Maps</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Ramm-Jaeger"><em>Ramm-Jaeger</em></a>
+<ul>
+<li>GG-TR_Bloreen.rom</li>
+<li>GG-TR_BloreenLowGrav.rom</li>
+<li>GG-TR_BloreenReduxLowGrav.rom</li>
+<li>GG-TR_CloseQuarters.rom</li>
+<li>GG-TR_Stairways.rom</li>
+<li>GG-VR_Ramps.rom</li>
+<li>GG-VR_RampsLowGrav.rom</li>
+<li>GG-VR_Vertical.rom</li>
+<li>GG-VR_VerticalLowGrav.rom</li>
+</ul>
+</li>
+<li>Links - <a href="https://www.mediafire.com/file/nnzsg2eyda64m8d/KFGunGame_Original_Maps.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/gg_Bloreen.jpeg" alt="IMG" />
+<img src="./images/gg_CloseQuarters.jpeg" alt="IMG" />
+<img src="./images/gg_Stairways.jpeg" alt="IMG" />
+<img src="./images/gg_Ramps.jpeg" alt="IMG" />
+<img src="./images/gg_Vertical.jpeg" alt="IMG" /></p>
+<h2 id="space-and-watermelons"><a class="header" href="#space-and-watermelons">Space and Watermelons</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#no7sag"><em>no7sag</em></a></li>
+<li>GG-SpaceAndWatermelons.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/wy8vgauwf8d4vn4/GG-SpaceAndWatermelons.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1322418475">Workshop</a></li>
+</ul>
+<p><img src="./images/gg_SpaceAndWatermelons.jpeg" alt="IMG" /></p>
+<h2 id="vortex"><a class="header" href="#vortex">Vortex</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#PiX"><em>PiX</em></a></li>
+<li>GG-Vortex.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/bmyfgtfoymow19g/GG-Vortex.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=237662047">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/gg-vortex.100740/">Forum</a></li>
+</ul>
+<p><img src="./images/gg_Vortex.jpeg" alt="IMG" /></p>
+<h2 id="opposing-fronts"><a class="header" href="#opposing-fronts">Opposing Fronts</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#avp2501"><em>avp2501</em></a></li>
+<li>GG-VR_OpposingFronts.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/0i4e5taw7j7rqne/GG-VR_OpposingFronts.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=101645255">Workshop</a></li>
+</ul>
+<p><img src="./images/gg_OpposingFronts.jpeg" alt="IMG" /></p>
+<h2 id="corridor-tiny"><a class="header" href="#corridor-tiny">Corridor Tiny</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#avp2501"><em>avp2501</em></a></li>
+<li>GG-VR_Corridor_Tiny.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/6wtdpaip88cuk95/GG-VR_Corridor_Tiny.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=101549771">Workshop</a></li>
+</ul>
+<p><img src="./images/gg_Corridor_Tiny.jpeg" alt="IMG" /></p>
+<h2 id="multi-story"><a class="header" href="#multi-story">Multi Story</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#avp2501"><em>avp2501</em></a></li>
+<li>GG-VR_MultiStory.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/p75t84w5owj6s4d/GG-VR_MultiStory.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=102353471">Workshop</a></li>
+</ul>
+<p><img src="./images/gg_MultiStory.jpeg" alt="IMG" /></p>
+<h2 id="grid-madness-large"><a class="header" href="#grid-madness-large">Grid Madness Large</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#avp2501"><em>avp2501</em></a></li>
+<li>GG-VR_GridMadness_Large.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/kyq86rsoa7dn8wo/GG-VR_GridMadness_Large.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=101547928">Workshop</a></li>
+</ul>
+<p><img src="./images/gg_GridMadness_Large.jpeg" alt="IMG" /></p>
+<h2 id="grid-madness-tiny"><a class="header" href="#grid-madness-tiny">Grid Madness Tiny</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#avp2501"><em>avp2501</em></a></li>
+<li>GG-VR_GridMadness_Tiny.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/tc78aok4bkrwpdo/GG-VR_GridMadness_Tiny.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=101471084">Workshop</a></li>
+</ul>
+<p><img src="./images/gg_GridMadness_Tiny.jpeg" alt="IMG" /></p>
+<h2 id="high-jump"><a class="header" href="#high-jump">High Jump</a></h2>
+<ul>
+<li>Authors - <em>Sunzliot</em></li>
+<li>GG-VR_HighJump.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/tig928g6d3aun26/GG-VR_HighJump.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/gg_HighJump.jpeg" alt="IMG" /></p>
+<h2 id="purplish"><a class="header" href="#purplish">Purplish</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Mr.RoBoT"><em>Mr.RoBoT</em></a></li>
+<li>GG-Purplish.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/tnjvbb3ivq9d92v/GG-Purplish.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=98049290">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/gg-purplish.74933/">Forum</a>, <a href="https://www.moddb.com/games/killing-floor/addons/gg-purplish">ModDb</a></li>
+</ul>
+<p><img src="./images/gg_Purplish.jpeg" alt="IMG" /></p>
+<h2 id="street"><a class="header" href="#street">Street</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Mr.RoBoT"><em>Mr.RoBoT</em></a></li>
+<li>GG-Streetv2.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/bxmm27a0ua4zrm2/GG-Streetv2.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=98050666">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/gg-street.74651/">Forum</a>, <a href="https://www.moddb.com/games/killing-floor/addons/gg-streetv2">ModDb</a></li>
+</ul>
+<p><img src="./images/gg_Street.jpeg" alt="IMG" /></p>
+<h2 id="camo-time"><a class="header" href="#camo-time">Camo Time</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Mr.RoBoT"><em>Mr.RoBoT</em></a></li>
+<li>GG-CamoTime.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/zw0faimt8a8g2ch/GG-CamoTime.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=98048459">Workshop</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/gg-camotime.75365/">Forum</a>, <a href="https://www.moddb.com/games/killing-floor/addons/gg-camotime">ModDb</a></li>
+</ul>
+<p><img src="./images/gg_CamoTime.jpeg" alt="IMG" /></p>
+<h2 id="1fort"><a class="header" href="#1fort">1Fort</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Smiff"><em>Beasty</em></a></li>
+<li>GG-1Fort.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/bbk8mf9ku588bde/GG-1Fort.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/gg_1Fort.jpeg" alt="IMG" /></p>
+<h2 id="siamese-towers"><a class="header" href="#siamese-towers">Siamese Towers</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Smiff"><em>Beasty</em></a></li>
+<li>GG-SiameseTowersLowGrav.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/k9eac85wce1n0ok/GG-SiameseTowersLowGrav.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/gg_SiameseTowers.jpeg" alt="IMG" /></p>
+<h2 id="block-party"><a class="header" href="#block-party">Block Party</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Fel"><em>Fel</em></a></li>
+<li>GG-BlockParty.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/d7ydmofbm6dmjj3/GG-BlockParty.zip/file">Mediafire</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/gg-blockparty.75367/">Forum</a></li>
+</ul>
+<p><img src="./images/gg_BlockParty.jpeg" alt="IMG" /></p>
+<h2 id="laser-room"><a class="header" href="#laser-room">Laser Room</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Bangulo"><em>Bangulo</em></a></li>
+<li>GG-LaserRoomV1.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/tgm8uukvm1yogdi/GG-LaserRoomV1.zip/file">Mediafire</a>, <a href="https://forums.tripwireinteractive.com/index.php?threads/gg-laserroom.77187/">Forum</a></li>
+</ul>
+<p><img src="./images/gg_LaserRoom.jpeg" alt="IMG" /></p>
+<h2 id="cs-office"><a class="header" href="#cs-office">CS Office</a></h2>
+<ul>
+<li>Authors - <em>Lone Greeble</em></li>
+<li>GG-Office.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/cexicra7zr90s14/GG-Office.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/gg_Office1.jpeg" alt="IMG" />
+<img src="./images/gg_Office2.jpeg" alt="IMG" /></p>
+<h2 id="deck16"><a class="header" href="#deck16">Deck16</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#BartBear"><em>BartBear</em></a></li>
+<li>GG-Deck16.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/dktdsb1n5aigqed/GG-Deck16.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/gg_Deck16.jpeg" alt="IMG" /></p>
+<h2 id="pasas-small-arena"><a class="header" href="#pasas-small-arena">Pasas Small Arena</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#BartBear"><em>BartBear</em></a></li>
+<li>GG-Pasas_small_arena_b1.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/e67c5e27c73rboy/GG-Pasas_small_arena_b1.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/gg_Pasas_small.jpeg" alt="IMG" /></p>
+<h2 id="snow"><a class="header" href="#snow">Snow</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#UltraK!11"><em>UltraK!11</em></a></li>
+<li>GG-Snow[UltraMapping].rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/vu719cuyp858g26/GG-Snow%5BUltraMapping%5D.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=305788271">Workshop</a>, <a href="https://web.archive.org/web/*/http://killingfloor.ru/xforum/threads/gg-snow-ultramapping.3929/">Forum (Wayback Machine)</a></li>
+</ul>
+<p><img src="./images/gg_Snow.jpeg" alt="IMG" /></p>
+<h2 id="shank"><a class="header" href="#shank">Shank</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#UltraK!11"><em>UltraK!11</em></a></li>
+<li>GG-Shank[UltraMapping].rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/sd43hwkav6rznxz/GG-Shank%255BUltraMapping%255D.zip/file">Mediafire</a>, <a href="https://web.archive.org/web/*/http://killingfloor.ru/xforum/threads/gg-shank.2876/">Forum (Wayback Machine)</a></li>
+</ul>
+<p><img src="./images/gg_Shank.jpeg" alt="IMG" /></p>
+<h2 id="fatal-instinct"><a class="header" href="#fatal-instinct">Fatal Instinct</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#UltraK!11"><em>UltraK!11</em></a></li>
+<li>GG-FatalInstinct[UltraMapping].rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/77kibhj5ul3c583/GG-FatalInstinct%5BUltraMapping%5D.zip/file">Mediafire</a>, <a href="https://web.archive.org/web/*//xforum/threads/gg-fatal-instinct.2910/">Forum (Wayback Machine)</a></li>
+</ul>
+<p><img src="./images/gg_FatalInstinct.jpeg" alt="IMG" /></p>
+<h2 id="survive-this-bitch"><a class="header" href="#survive-this-bitch">Survive this Bitch</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#GunsForBucks"><em>GunsForBucks</em></a></li>
+<li>GG-SurviveThisB_V01_ws.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/9edpdhd67pl22v0/GG-SurviveThisB_V01_ws.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=339984507">Workshop</a></li>
+</ul>
+<p><img src="./images/gg_SurviveThisB.jpeg" alt="IMG" /></p>
+<h2 id="survive-this-bitch-low-gravity"><a class="header" href="#survive-this-bitch-low-gravity">Survive this Bitch Low Gravity</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#GunsForBucks"><em>GunsForBucks</em></a></li>
+<li>GG-SurviveThisB_LG_ws.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/9ei4h4848zr0em9/GG-SurviveThisB_LG_ws.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=368017984">Workshop</a></li>
+</ul>
+<h2 id="zed-county"><a class="header" href="#zed-county">Zed County</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#GunsForBucks"><em>GunsForBucks</em></a></li>
+<li>GG-Zed_County_Final_ws.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/9qidt2t73okady5/GG-Zed_County_Final_ws.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=367768575">Workshop</a></li>
+</ul>
+<p><img src="./images/gg_Zed_County.jpeg" alt="IMG" /></p>
+<h2 id="zed-county-low-gravity"><a class="header" href="#zed-county-low-gravity">Zed County Low Gravity</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#GunsForBucks"><em>GunsForBucks</em></a></li>
+<li>GG-Zed_County_LG_Final_ws.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/o3zf6e4o9eoekus/GG-Zed_County_LG_Final_ws.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=367775367">Workshop</a></li>
+</ul>
+<h2 id="uptime-funk"><a class="header" href="#uptime-funk">Uptime Funk</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Davidosski"><em>Davidosski</em></a></li>
+<li>GG-Uptime_Funk.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/68vnelorzzmgnuf/GG-Uptime_Funk.zip/file">Mediafire</a>, <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2385064757">Workshop</a></li>
+</ul>
+<p><img src="./images/gg_Uptime_Funk.jpeg" alt="IMG" /></p>
+<h2 id="platform"><a class="header" href="#platform">Platform</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Mastrocoltello"><em>Mastrocoltello</em></a></li>
+<li>GG-Platform.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/bz69kwid0rjfi8p/GG-Platform.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Platform.png" alt="IMG" /></p>
+<h2 id="platform-low-gravity"><a class="header" href="#platform-low-gravity">Platform Low Gravity</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Mastrocoltello"><em>Mastrocoltello</em></a></li>
+<li>GG-Platform_Low_Grav.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/jiy962x203wkthn/GG-Platform_Low_Grav.zip/file">Mediafire</a></li>
+</ul>
+<h2 id="aftermath"><a class="header" href="#aftermath">Aftermath</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-TR_Aftermath.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/2djo6ufma2bqzg9/GG-TR_Aftermath.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-TR_Aftermath.png" alt="IMG" /></p>
+<h2 id="encruzilhada"><a class="header" href="#encruzilhada">Encruzilhada</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-Encruzilhada.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/1n415gjxi2yvgqb/GG-Encruzilhada.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Encruzilhada.png" alt="IMG" /></p>
+<h2 id="noshahr-canals"><a class="header" href="#noshahr-canals">Noshahr Canals</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-NoshahrCanals.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/7s2342owtewfnap/GG-NoshahrCanals.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-NoshahrCanals.png" alt="IMG" /></p>
+<h2 id="octogono"><a class="header" href="#octogono">Octogono</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-Octogono.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/scbqssnw4l7yxr0/GG-Octogono.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Octogono.png" alt="IMG" /></p>
+<h2 id="hangar"><a class="header" href="#hangar">Hangar</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-Hangar.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/8tqzf1uhbdaicf4/GG-Hangar.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Hangar.png" alt="IMG" /></p>
+<h2 id="nova-deli"><a class="header" href="#nova-deli">Nova Deli</a></h2>
+<ul>
+<li>Authors - <em>Symec</em> &amp; <a href="./tech/Links.html#rain962"><em>rain962</em></a></li>
+<li>GG-NovaDeli.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/13rgsofgu00dpug/GG-NovaDeli.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-NovaDeli.png" alt="IMG" /></p>
+<h2 id="security-floor"><a class="header" href="#security-floor">Security Floor</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-SecurityFloorB1.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/uptap8j8pkroxon/GG-SecurityFloorB1.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-SecurityFloorB1.png" alt="IMG" /></p>
+<h2 id="ponte"><a class="header" href="#ponte">Ponte</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-Ponte.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/ph49exuzgi44hur/GG-Ponte.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Ponte.png" alt="IMG" /></p>
+<h2 id="high-rise"><a class="header" href="#high-rise">High Rise</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-HighRise.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/ienjlzuakv0eef0/GG-HighRise.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-HighRise.png" alt="IMG" /></p>
+<h2 id="swamp"><a class="header" href="#swamp">Swamp</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Kyben"><em>Kyben</em></a> &amp; <em>Maul</em></li>
+<li>GG-Swamp.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/jabws4zfmiqd22n/GG-Swamp.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Swamp.png" alt="IMG" /></p>
+<h2 id="dust-2"><a class="header" href="#dust-2">Dust 2</a></h2>
+<ul>
+<li>Authors - <em>Equinox</em></li>
+<li>GG-Dust2.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/crtimt0bevtxo9f/GG-Dust2.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Dust2.png" alt="IMG" /></p>
+<h2 id="favela"><a class="header" href="#favela">Favela</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#Smiff"><em>BeastFiend</em></a></li>
+<li>GG-Favela.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/9hk0e8ip1urinif/GG-Favela.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Favela.png" alt="IMG" /></p>
+<h2 id="arcade-laboratory"><a class="header" href="#arcade-laboratory">Arcade Laboratory</a></h2>
+<ul>
+<li>Authors - <a href="./tech/Links.html#kingshinobi"><em>kingshinobi</em></a></li>
+<li>GG-Arcade-Laboratory.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/kgkga976ozwbn4n/GG-Arcade-Laboratory.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Arcade-Laboratory.png" alt="IMG" /></p>
+<h2 id="battlefield-3-metro"><a class="header" href="#battlefield-3-metro">Battlefield 3 Metro</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-BF3metro.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/iwbsmd63ajf24k2/GG-BF3metro.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-BF3metro.png" alt="IMG" /></p>
+<h2 id="combat"><a class="header" href="#combat">Combat</a></h2>
+<ul>
+<li>Authors - <em>UNKNOWN</em></li>
+<li>GG-Combat.rom</li>
+<li>Links - <a href="https://www.mediafire.com/file/zlsghjub29m8jjn/GG-Combat.zip/file">Mediafire</a></li>
+</ul>
+<p><img src="./images/GG-Combat.png" alt="IMG" /></p>
+
+                </main>
+
+                <nav class="nav-wrapper" aria-label="Page navigation">
+                    <!-- Mobile navigation buttons -->
+                    <a rel="prev" href="GlassHouse.html" class="mobile-nav-chapters previous"
+                        title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="KFMode.html" class="mobile-nav-chapters next"
+                        title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+
+                    <div style="clear: both"></div>
+                </nav>
+            </div>
+        </div>
+
+
+    </div>
+
+
+
+    <script type="text/javascript">
+        window.playground_copyable = true;
+    </script>
+
+
+    <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+
+    <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+    <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+    <!-- Custom JS scripts -->
+    <script type="text/javascript" src="theme/pagetoc.js"></script>
+
+
+</body>
+
+</html>
