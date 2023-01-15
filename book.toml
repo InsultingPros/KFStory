@@ -1,0 +1,33 @@
+# source: https://rust-lang.github.io/mdBook/format/configuration/index.html
+[book]
+title = "Story Gametypes and Maps"
+authors = ["Shtoyan"]
+description = "Map lists for KF1 objective based gametypes."
+src = "src"
+language = "en"
+multilingual = false
+
+[build]
+build-dir = "book"
+create-missing = true
+use-default-preprocessors = true
+extra-watch-dirs = []
+
+[preprocessor.pagetoc]
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]
+default-theme = "Ayu"
+preferred-dark-theme = "Ayu"
+curly-quotes = true
+mathjax-support = false
+copy-fonts = true
+no-section-label = true
+git-repository-url = "https://github.com/InsultingPros/KFStory"
+git-repository-icon = "fa-github-alt"
+edit-url-template = "https://github.com/InsultingPros/KFStory/issues/new/choose"
+site-url = "/KFStory/"
+# so Github 404 pages won't work if you don't set this variable...
+# https://github.com/rust-lang/mdBook/issues/1764#issuecomment-1063384964
+use-site-url-as-root = true
+input-404 = "404.md"

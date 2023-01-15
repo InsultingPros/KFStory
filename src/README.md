@@ -17,7 +17,7 @@
 [DMN666]: <http://steamcommunity.com/profiles/76561198058194020>
 [atagene]: <https://www.deviantart.com/atagene>
 
-!> Map lists are **HUGE**, a lot of days were spent sorting files, creating categories and filling in all the information in the right places. So there can be typos, missing maps, links, credits and false information. If you find any please let us know: [Github Issues].
+> Map lists are **HUGE**, a lot of days were spent sorting files, creating categories and filling in all the information in the right places. So there can be typos, missing maps, links, credits and false information. If you find any please let us know: [Github Issues].
 
 ## General Info
 
@@ -37,7 +37,7 @@ This allow archives to be opened in windows explorer. I could go for `*.rar` or 
 
 * All list entries follow the same format:
   * **Title**: map name.
-  * **Authors**: one or more, with [links to user accounts](./_links.md#map-authors) (if there are any).
+  * **Authors**: one or more, with [links to user accounts](./Links.md#map-authors) (if there are any).
   * **Map filename**: with prefix ofc.
   * **Links**: starting from DL then Workshop, Forum, ModDb, Site (if there are any).
   * **Notes**: a special section for greylisted maps or when I need to warn you about game breaking stuff / [CustomSpawnFix].
@@ -61,9 +61,9 @@ Some maps can work in [Objective mode](./KFObjective.md) if you rename their pre
 
 ## Map Packages
 
-!> Always keep [CustomSpawnFix] around, it will help greatly if you have invisible zeds. Thanks Tripwire for renaming zed classes in latest patches and breaking old story maps.
+> Always keep [CustomSpawnFix] around, it will help greatly if you have invisible zeds. Thanks Tripwire for renaming zed classes in latest patches and breaking old story maps.
 
-!> Avoid [NetReduce] and [NetReduceSE] at all costs, or you will get broken spawns, pickups, missing keys, switches, etc etc.
+> Avoid [NetReduce] and [NetReduceSE] at all costs, or you will get broken spawns, pickups, missing keys, switches, etc etc.
 
 These packages are **Whitelisted**, if you see them don't worry:
 
@@ -101,6 +101,6 @@ H=(M="KF-SaarV7",P=9,S=5,G=,U="CustomSpawnFix.CustomSpawnFixMut")
 
 **[DMN666]**: his original [thread](https://forums.tripwireinteractive.com/index.php?threads/kf-game-modes-and-maps.101777/) helped me a lot when I started this project. Without him this thread wouldn't exist.
 
-**KillingFloor.ru** and staff: this forum was a great host for my initial [thread (use Wayback Machine)](http://killingfloor.ru/xforum/threads/kf-story-gametypes-i-karty-k-nim.4219/).
+**KillingFloor.ru** and staff: this forum was a great host for my initial [thread (Wayback Machine)](https://web.archive.org/web/*/http://killingfloor.ru/xforum/threads/kf-story-gametypes-i-karty-k-nim.4219/).
 
 **[atagene]**: thanks for a nice [logo](https://www.deviantart.com/atagene/art/Killing-Floor-Text-522558359)!

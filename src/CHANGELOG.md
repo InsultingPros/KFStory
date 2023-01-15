@@ -1,3 +1,7 @@
+## [2023.01.15] Convert to `mdbook`
+
+To have better control over generated static site and faster loading.
+
 ## [2022.05.15] Author Links
 
 * Added GitHub, Steam, TWI-KF.ru Forum, ModDB, etc links to authors.
