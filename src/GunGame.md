@@ -7,7 +7,7 @@ Official deathmatch by TWI, very similar to Battlefield's [gun master](https://b
 
 Cmdline for dedicated servers:
 
-```clike
+```java
 Game=KFGunGame.KFGG?MaxPlayers=32?MinPlayers=8
 Game=LongGunGame.KFGG
 Game=iSnipe.KFGG

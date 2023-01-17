@@ -13,7 +13,7 @@ It comes with 2 mutators:
 
 Cmdline for dedicated servers:
 
-```clike
+```java
 Game=DoomPawnsKF.DoomGameType
 ```
 

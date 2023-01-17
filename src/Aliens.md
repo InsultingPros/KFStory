@@ -6,7 +6,7 @@ Giger's creatures came to have some fun in KF. Recommended to play on medium gam
 
 Cmdline for dedicated servers:
 
-```clike
+```java
 Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFServerPerksMut,AliensKFXenos.MutAliensPath,AliensKFExtra.AKFDetailMut
 ```
 

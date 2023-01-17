@@ -4,7 +4,7 @@ Official Objective mode by TWI. It grew up from [*Alex Quick*](./Links.md#KF_Ale
 
 Cmdline for dedicated servers:
 
-```clike
+```java
 Game=KFStoryGame.KFStoryGameInfo
 ```
 
