@@ -1,36 +1,31 @@
-name: GH Pages Deploy
+# https://github.com/peaceiris/actions-mdbook
+name: GitHub Pages
 
 on:
   push:
-    branches: [main]
-    paths-ignore:
-      - "docs/**"
-
+    branches:
+      - main
   pull_request:
-    branches: [main]
-    paths-ignore:
-      - "docs/**"
 
 jobs:
-  build-deploy:
+  deploy:
     runs-on: ubuntu-latest
-
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - name: Install mdbook
-        run: cargo install mdbook
+      - name: Setup mdBook
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: "latest"
+          # mdbook-version: 'latest' / "0.4.25"
 
-      - name: Install mdbook plugins
-        run: cargo install mdbook-pagetoc
+      - run: mdbook build
 
-      - name: Build
-        run: mdbook build
-
-      - name: Deploy to GitHub Pages
-        if: ${{ github.event_name != 'pull_request' }}
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: book
+          publish_dir: ./book
