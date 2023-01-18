@@ -14,10 +14,10 @@
 
 [MapVoteFix v2]: <https://forums.tripwireinteractive.com/index.php?threads/mod-voting-handler-fix.43202/>
 
-[DMN666]: <http://steamcommunity.com/profiles/76561198058194020>
+[DMN666]: <https://steamcommunity.com/profiles/76561198058194020>
 [atagene]: <https://www.deviantart.com/atagene>
 
-> Map lists are **HUGE**, a lot of days were spent sorting files, creating categories and filling in all the information in the right places. So there can be typos, missing maps, links, credits and false information. If you find any please let us know: [Github Issues].
+> Map lists are **HUGE**, a lot of days were spent sorting files, creating categories and filling in all the information in the right places. So there can be typos, missing maps, links, credits and false information. If you find any please let us know: [Github Issues] / [Discord](https://discord.gg/eREYb3AgeT).
 
 ## General Info
 
