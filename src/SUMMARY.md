@@ -17,6 +17,6 @@
 
 # Tech Corner
 
-- [To Do](./TODO.md)
-- [Changelog](./CHANGELOG.md)
-- [Reference Links](./Links.md)
+- [Reference Links](./tech/Links.md)
+- [Server Setup](./tech/ServerSetup.md)
+- [Credits](./tech/Credits.md)
