@@ -9,7 +9,7 @@ Game=DeadSpaceKFGameType.DeadSpaceKFGameType
 ```
 
 * Authors - *WPC*
-* Links - [Mediafire](<http://www.mediafire.com/download/rzf46moc11rk3wk/DeadSpaceV2.zip>), [Workshop](<https://steamcommunity.com/workshop/filedetails/?id=98337050>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/dead-space-mod-back-from-the-dead.89700/>), [ModDb](<https://www.moddb.com/mods/kf-dead-space>), [Site (Wayback Machine)](<https://web.archive.org/web/*/http://www.mostimpressive.nl/DeadSpace/>)
+* Links - [Mediafire](<https://www.mediafire.com/download/rzf46moc11rk3wk/DeadSpaceV2.zip>), [Workshop](<https://steamcommunity.com/workshop/filedetails/?id=98337050>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/dead-space-mod-back-from-the-dead.89700/>), [ModDb](<https://www.moddb.com/mods/kf-dead-space>), [Site (Wayback Machine)](<https://web.archive.org/web/*/http://www.mostimpressive.nl/DeadSpace/>)
 * Notes - *Greylisted*
 
 ![IMG](./images/ds_1.jpeg ':size=300')
