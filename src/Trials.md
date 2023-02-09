@@ -14,13 +14,13 @@ Game=TrialsMod.TrialGame
   * TR-Sulferon.rom
   * TR-BeatTrials.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/hd5eo4e233afbew/TrialsMod_Full.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gametype-trials-mod.103311/>)
-* Notes - PowerGenerator-M requires [Doom I / II mod](./Doom.md#Doom-I-/-II-Mod)
+* Notes - PowerGenerator-M requires [Doom I / II mod](./Doom.md#doom-i--ii-mod)
 
-![IMG](./images/tr_Tutorial.jpeg ':size=300')
-![IMG](./images/tr_PowerGenerator.jpeg ':size=300')
-![IMG](./images/tr_Sulferon1.jpeg ':size=300')
-![IMG](./images/tr_Sulferon2.jpeg ':size=300')
-![IMG](./images/tr_BeatTrials.jpeg ':size=300')
+![IMG](./images/tr_Tutorial.jpeg)
+![IMG](./images/tr_PowerGenerator.jpeg)
+![IMG](./images/tr_Sulferon1.jpeg)
+![IMG](./images/tr_Sulferon2.jpeg)
+![IMG](./images/tr_BeatTrials.jpeg)
 
 ## Construction
 
@@ -28,4 +28,4 @@ Game=TrialsMod.TrialGame
 * TR-Construct.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/0sd9yz4v7wxibwz/TR-Construct.zip/file>)
 
-![IMG](./images/tr_Construct.jpeg ':size=300')
+![IMG](./images/tr_Construct.jpeg)

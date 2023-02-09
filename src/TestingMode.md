@@ -9,10 +9,10 @@ These kind of maps allow you to easily train against any zed you want, let it be
 * Links - [Mediafire](<https://www.mediafire.com/file/5m5qd4lxovhpt36/KF-TheTestmap-2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=99193018>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-thetestmap-2.98827/>)
 * Notes - *Greylisted*
 
-![IMG](./images/tm_TestmapV2_1.jpeg ':size=300')
-![IMG](./images/tm_TestmapV2_2.jpeg ':size=300')
-![IMG](./images/tm_TestmapV2_3.jpeg ':size=300')
-![IMG](./images/tm_TestmapV2_4.jpeg ':size=300')
+![IMG](./images/tm_TestmapV2_1.jpeg)
+![IMG](./images/tm_TestmapV2_2.jpeg)
+![IMG](./images/tm_TestmapV2_3.jpeg)
+![IMG](./images/tm_TestmapV2_4.jpeg)
 
 ## The Test Map v1
 
@@ -21,8 +21,8 @@ These kind of maps allow you to easily train against any zed you want, let it be
 * Links - [Mediafire](<https://www.mediafire.com/file/pjmfuuwvuhz170z/KF-TheTestmap.zip/file>)
 * Notes - *Greylisted*
 
-![IMG](./images/tm_TestmapV1_1.jpeg ':size=300')
-![IMG](./images/tm_TestmapV1_2.jpeg ':size=300')
+![IMG](./images/tm_TestmapV1_1.jpeg)
+![IMG](./images/tm_TestmapV1_2.jpeg)
 
 ## Steamy Test Map
 
@@ -31,9 +31,9 @@ These kind of maps allow you to easily train against any zed you want, let it be
 * Links - [Mediafire](<https://www.mediafire.com/file/5y6j4dckbs9bnx7/KF-SteamyTestMapV3.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=288451842>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-steamytestmap.97358/>)
 * Notes - *Greylisted*
 
-![IMG](./images/tm_SteamyTestMap1.jpeg ':size=300')
-![IMG](./images/tm_SteamyTestMap2.jpeg ':size=300')
-![IMG](./images/tm_SteamyTestMap3.jpeg ':size=300')
+![IMG](./images/tm_SteamyTestMap1.jpeg)
+![IMG](./images/tm_SteamyTestMap2.jpeg)
+![IMG](./images/tm_SteamyTestMap3.jpeg)
 
 ## Steamy Test Map Rodeo Mod
 
@@ -42,8 +42,8 @@ These kind of maps allow you to easily train against any zed you want, let it be
 * Links - [Mediafire](<https://www.mediafire.com/file/65pjdgww109c4dl/KF-SteamyTestMapV3RodeoMod.zip/file>)
 * Notes - *Greylisted*
 
-![IMG](./images/tm_RodeoMod1.jpeg ':size=300')
-![IMG](./images/tm_RodeoMod2.jpeg ':size=300')
+![IMG](./images/tm_RodeoMod1.jpeg)
+![IMG](./images/tm_RodeoMod2.jpeg)
 
 ## ScrN Testing Grounds
 
@@ -52,4 +52,4 @@ These kind of maps allow you to easily train against any zed you want, let it be
 * Links - [Mediafire](<https://www.mediafire.com/file/15091afnx1lxugu/KF-ScrnTestGrounds.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=312696626>)
 * Notes - *Greylisted*
 
-![IMG](./images/tm_ScrnTestGrounds.jpeg ':size=300')
+![IMG](./images/tm_ScrnTestGrounds.jpeg)

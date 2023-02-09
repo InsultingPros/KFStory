@@ -27,25 +27,25 @@ Game=iSnipe.KFGG
   * GG-VR_VerticalLowGrav.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/nnzsg2eyda64m8d/KFGunGame.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=97706196>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/mod-release-kf-gun-game-v-0-70-alpha.85621/>)
 
-![IMG](./images/gg_Bloreen.jpeg ':size=300')
-![IMG](./images/gg_CloseQuarters.jpeg ':size=300')
-![IMG](./images/gg_Stairways.jpeg ':size=300')
-![IMG](./images/gg_Ramps.jpeg ':size=300')
-![IMG](./images/gg_Vertical.jpeg ':size=300')
+![IMG](./images/gg_Bloreen.jpeg)
+![IMG](./images/gg_CloseQuarters.jpeg)
+![IMG](./images/gg_Stairways.jpeg)
+![IMG](./images/gg_Ramps.jpeg)
+![IMG](./images/gg_Vertical.jpeg)
 
 ## Long Gun Game
 
 * Authors - [*nejcooo*](./tech/Links.md#nejcooo)
 * Links - [Mediafire](<https://www.mediafire.com/file/7tb9xmpumo2pkqd/LongGunGame.zip/file>)
 
-![IMG](./images/gg_LongGunGame.jpeg ':size=300')
+![IMG](./images/gg_LongGunGame.jpeg)
 
 ## iSnipe
 
 * Authors - [*nejcooo*](./tech/Links.md#nejcooo)
 * Links - [Mediafire](<https://www.mediafire.com/file/mrhfsz7lyusbr8r/iSnipe.zip/file>)
 
-![IMG](./images/gg_ISnipe.jpeg ':size=300')
+![IMG](./images/gg_ISnipe.jpeg)
 
 ## Space and Watermelons
 
@@ -53,7 +53,7 @@ Game=iSnipe.KFGG
 * GG-SpaceAndWatermelons.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/wy8vgauwf8d4vn4/GG-SpaceAndWatermelons.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=1322418475>)
 
-![IMG](./images/gg_SpaceAndWatermelons.jpeg ':size=300')
+![IMG](./images/gg_SpaceAndWatermelons.jpeg)
 
 ## Vortex
 
@@ -61,7 +61,7 @@ Game=iSnipe.KFGG
 * GG-Vortex.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/bmyfgtfoymow19g/GG-Vortex.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=237662047>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gg-vortex.100740/>)
 
-![IMG](./images/gg_Vortex.jpeg ':size=300')
+![IMG](./images/gg_Vortex.jpeg)
 
 ## Opposing Fronts
 
@@ -69,7 +69,7 @@ Game=iSnipe.KFGG
 * GG-VR_OpposingFronts.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/0i4e5taw7j7rqne/GG-VR_OpposingFronts.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=101645255>)
 
-![IMG](./images/gg_OpposingFronts.jpeg ':size=300')
+![IMG](./images/gg_OpposingFronts.jpeg)
 
 ## Corridor Tiny
 
@@ -77,7 +77,7 @@ Game=iSnipe.KFGG
 * GG-VR_Corridor_Tiny.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/6wtdpaip88cuk95/GG-VR_Corridor_Tiny.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=101549771>)
 
-![IMG](./images/gg_Corridor_Tiny.jpeg ':size=300')
+![IMG](./images/gg_Corridor_Tiny.jpeg)
 
 ## Multi Story
 
@@ -85,7 +85,7 @@ Game=iSnipe.KFGG
 * GG-VR_MultiStory.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/p75t84w5owj6s4d/GG-VR_MultiStory.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=102353471>)
 
-![IMG](./images/gg_MultiStory.jpeg ':size=300')
+![IMG](./images/gg_MultiStory.jpeg)
 
 ## Grid Madness Large
 
@@ -93,7 +93,7 @@ Game=iSnipe.KFGG
 * GG-VR_GridMadness_Large.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/kyq86rsoa7dn8wo/GG-VR_GridMadness_Large.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=101547928>)
 
-![IMG](./images/gg_GridMadness_Large.jpeg ':size=300')
+![IMG](./images/gg_GridMadness_Large.jpeg)
 
 ## Grid Madness Tiny
 
@@ -101,7 +101,7 @@ Game=iSnipe.KFGG
 * GG-VR_GridMadness_Tiny.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/tc78aok4bkrwpdo/GG-VR_GridMadness_Tiny.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=101471084>)
 
-![IMG](./images/gg_GridMadness_Tiny.jpeg ':size=300')
+![IMG](./images/gg_GridMadness_Tiny.jpeg)
 
 ## High Jump
 
@@ -109,7 +109,7 @@ Game=iSnipe.KFGG
 * GG-VR_HighJump.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/tig928g6d3aun26/GG-VR_HighJump.zip/file>)
 
-![IMG](./images/gg_HighJump.jpeg ':size=300')
+![IMG](./images/gg_HighJump.jpeg)
 
 ## Purplish
 
@@ -117,7 +117,7 @@ Game=iSnipe.KFGG
 * GG-Purplish.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/tnjvbb3ivq9d92v/GG-Purplish.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98049290>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gg-purplish.74933/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/gg-purplish>)
 
-![IMG](./images/gg_Purplish.jpeg ':size=300')
+![IMG](./images/gg_Purplish.jpeg)
 
 ## Street
 
@@ -125,7 +125,7 @@ Game=iSnipe.KFGG
 * GG-Streetv2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/bxmm27a0ua4zrm2/GG-Streetv2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98050666>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gg-street.74651/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/gg-streetv2>)
 
-![IMG](./images/gg_Street.jpeg ':size=300')
+![IMG](./images/gg_Street.jpeg)
 
 ## Camo Time
 
@@ -133,7 +133,7 @@ Game=iSnipe.KFGG
 * GG-CamoTime.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/zw0faimt8a8g2ch/GG-CamoTime.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98048459>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gg-camotime.75365/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/gg-camotime>)
 
-![IMG](./images/gg_CamoTime.jpeg ':size=300')
+![IMG](./images/gg_CamoTime.jpeg)
 
 ## 1Fort
 
@@ -141,7 +141,7 @@ Game=iSnipe.KFGG
 * GG-1Fort.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/bbk8mf9ku588bde/GG-1Fort.zip/file>)
 
-![IMG](./images/gg_1Fort.jpeg ':size=300')
+![IMG](./images/gg_1Fort.jpeg)
 
 ## Siamese Towers
 
@@ -149,7 +149,7 @@ Game=iSnipe.KFGG
 * GG-SiameseTowersLowGrav.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/k9eac85wce1n0ok/GG-SiameseTowersLowGrav.zip/file>)
 
-![IMG](./images/gg_SiameseTowers.jpeg ':size=300')
+![IMG](./images/gg_SiameseTowers.jpeg)
 
 ## Block Party
 
@@ -157,7 +157,7 @@ Game=iSnipe.KFGG
 * GG-BlockParty.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/d7ydmofbm6dmjj3/GG-BlockParty.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gg-blockparty.75367/>)
 
-![IMG](./images/gg_BlockParty.jpeg ':size=300')
+![IMG](./images/gg_BlockParty.jpeg)
 
 ## Laser Room
 
@@ -165,7 +165,7 @@ Game=iSnipe.KFGG
 * GG-LaserRoomV1.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/tgm8uukvm1yogdi/GG-LaserRoomV1.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gg-laserroom.77187/>)
 
-![IMG](./images/gg_LaserRoom.jpeg ':size=300')
+![IMG](./images/gg_LaserRoom.jpeg)
 
 ## CS Office
 
@@ -173,8 +173,8 @@ Game=iSnipe.KFGG
 * GG-Office.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/cexicra7zr90s14/GG-Office.zip/file>)
 
-![IMG](./images/gg_Office1.jpeg ':size=300')
-![IMG](./images/gg_Office2.jpeg ':size=300')
+![IMG](./images/gg_Office1.jpeg)
+![IMG](./images/gg_Office2.jpeg)
 
 ## Deck16
 
@@ -182,7 +182,7 @@ Game=iSnipe.KFGG
 * GG-Deck16.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/dktdsb1n5aigqed/GG-Deck16.zip/file>)
 
-![IMG](./images/gg_Deck16.jpeg ':size=300')
+![IMG](./images/gg_Deck16.jpeg)
 
 ## Pasas Small Arena
 
@@ -190,7 +190,7 @@ Game=iSnipe.KFGG
 * GG-Pasas_small_arena_b1.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/e67c5e27c73rboy/GG-Pasas_small_arena_b1.zip/file>)
 
-![IMG](./images/gg_Pasas_small.jpeg ':size=300')
+![IMG](./images/gg_Pasas_small.jpeg)
 
 ## Snow
 
@@ -198,7 +198,7 @@ Game=iSnipe.KFGG
 * GG-Snow[UltraMapping].rom
 * Links - [Mediafire](<https://www.mediafire.com/file/vu719cuyp858g26/GG-Snow%5BUltraMapping%5D.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=305788271>), [Forum (Wayback Machine)](<https://web.archive.org/web/*/http://killingfloor.ru/xforum/threads/gg-snow-ultramapping.3929/>)
 
-![IMG](./images/gg_Snow.jpeg ':size=300')
+![IMG](./images/gg_Snow.jpeg)
 
 ## Shank
 
@@ -206,7 +206,7 @@ Game=iSnipe.KFGG
 * GG-Shank[UltraMapping].rom
 * Links - [Mediafire](<https://www.mediafire.com/file/sd43hwkav6rznxz/GG-Shank%255BUltraMapping%255D.zip/file>), [Forum (Wayback Machine)](<https://web.archive.org/web/*/http://killingfloor.ru/xforum/threads/gg-shank.2876/>)
 
-![IMG](./images/gg_Shank.jpeg ':size=300')
+![IMG](./images/gg_Shank.jpeg)
 
 ## Fatal Instinct
 
@@ -214,7 +214,7 @@ Game=iSnipe.KFGG
 * GG-FatalInstinct[UltraMapping].rom
 * Links - [Mediafire](<https://www.mediafire.com/file/77kibhj5ul3c583/GG-FatalInstinct%5BUltraMapping%5D.zip/file>), [Forum (Wayback Machine)](<https://web.archive.org/web/*//xforum/threads/gg-fatal-instinct.2910/>)
 
-![IMG](./images/gg_FatalInstinct.jpeg ':size=300')
+![IMG](./images/gg_FatalInstinct.jpeg)
 
 ## Survive this Bitch
 
@@ -222,7 +222,7 @@ Game=iSnipe.KFGG
 * GG-SurviveThisB_V01_ws.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/9edpdhd67pl22v0/GG-SurviveThisB_V01_ws.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=339984507>)
 
-![IMG](./images/gg_SurviveThisB.jpeg ':size=300')
+![IMG](./images/gg_SurviveThisB.jpeg)
 
 ## Survive this Bitch Low Gravity
 
@@ -236,7 +236,7 @@ Game=iSnipe.KFGG
 * GG-Zed_County_Final_ws.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/9qidt2t73okady5/GG-Zed_County_Final_ws.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=367768575>)
 
-![IMG](./images/gg_Zed_County.jpeg ':size=300')
+![IMG](./images/gg_Zed_County.jpeg)
 
 ## Zed County Low Gravity
 
@@ -250,7 +250,7 @@ Game=iSnipe.KFGG
 * GG-Uptime_Funk.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/68vnelorzzmgnuf/GG-Uptime_Funk.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=2385064757>)
 
-![IMG](./images/gg_Uptime_Funk.jpeg ':size=300')
+![IMG](./images/gg_Uptime_Funk.jpeg)
 
 ## Platform
 
@@ -258,7 +258,7 @@ Game=iSnipe.KFGG
 * GG-Platform.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/bz69kwid0rjfi8p/GG-Platform.zip/file>)
 
-![IMG](./images/GG-Platform.png ':size=300')
+![IMG](./images/GG-Platform.png)
 
 ## Platform Low Gravity
 
@@ -272,7 +272,7 @@ Game=iSnipe.KFGG
 * GG-TR_Aftermath.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/2djo6ufma2bqzg9/GG-TR_Aftermath.zip/file>)
 
-![IMG](./images/GG-TR_Aftermath.png ':size=300')
+![IMG](./images/GG-TR_Aftermath.png)
 
 ## Encruzilhada
 
@@ -280,7 +280,7 @@ Game=iSnipe.KFGG
 * GG-Encruzilhada.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/1n415gjxi2yvgqb/GG-Encruzilhada.zip/file>)
 
-![IMG](./images/GG-Encruzilhada.png ':size=300')
+![IMG](./images/GG-Encruzilhada.png)
 
 ## Noshahr Canals
 
@@ -288,7 +288,7 @@ Game=iSnipe.KFGG
 * GG-NoshahrCanals.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/7s2342owtewfnap/GG-NoshahrCanals.zip/file>)
 
-![IMG](./images/GG-NoshahrCanals.png ':size=300')
+![IMG](./images/GG-NoshahrCanals.png)
 
 ## Octogono
 
@@ -296,7 +296,7 @@ Game=iSnipe.KFGG
 * GG-Octogono.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/scbqssnw4l7yxr0/GG-Octogono.zip/file>)
 
-![IMG](./images/GG-Octogono.png ':size=300')
+![IMG](./images/GG-Octogono.png)
 
 ## Hangar
 
@@ -304,7 +304,7 @@ Game=iSnipe.KFGG
 * GG-Hangar.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/8tqzf1uhbdaicf4/GG-Hangar.zip/file>)
 
-![IMG](./images/GG-Hangar.png ':size=300')
+![IMG](./images/GG-Hangar.png)
 
 ## Nova Deli
 
@@ -312,7 +312,7 @@ Game=iSnipe.KFGG
 * GG-NovaDeli.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/13rgsofgu00dpug/GG-NovaDeli.zip/file>)
 
-![IMG](./images/GG-NovaDeli.png ':size=300')
+![IMG](./images/GG-NovaDeli.png)
 
 ## Security Floor
 
@@ -320,7 +320,7 @@ Game=iSnipe.KFGG
 * GG-SecurityFloorB1.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/uptap8j8pkroxon/GG-SecurityFloorB1.zip/file>)
 
-![IMG](./images/GG-SecurityFloorB1.png ':size=300')
+![IMG](./images/GG-SecurityFloorB1.png)
 
 ## Ponte
 
@@ -328,7 +328,7 @@ Game=iSnipe.KFGG
 * GG-Ponte.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/ph49exuzgi44hur/GG-Ponte.zip/file>)
 
-![IMG](./images/GG-Ponte.png ':size=300')
+![IMG](./images/GG-Ponte.png)
 
 ## High Rise
 
@@ -336,7 +336,7 @@ Game=iSnipe.KFGG
 * GG-HighRise.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/ienjlzuakv0eef0/GG-HighRise.zip/file>)
 
-![IMG](./images/GG-HighRise.png ':size=300')
+![IMG](./images/GG-HighRise.png)
 
 ## Swamp
 
@@ -344,7 +344,7 @@ Game=iSnipe.KFGG
 * GG-Swamp.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/jabws4zfmiqd22n/GG-Swamp.zip/file>)
 
-![IMG](./images/GG-Swamp.png ':size=300')
+![IMG](./images/GG-Swamp.png)
 
 ## Dust 2
 
@@ -352,7 +352,7 @@ Game=iSnipe.KFGG
 * GG-Dust2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/crtimt0bevtxo9f/GG-Dust2.zip/file>)
 
-![IMG](./images/GG-Dust2.png ':size=300')
+![IMG](./images/GG-Dust2.png)
 
 ## Favela
 
@@ -360,7 +360,7 @@ Game=iSnipe.KFGG
 * GG-Favela.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/9hk0e8ip1urinif/GG-Favela.zip/file>)
 
-![IMG](./images/GG-Favela.png ':size=300')
+![IMG](./images/GG-Favela.png)
 
 ## Arcade Laboratory
 
@@ -368,7 +368,7 @@ Game=iSnipe.KFGG
 * GG-Arcade-Laboratory.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/kgkga976ozwbn4n/GG-Arcade-Laboratory.zip/file>)
 
-![IMG](./images/GG-Arcade-Laboratory.png ':size=300')
+![IMG](./images/GG-Arcade-Laboratory.png)
 
 ## Battlefield 3 Metro
 
@@ -376,7 +376,7 @@ Game=iSnipe.KFGG
 * GG-BF3metro.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/iwbsmd63ajf24k2/GG-BF3metro.zip/file>)
 
-![IMG](./images/GG-BF3metro.png ':size=300')
+![IMG](./images/GG-BF3metro.png)
 
 ## Combat
 
@@ -384,4 +384,4 @@ Game=iSnipe.KFGG
 * GG-Combat.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/zlsghjub29m8jjn/GG-Combat.zip/file>)
 
-![IMG](./images/GG-Combat.png ':size=300')
+![IMG](./images/GG-Combat.png)

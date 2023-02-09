@@ -2,6 +2,8 @@
 
 - [Welcome](./README.md)
 
+---
+
 # Content
 
 - [Aliens](./Aliens.md)
@@ -14,6 +16,8 @@
 - [Testing Mode](./TestingMode.md)
 - [Toy Master](./ToyMaster.md)
 - [Trials](./Trials.md)
+
+---
 
 # Tech Corner
 

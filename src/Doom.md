@@ -1,4 +1,4 @@
-![IMG](./media/doom.jpeg ':size=400')
+![IMG](./media/doom.jpeg)
 
 ## **Mods**
 
@@ -45,9 +45,9 @@ Game=DoomPawnsKF.DoomGameType
 * Links - [Mediafire](<https://www.mediafire.com/file/3955f9f7zq3vrka/KFDoomCampaign.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98248061>)
 * Notes - *Greylisted*
 
-![IMG](./images/doom_singleplayer1.png ':size=300')
-![IMG](./images/doom_singleplayer2.png ':size=300')
-![IMG](./images/doom_singleplayer3.png ':size=300')
+![IMG](./images/doom_singleplayer1.png)
+![IMG](./images/doom_singleplayer2.png)
+![IMG](./images/doom_singleplayer3.png)
 
 ### Dragged into Hell
 
@@ -60,7 +60,7 @@ Game=DoomPawnsKF.DoomGameType
 * Links - [Mediafire](<https://www.mediafire.com/file/4kcyndtkq6tui72/DraggedintoHell.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98483655>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/draggedintohellv1-for-doom-mutator.43225/>)
 * Notes - *Greylisted*
 
-![IMG](./images/doom_DraggedintoHell1.png ':size=300')
-![IMG](./images/doom_DraggedintoHell2.png ':size=300')
-![IMG](./images/doom_DraggedintoHell3.png ':size=300')
-![IMG](./images/doom_DraggedintoHell4.png ':size=300')
+![IMG](./images/doom_DraggedintoHell1.png)
+![IMG](./images/doom_DraggedintoHell2.png)
+![IMG](./images/doom_DraggedintoHell3.png)
+![IMG](./images/doom_DraggedintoHell4.png)

@@ -14,7 +14,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-Peak.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/pgr1140rqw80687/KFO-Peak.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=189074614>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-peak-haloween-map.98150/>)
 
-![IMG](./images/kfo_Peak.jpeg ':size=300')
+![IMG](./images/kfo_Peak.jpeg)
 
 ## Once Upon A Time In Mexico
 
@@ -22,7 +22,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-OnceUponATimeInMexico.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/328n3qa4n2upxbu/KFO-OnceUponATimeInMexico.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=190214076>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-ouatim-beta.95804/>)
 
-![IMG](./images/kfo_OnceUponATimeInMexico.jpeg ':size=300')
+![IMG](./images/kfo_OnceUponATimeInMexico.jpeg)
 
 ## Resident Evil 1 Mansion
 
@@ -30,7 +30,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-RE1-Mansion-V4.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/lxb2c33al5091io/KFO-RE1-Mansion-V4.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=399639299>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/resident-evil-1-mansion-story-mission-final.44508/>)
 
-![IMG](./images/kfo_RE1_Mansion.jpeg ':size=300')
+![IMG](./images/kfo_RE1_Mansion.jpeg)
 
 ## Haunted Hotel
 
@@ -39,7 +39,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * Links - [Mediafire](<https://www.mediafire.com/file/get97w6j877az2m/KFO-Haunted-Hotel.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=188440184>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-haunted-hotel.98304/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kfo-haunted-hotel>)
 * Notes - *Greylisted*
 
-![IMG](./images/kfo_Haunted_Hotel.jpeg ':size=300')
+![IMG](./images/kfo_Haunted_Hotel.jpeg)
 
 ## Snuff (Solo)
 
@@ -48,8 +48,8 @@ Game=KFStoryGame.KFStoryGameInfo
 * Links - [Mediafire](<https://www.mediafire.com/file/i4hchfya3d7a5zk/KFO-SnuffMonkey.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=171724782>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-snuff.97442/>)
 * Notes - *Greylisted*
 
-![IMG](./images/kfo_SnuffMonkey1.jpeg ':size=300')
-![IMG](./images/kfo_SnuffMonkey2.jpeg ':size=300')
+![IMG](./images/kfo_SnuffMonkey1.jpeg)
+![IMG](./images/kfo_SnuffMonkey2.jpeg)
 
 ## Endless Map Pack
 
@@ -59,9 +59,9 @@ Game=KFStoryGame.KFStoryGameInfo
   * KFO-EvilSantasLair-challenge-endless.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/og1qs9ozliwlshw/Endless+Map+Pack.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=186611598>)
 
-![IMG](./images/kfo_endless_BioticsLab.jpeg ':size=300')
-![IMG](./images/kfo_endless_Biohazard.jpeg ':size=300')
-![IMG](./images/kfo_endless_EvilSantasLair.jpeg ':size=300')
+![IMG](./images/kfo_endless_BioticsLab.jpeg)
+![IMG](./images/kfo_endless_Biohazard.jpeg)
+![IMG](./images/kfo_endless_EvilSantasLair.jpeg)
 
 ## Hive Silent Hill
 
@@ -69,7 +69,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-Hive-SilentHill_v1_0.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/f9dn6m3g84aa3qe/KFO-Hive-SilentHill_v1_0.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=1412850520>)
 
-![IMG](./images/kfo_Hive_SilentHill.jpeg ':size=300')
+![IMG](./images/kfo_Hive_SilentHill.jpeg)
 
 ## Foundry
 
@@ -77,7 +77,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-Foundry-SE.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/nyd4930lbs2bcek/KFO-Foundry-SE.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=207486983>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-foundry-se-scrn-edition.99499/>)
 
-![IMG](./images/kfo_Foundry.png ':size=300')
+![IMG](./images/kfo_Foundry.png)
 
 ## Station
 
@@ -85,7 +85,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-Stationv1-2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/4jjtxjqmb466ji6/KFO-Stationv1-2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=222972534>)
 
-![IMG](./images/kfo_Station.jpeg ':size=300')
+![IMG](./images/kfo_Station.jpeg)
 
 ## Filth's Cross
 
@@ -93,7 +93,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-FilthsCross.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/gj0g9isvwt23g09/KFO-FilthsCross.zip/file>)
 
-![IMG](./images/kfo_FilthsCross.jpeg ':size=300')
+![IMG](./images/kfo_FilthsCross.jpeg)
 
 ## West London v1.3
 
@@ -101,7 +101,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-WestLondon-FE.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/q7bbl7doseds5n5/KFO-WestLondon-FE.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=254449534>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-westlondon.100585/>)
 
-![IMG](./images/kfo_WestLondon.jpeg ':size=300')
+![IMG](./images/kfo_WestLondon.jpeg)
 
 ## West London Survival
 
@@ -109,7 +109,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-WestLondon-Survival.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/u0ije5l1ofqceox/KFO-WestLondon-Survival.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=264566391>)
 
-![IMG](./images/kfo_WestLondon_Survival.jpeg ':size=300')
+![IMG](./images/kfo_WestLondon_Survival.jpeg)
 
 ## Biotics Lab Survival
 
@@ -117,7 +117,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-[Survival]-BioticsLab.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/pab53zv1fx7d5ks/KFO-%5BSurvival%5D-BioticsLab.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=289213740>)
 
-![IMG](./images/kfo_Survival_BioticsLab.jpeg ':size=300')
+![IMG](./images/kfo_Survival_BioticsLab.jpeg)
 
 ## Manor Survival
 
@@ -125,7 +125,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-[Survival]-Manor.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/8n30ecg0d829113/KFO-%5BSurvival%5D-Manor.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=322218109>)
 
-![IMG](./images/kfo_Survival_Manor.jpeg ':size=300')
+![IMG](./images/kfo_Survival_Manor.jpeg)
 
 ## Manor Defence
 
@@ -133,8 +133,8 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-ManorDefence.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/d4195j4qa1b55fm/KFO-ManorDefence.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=299954443>)
 
-![IMG](./images/kfo_ManorDefence1.jpeg ':size=300')
-![IMG](./images/kfo_ManorDefence2.jpeg ':size=300')
+![IMG](./images/kfo_ManorDefence1.jpeg)
+![IMG](./images/kfo_ManorDefence2.jpeg)
 
 ## Boss Arena
 
@@ -142,7 +142,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-BossArena.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/c1b879126qzabpo/KFO-BossArena.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-bossarena.103455/>)
 
-![IMG](./images/kfo_BossArena.jpeg ':size=300')
+![IMG](./images/kfo_BossArena.jpeg)
 
 ## Boss Arena Nerf
 
@@ -150,7 +150,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-BossArenaNerf.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/p9wxdv7xckgifpj/KFO-BossArenaNerf.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=2318348544>)
 
-![IMG](./images/kfo_BossArenaNerf.jpeg ':size=300')
+![IMG](./images/kfo_BossArenaNerf.jpeg)
 
 ## Boss Arena Unlimited Dosh
 
@@ -164,7 +164,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-PlanetaryBattlegroundsZ_Beta01_ws.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/ddy19sf7vlqocw1/KFO-PlanetaryBattlegroundsZ_Beta01_ws.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=354970200>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-planetary-battlegrounds-z.105189/>)
 
-![IMG](./images/kfo_PlanetaryBattlegrounds.jpeg ':size=300')
+![IMG](./images/kfo_PlanetaryBattlegrounds.jpeg)
 
 ## Soylent Zed
 
@@ -172,7 +172,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-SoylentZed_multiplayer_Final_ws.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/z1l4fbxt4vm2eq1/KFO-SoylentZed_multiplayer_Final_ws.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=253942341>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-soylent-zed.101474/>)
 
-![IMG](./images/kfo_SoylentZed.jpeg ':size=300')
+![IMG](./images/kfo_SoylentZed.jpeg)
 
 ## Soylent Zed (Solo)
 
@@ -186,7 +186,7 @@ Game=KFStoryGame.KFStoryGameInfo
 
 Будут появляться только фп. Имейте в виду, что система агра как в старых версиях KF.
 
-![IMG](./media/FPChallenge.png ':size=300')
+![IMG](./media/FPChallenge.png)
 
 ### Biotics Lab FPC
 
@@ -239,7 +239,7 @@ Game=KFStoryGame.KFStoryGameInfo
 
 Для любителей хардкора и длинных игр. На каждые 10 волн +1 патриарх.
 
-![IMG](./media/30Wave.png ':size=300')
+![IMG](./media/30Wave.png)
 
 ### Fright Yard 30WC
 
@@ -273,7 +273,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * Links - [Mediafire](<https://www.mediafire.com/file/o6jtyr24w0p4rds/KFO-RunKittyRun_desertv3.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=299117328>)
 * Notes - *Greylisted*
 
-![IMG](./images/kfo_RunKittyRun.jpeg ':size=300')
+![IMG](./images/kfo_RunKittyRun.jpeg)
 
 ## Hell's Fire
 
@@ -284,8 +284,8 @@ Game=KFStoryGame.KFStoryGameInfo
 * Links - [Mediafire](<https://www.mediafire.com/file/4n3l4rbm7t668vv/KFO-HellsFire.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=639953551>)
 * Notes - *Greylisted*
 
-![IMG](./images/kfo_HellsFire1.jpeg ':size=300')
-![IMG](./images/kfo_HellsFire2.jpeg ':size=300')
+![IMG](./images/kfo_HellsFire1.jpeg)
+![IMG](./images/kfo_HellsFire2.jpeg)
 
 ## Lerwick Wonder
 
@@ -293,8 +293,8 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-LerwickWonder-beta1f.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/1y74cxnpewqa88x/KFO-LerwickWonder-beta1f.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-lerwickwonder-beta1.72326/>)
 
-![IMG](./images/kfo_LerwickWonder1.jpeg ':size=300')
-![IMG](./images/kfo_LerwickWonder2.jpeg ':size=300')
+![IMG](./images/kfo_LerwickWonder1.jpeg)
+![IMG](./images/kfo_LerwickWonder2.jpeg)
 
 ## Lerwick Wonder Lazy Fix
 
@@ -308,7 +308,7 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-ManufracturedB2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/c06evi565timp12/KFO-ManufracturedB2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=172817252>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-manufracturedb1.97098/>)
 
-![IMG](./images/kfo_Manufractured.png ':size=300')
+![IMG](./images/kfo_Manufractured.png)
 
 ## Containment Station (Solo)
 
@@ -316,4 +316,4 @@ Game=KFStoryGame.KFStoryGameInfo
 * KFO-ContainmentStationBETA.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/9ux55vonb3at50t/KFO-ContainmentStationBETA.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfo-containmentstation-beta.95803/>)
 
-![IMG](./images/kfo_ContainmentStation.jpeg ':size=300')
+![IMG](./images/kfo_ContainmentStation.jpeg)

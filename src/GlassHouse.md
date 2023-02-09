@@ -18,7 +18,7 @@ Game=Glassmutator.GlasshouseGameInfo
 * Links - [GitHub](<https://github.com/InsultingPros/Glassmutator/releases/tag/1.0.1>)
 * Notes - *Greylisted*
 
-![IMG](./images/gh_Outskirts.jpeg ':size=300')
+![IMG](./images/gh_Outskirts.jpeg)
 
 ## Hell Pit
 
@@ -27,7 +27,7 @@ Game=Glassmutator.GlasshouseGameInfo
 * Links - [Mediafire](<https://www.mediafire.com/file/7jddsmv7t11g6c1/GH-HellPit.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gh-hell-pit.79717/>)
 * Notes - *Greylisted*
 
-![IMG](./images/gh_HellPit.jpeg ':size=300')
+![IMG](./images/gh_HellPit.jpeg)
 
 ## Latitude
 
@@ -36,4 +36,4 @@ Game=Glassmutator.GlasshouseGameInfo
 * Links - [Mediafire](<https://www.mediafire.com/file/prf951dcnkml6bi/GH-Latitude.zip/file>)
 * Notes - *Greylisted*
 
-![IMG](./images/gh_Latitude.jpeg ':size=300')
+![IMG](./images/gh_Latitude.jpeg)

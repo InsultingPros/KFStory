@@ -12,8 +12,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-NewHaven-Mission-FIX_2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/if68q1y1b7sxjy0/KF-NewHaven-Mission-FIX_2.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-new-haven-beta.75185/>)
 
-![img](./images/kf_haven1.jpeg ':size=300')
-![img](./images/kf_haven2.jpeg ':size=300')
+![img](./images/kf_haven1.jpeg)
+![img](./images/kf_haven2.jpeg)
 
 ## Obsidian
 
@@ -21,8 +21,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Obsidian-Mission.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/fpq4cjakkhelvty/KF-Obsidian-Mission.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=123442638>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-obsidian-mission.51515/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-obsidian-mission-map>)
 
-![IMG](./images/kf_obsidian1.jpeg ':size=300')
-![IMG](./images/kf_obsidian2.jpeg ':size=300')
+![IMG](./images/kf_obsidian1.jpeg)
+![IMG](./images/kf_obsidian2.jpeg)
 
 ## Damnation
 
@@ -30,8 +30,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Damnation-Mission-STD_Edit.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/1j7f5slsph12alq/KF-Damnation-Mission-STD_Edit.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=308711971>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-damnation-wavebased-mission-map.43062/>)
 
-![IMG](./images/kf_damnation1.jpeg ':size=300')
-![IMG](./images/kf_damnation2.jpeg ':size=300')
+![IMG](./images/kf_damnation1.jpeg)
+![IMG](./images/kf_damnation2.jpeg)
 
 ## Road to Perdition
 
@@ -39,7 +39,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-RoadtoPerdition-STD-Mission_FIX.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/ynazn7f0mlvc8u0/KF-RoadtoPerdition-STD-Mission_FIX.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=123545027>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-road-to-perdition-campaign-mission-map.50648/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-obsidian-mission-map>)
 
-![IMG](./images/kf_RoadtoPerdition.jpeg ':size=300')
+![IMG](./images/kf_RoadtoPerdition.jpeg)
 
 ## Perdition
 
@@ -47,9 +47,9 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Perdition-Campaign.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/2w61ciudtxbcbe4/KF-Perdition-Campaign.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/wip-kf-perdition-campaign-mission-map-2.47384/>)
 
-![IMG](./images/kf_Perdition1.jpeg ':size=300')
-![IMG](./images/kf_Perdition2.jpeg ':size=300')
-![IMG](./images/kf_Perdition3.jpeg ':size=300')
+![IMG](./images/kf_Perdition1.jpeg)
+![IMG](./images/kf_Perdition2.jpeg)
+![IMG](./images/kf_Perdition3.jpeg)
 
 ## Candle Smoke
 
@@ -57,8 +57,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Candlesmoke-Revamp-STD-Ed.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/mg3cdm8ia7p5j9d/KF-Candlesmoke-Revamp-STD-Ed.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=311116856>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-candlesmoke-revamp-mission-map.64252/>)
 
-![IMG](./images/kf_Candlesmoke1.jpeg ':size=300')
-![IMG](./images/kf_Candlesmoke2.jpeg ':size=300')
+![IMG](./images/kf_Candlesmoke1.jpeg)
+![IMG](./images/kf_Candlesmoke2.jpeg)
 
 ## OldeTower Beta 3
 
@@ -66,7 +66,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-OldeTower-beta3.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/5sitxn0nmwf4ca3/KF-OldeTower-beta3.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=263729647>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-oldetower-beta3.47772/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-oldetower-beta3>)
 
-![IMG](./images/kf_OldeTower.jpeg ':size=300')
+![IMG](./images/kf_OldeTower.jpeg)
 
 ## OldeTower Beta 2
 
@@ -81,7 +81,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-StoryMapIn24h-FIX2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/ab1asbjlpgcmrz3/KF-StoryMapIn24h-FIX2.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-storymapin24h.53717/>)
 
-![IMG](./images/kf_StoryMap.jpeg ':size=300')
+![IMG](./images/kf_StoryMap.jpeg)
 
 ## Office Story
 
@@ -89,7 +89,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Offices-Story-alpha1.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/egafy649ks7xvuo/KF-Offices-Story-alpha1.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-offices-story-beta1.52491/>)
 
-![IMG](./images/kf_Offices_Story.jpeg ':size=300')
+![IMG](./images/kf_Offices_Story.jpeg)
 
 ## Commish Farm
 
@@ -97,7 +97,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-COM-Farm-beta1b.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/w2vj0hvvy9niu62/KF-COM-Farm-beta1b.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-com-farm-beta1.87934/>)
 
-![IMG](./images/kf_Farm.jpeg ':size=300')
+![IMG](./images/kf_Farm.jpeg)
 
 ## The Hive v1
 
@@ -105,8 +105,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-TheHiveV1REV3.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/54226a82spjh7d5/KF-TheHiveV1REV3.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98702458>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/the-hive.30714/>)
 
-![IMG](./images/kf_HiveV1_1.jpeg ':size=300')
-![IMG](./images/kf_HiveV1_2.jpeg ':size=300')
+![IMG](./images/kf_HiveV1_1.jpeg)
+![IMG](./images/kf_HiveV1_2.jpeg)
 
 ## The Hive v2
 
@@ -114,8 +114,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-TheHiveV2FC.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/k43n1ivpv3d3c47/KF-TheHiveV2FC.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/the-hive-v2.36840/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-hivev2fc>)
 
-![IMG](./images/kf_HiveV2_1.jpeg ':size=300')
-![IMG](./images/kf_HiveV2_2.jpeg ':size=300')
+![IMG](./images/kf_HiveV2_1.jpeg)
+![IMG](./images/kf_HiveV2_2.jpeg)
 
 ## The Hive v3
 
@@ -123,8 +123,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-TheHiveV3Beta.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/u2vttt76ok0ranb/KF-TheHiveV3Beta.zip/file/>), [Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=123976031), [Forum #1](<https://forums.tripwireinteractive.com/index.php?threads/kf-thehivev3.45029/>), [Forum #2](<https://forums.tripwireinteractive.com/index.php?threads/the-hive.30714/>)
 
-![IMG](./images/kf_HiveV3_1.jpeg ':size=300')
-![IMG](./images/kf_HiveV3_2.jpeg ':size=300')
+![IMG](./images/kf_HiveV3_1.jpeg)
+![IMG](./images/kf_HiveV3_2.jpeg)
 
 ## Raccoon International Airport
 
@@ -132,8 +132,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-RaccoonInternationalAirportMP.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/piyziqq74mximu4/KF-RaccoonInternationalAirportMP.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98225770>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kfs-degenerationsp-mp-wave.36473/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-raccoonairportmp>)
 
-![IMG](./images/kf_raccoonairport1.jpeg ':size=300')
-![IMG](./images/kf_raccoonairport2.jpeg ':size=300')
+![IMG](./images/kf_raccoonairport1.jpeg)
+![IMG](./images/kf_raccoonairport2.jpeg)
 
 ## Laser Challenge
 
@@ -141,7 +141,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-LaserChallengeV3.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/n5xr2v4h3nqlpfk/KF-LaserChallengeV3.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98707543>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-laserchallenge.84520/>)
 
-![IMG](./images/kf_LaserChallenge.jpeg ':size=300')
+![IMG](./images/kf_LaserChallenge.jpeg)
 
 ## Pride Hill Shopping Center
 
@@ -149,7 +149,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-PrideHillV4.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/iipviekaq1z4y06/KF-PrideHillV4.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98164398>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-pridehill.41441/>)
 
-![IMG](./images/kf_PrideHill.jpeg ':size=300')
+![IMG](./images/kf_PrideHill.jpeg)
 
 ## Horzine Bunker
 
@@ -157,7 +157,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-MIS-Horzinebunker_B5.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/vhiiurfefy1ihwh/KF-MIS-Horzinebunker_B5.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-mis-horzinebunker_v1_2.51077/>)
 
-![IMG](./images/kf_Horzinebunker.jpeg ':size=300')
+![IMG](./images/kf_Horzinebunker.jpeg)
 
 ## Deathtrap Portal Edition
 
@@ -165,7 +165,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-MIS-Deathtrap_PortalEdition.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/zpash8pudhu6keg/KF-MIS-Deathtrap_PortalEdition.zip/file>)
 
-![IMG](./images/kf-DeathtrapPortalEdition.png ':size=300')
+![IMG](./images/kf-DeathtrapPortalEdition.png)
 
 ## Opposition
 
@@ -173,8 +173,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * Kf-Opposition.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/h4esb74z7qnt3pw/Kf-Opposition.zip/file/>), [Forum (Wayback Machine)](<https://web.archive.org/web/*/http://killingfloor.ru/xforum/threads/kf-opposition.3903/>)
 
-![IMG](./images/kf_Opposition1.jpeg ':size=300')
-![IMG](./images/kf_Opposition2.jpeg ':size=300')
+![IMG](./images/kf_Opposition1.jpeg)
+![IMG](./images/kf_Opposition2.jpeg)
 
 ## Oil Platform
 
@@ -182,7 +182,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Oil_platform.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/oy41ucie8szclct/KF-Oil_platform.zip/file/>), [Forum (Wayback Machine)](<https://web.archive.org/web/*/http://killingfloor.ru/xforum/threads/oil-platform.4032/>)
 
-![IMG](./images/kf_Oil_platform.jpeg ':size=300')
+![IMG](./images/kf_Oil_platform.jpeg)
 
 ## Port
 
@@ -190,7 +190,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * kf-PORT.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/xtdz844n3rsl3jv/kf-PORT.zip/file/>), [Forum (Wayback Machine)](<https://web.archive.org/web/*/http://killingfloor.ru/xforum/threads/port.4039/>)
 
-![IMG](./images/kf_port.jpeg ':size=300')
+![IMG](./images/kf_port.jpeg)
 
 ## Saar
 
@@ -198,7 +198,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-SaarV7.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/ryc0g96bqwhh3if/KF-SaarV7.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-saarv4-story-map.39681/>)
 
-![IMG](./images/kf_saar.jpeg ':size=300')
+![IMG](./images/kf_saar.jpeg)
 
 ## Arcade Mission
 
@@ -206,7 +206,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * kf-Arcade-Mission-v2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/3cuj29dnue72hhu/kf-Arcade-Mission-v2.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-arcade-mission.44303/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-arcade-mission-v2>)
 
-![IMG](./images/kf_Arcade.jpeg ':size=300')
+![IMG](./images/kf_Arcade.jpeg)
 
 ## Roof Hop
 
@@ -214,8 +214,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-roofhop.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/iqu02bcv2loujeg/KF-roofhop.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-roofhop-beta-1.34513/>)
 
-![IMG](./images/kf_roofhop1.jpeg ':size=300')
-![IMG](./images/kf_roofhop2.jpeg ':size=300')
+![IMG](./images/kf_roofhop1.jpeg)
+![IMG](./images/kf_roofhop2.jpeg)
 
 ## Fun Fair
 
@@ -223,9 +223,9 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-SnipersFunFair.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/ik1635hjshzjt8j/KF-SnipersFunFair.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=119705373>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/well-here-it-is-funfair-beta.89017/>)
 
-![IMG](./images/kf_SnipersFunFair1.jpeg ':size=300')
-![IMG](./images/kf_SnipersFunFair2.jpeg ':size=300')
-![IMG](./images/kf_SnipersFunFair3.jpeg ':size=300')
+![IMG](./images/kf_SnipersFunFair1.jpeg)
+![IMG](./images/kf_SnipersFunFair2.jpeg)
+![IMG](./images/kf_SnipersFunFair3.jpeg)
 
 ## Dosh or Alive
 
@@ -233,8 +233,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Doshoralive2b.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/i0tmrn4hdl00959/KF-Doshoralive2b.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=159252881>)
 
-![IMG](./images/kf_Doshoralive1.jpeg ':size=300')
-![IMG](./images/kf_Doshoralive2.jpeg ':size=300')
+![IMG](./images/kf_Doshoralive1.jpeg)
+![IMG](./images/kf_Doshoralive2.jpeg)
 
 ## Dynamic Maze
 
@@ -242,7 +242,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-DynamicMaze.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/8w5dant7c81b2nm/KF-DynamicMaze.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=127779171>)
 
-![IMG](./images/kf_DynamicMaze.jpeg ':size=300')
+![IMG](./images/kf_DynamicMaze.jpeg)
 
 ## Tower Defender
 
@@ -256,7 +256,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * kf-towerdefenderv3.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/6c32tcz8wcedctv/kf-towerdefenderv3.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=112942560>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/2-fun-maps-npcstadium-towerdefender.41305/>)
 
-![IMG](./images/kf_towerdefender.jpeg ':size=300')
+![IMG](./images/kf_towerdefender.jpeg)
 
 ## NPC Stadium
 
@@ -265,7 +265,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * Links - [Mediafire](<https://www.mediafire.com/file/olvfqf9olsj753e/KF-NPCstadiumv4.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=112928590>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/2-fun-maps-npcstadium-towerdefender.41305/>)
 * Notes - *[CustomSpawnFix]*
 
-![IMG](./images/kf_NPCstadium.png ':size=300')
+![IMG](./images/kf_NPCstadium.png)
 
 ## Strange
 
@@ -273,8 +273,8 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Strangev12.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/90b9eeore8zoq26/KF-Strangev12.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=112929530>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-strange-fun-map.35383/>)
 
-![IMG](./images/kf_Strange1.jpeg ':size=300')
-![IMG](./images/kf_Strange2.jpeg ':size=300')
+![IMG](./images/kf_Strange1.jpeg)
+![IMG](./images/kf_Strange2.jpeg)
 
 ## Hokuto Ujou Hagan Ken
 
@@ -282,7 +282,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Hokuto_Ujou_Hagan_Ken_v2.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/3ujbl5dh9edv7fi/KF-Hokuto_Ujou_Hagan_Ken_v2.zip/file/>)
 
-![IMG](./images/kf_Hokuto.jpeg ':size=300')
+![IMG](./images/kf_Hokuto.jpeg)
 
 ## Rainy Day
 
@@ -290,7 +290,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-RainyDay.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/eeqvetlhuj0nhet/KF-RainyDay.zip/file/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98080423>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-rainyday.54394/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-rainyday>)
 
-![IMG](./images/kf_RainyDay.jpeg ':size=300')
+![IMG](./images/kf_RainyDay.jpeg)
 
 ## Survival
 
@@ -304,4 +304,4 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * KF-Offices[BT].rom
 * Links - [Mediafire](<https://www.mediafire.com/file/u540bwmt1zphjen/KF-OfficesBT.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-offices-barricade-mode.53961/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-officesbt>)
 
-![IMG](./images/kf_Ofices.jpeg ':size=300')
+![IMG](./images/kf_Ofices.jpeg)

@@ -22,7 +22,7 @@ Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFSe
 * Links - [Mediafire](<https://www.mediafire.com/file/ytu24duslo1p83s/KF-A-AliensTunnelBeta1-2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=111959360>)
 * Notes - *Greylisted*
 
-![IMG](./images/a_AliensTunnel.jpeg ':size=300')
+![IMG](./images/a_AliensTunnel.jpeg)
 
 ## Bug Hunt
 
@@ -31,7 +31,7 @@ Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFSe
 * Links - [Mediafire](<https://www.mediafire.com/file/t4d6j06jde4x893/KF-BugHunt-v3.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=126283862>)
 * Notes - *Greylisted*
 
-![IMG](./images/a_BugHunt.jpeg ':size=300')
+![IMG](./images/a_BugHunt.jpeg)
 
 ## Starship
 
@@ -40,7 +40,7 @@ Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFSe
 * Links - [Mediafire](<https://www.mediafire.com/file/2aq6gi579m2pvd9/KF-A-Starship.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=143952091>)
 * Notes - *Greylisted*
 
-![IMG](./images/a_Starship.jpeg ':size=300')
+![IMG](./images/a_Starship.jpeg)
 
 ## Hadleys Hope
 
@@ -49,7 +49,7 @@ Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFSe
 * Links - [Mediafire](<https://www.mediafire.com/file/ofeq45605tpp5qh/KF-A-HadleysHope-beta-1-2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=169211588>)
 * Notes - *Greylisted*
 
-![IMG](./images/a_HadleysHope.jpeg ':size=300')
+![IMG](./images/a_HadleysHope.jpeg)
 
 ## Outpost
 
@@ -58,7 +58,7 @@ Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFSe
 * Links - [Mediafire](<https://www.mediafire.com/file/4b8md74wmo752qa/KF-A-Outpost.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=143430016>)
 * Notes - *Greylisted*
 
-![IMG](./images/a_Outpost.jpeg ':size=300')
+![IMG](./images/a_Outpost.jpeg)
 
 ## Icarus
 
@@ -67,7 +67,7 @@ Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFSe
 * Links - [Mediafire](<https://www.mediafire.com/file/uxol1a2wbj6xel9/KF-A-IcaruSVUbeta2.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=209922729>)
 * Notes - *Greylisted*
 
-![IMG](./images/a_IcaruS.jpeg ':size=300')
+![IMG](./images/a_IcaruS.jpeg)
 
 ## Alien World Base
 
@@ -76,7 +76,7 @@ Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFSe
 * Links - [Mediafire](<https://www.mediafire.com/file/bg96e36civllt8p/KF-AlienWorld_Base-Final4.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=369726276>)
 * Notes - *Greylisted*
 
-![IMG](./images/a_AlienWorld_Base.jpeg ':size=300')
+![IMG](./images/a_AlienWorld_Base.jpeg)
 
 ## Hadleys Hallway
 
@@ -85,7 +85,7 @@ Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFSe
 * Links - [Mediafire](<https://www.mediafire.com/file/xjn5awbhb4jzlos/KF-HadleysHallway.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=111928275>)
 * Notes - *Greylisted*
 
-![IMG](./images/a_HadleysHallway.jpeg ':size=300')
+![IMG](./images/a_HadleysHallway.jpeg)
 
 ## Atmosphere Processor
 
@@ -94,4 +94,4 @@ Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFSe
 * Links - [Mediafire](<https://www.mediafire.com/file/wu84h6b5xaip9e5/KF-AtmosphereProcessor.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=111922917>)
 * Notes - *Greylisted*
 
-![IMG](./images/a_AtmosphereProcessor.jpeg ':size=300')
+![IMG](./images/a_AtmosphereProcessor.jpeg)

@@ -19,7 +19,7 @@ Game=KFCharPuppets.TOYGameInfo
 * Links - [Mediafire](<https://www.mediafire.com/file/lpu8z96zdlgr2en/ToyMaster.zip/file>), [ModDb](<https://www.moddb.com/mods/toy-master>), [Steam](<https://store.steampowered.com/app/326960/Killing_Floor__Toy_Master/>)
 * Notes - *Greylisted, [Music downloader]*
 
-![IMG](./images/toy_DevilsDollhouse.jpeg ':size=300')
+![IMG](./images/toy_DevilsDollhouse.jpeg)
 
 ## Toy Master Fix V3
 
@@ -28,7 +28,7 @@ Game=KFCharPuppets.TOYGameInfo
 * Links - [Mediafire](<https://www.mediafire.com/file/47aa66d8h8q68a6/Toy_Master_Fix_V3.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/killing-floor-toy-master-bugs-and-fixes.104461/>)
 * Notes - *Greylisted, [Music downloader]*
 
-![IMG](./images/toy_DevilsDollhouseFix.png ':size=300')
+![IMG](./images/toy_DevilsDollhouseFix.png)
 
 ## Toy Master Fix V4
 
