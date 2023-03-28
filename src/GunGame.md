@@ -1,19 +1,24 @@
 Official deathmatch by TWI, very similar to Battlefield's [gun master](https://battlefield.fandom.com/wiki/Gun_Master) mode - every kill instantly gets you the next weapon in the list. Be the first player to get a kill with every weapon on the list to win!
 
-* [Long Gun Game](#long-gun-game) adds DLC weapons. Better install this immediately.
-* [iSnipe](#isnipe) gives only M99.
-* You can set min and max player counts from cmdline.
-* Use [*Marco*](./tech/Links.md#Marco)'s [bots](https://forums.tripwireinteractive.com/index.php?threads/mutator-kf-bots.44969/) mutator for more fun.
+* Set min and max player counts from cmdline.
+* Set your weapon lists in config file.
+* Use `admin addbots <desired_number>` command to add bots. They are fun, so try em.
 
 Cmdline for dedicated servers:
 
 ```java
 Game=KFGunGame.KFGG?MaxPlayers=32?MinPlayers=8
-Game=LongGunGame.KFGG
-Game=iSnipe.KFGG
 ```
 
-## Gun Game v1.0
+## Gun Game Mod
+
+* Authors - [*Ramm-Jaeger*](./tech/Links.md#Ramm-Jaeger), modified by [*NikC-*](./tech/Links.md#nikc)
+* Links - [GitHub](<https://github.com/InsultingPros/KFGunGame/releases>)
+* Notes - *Greylisted*
+
+![IMG](./images/GunGamePoster.jpeg)
+
+## Original Maps
 
 * Authors - [*Ramm-Jaeger*](./tech/Links.md#Ramm-Jaeger)
   * GG-TR_Bloreen.rom
@@ -25,27 +30,13 @@ Game=iSnipe.KFGG
   * GG-VR_RampsLowGrav.rom
   * GG-VR_Vertical.rom
   * GG-VR_VerticalLowGrav.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/nnzsg2eyda64m8d/KFGunGame.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=97706196>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/mod-release-kf-gun-game-v-0-70-alpha.85621/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/nnzsg2eyda64m8d/KFGunGame_Original_Maps.zip/file>)
 
 ![IMG](./images/gg_Bloreen.jpeg)
 ![IMG](./images/gg_CloseQuarters.jpeg)
 ![IMG](./images/gg_Stairways.jpeg)
 ![IMG](./images/gg_Ramps.jpeg)
 ![IMG](./images/gg_Vertical.jpeg)
-
-## Long Gun Game
-
-* Authors - [*nejcooo*](./tech/Links.md#nejcooo)
-* Links - [Mediafire](<https://www.mediafire.com/file/7tb9xmpumo2pkqd/LongGunGame.zip/file>)
-
-![IMG](./images/gg_LongGunGame.jpeg)
-
-## iSnipe
-
-* Authors - [*nejcooo*](./tech/Links.md#nejcooo)
-* Links - [Mediafire](<https://www.mediafire.com/file/mrhfsz7lyusbr8r/iSnipe.zip/file>)
-
-![IMG](./images/gg_ISnipe.jpeg)
 
 ## Space and Watermelons
 
