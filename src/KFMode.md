@@ -151,13 +151,20 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 
 ![IMG](./images/kf_PrideHill.jpeg)
 
+## Horzine Bunker Fix
+
+* Authors - [*Braindawg*](./tech/Links.md#Braindawg)
+* KF-MIS-Horzinebunker_B5_FIX.rom
+* Links - [Mediafire](<https://www.mediafire.com/file/lzib1zk54xuwvtf/KF-MIS-Horzinebunker_B5_FIX.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=3443418745>)
+
+![IMG](./images/kf_Horzinebunker.jpeg)
+
 ## Horzine Bunker
 
 * Authors - [*Sugarfree*](./tech/Links.md#Sugarfree)
 * KF-MIS-Horzinebunker_B5.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/vhiiurfefy1ihwh/KF-MIS-Horzinebunker_B5.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-mis-horzinebunker_v1_2.51077/>)
-
-![IMG](./images/kf_Horzinebunker.jpeg)
+* Notes - leaving this for historical reasons. Use the [fix](#horzine-bunker-fix) version above.
 
 ## Deathtrap Portal Edition
 
