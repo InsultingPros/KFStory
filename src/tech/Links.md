@@ -48,6 +48,7 @@ These packages are **Whitelisted**, if you see them don't worry:
 * <a name="Bangulo"></a>**Bangulo** - [TWI](https://forums.tripwireinteractive.com/index.php?members/bangulo.44593/)
 * <a name="BartBear"></a>**BartBear** - [Steam](https://steamcommunity.com/profiles/76561197985180572), [TWI](https://forums.tripwireinteractive.com/index.php?members/bartbear.10971/)
 * <a name="Batman"></a>**Holy Username Batman!** - [Steam](https://steamcommunity.com/profiles/76561198134059371)
+* <a name="Braindawg"></a>**Braindawg** - [Steam](http://steamcommunity.com/profiles/76561197988531991), [GitHub](https://github.com/Brain-dawg)
 * <a name="Cakedog"></a>**Cakedog** - [Steam](https://steamcommunity.com/profiles/76561197981882240)
 * <a name="Crondog8"></a>**Crondog8** - [Steam](https://steamcommunity.com/profiles/76561198076378149)
 * <a name="Davidosski"></a>**Davidosski** - [GitHub](https://github.com/davidoskky), [Steam](https://steamcommunity.com/profiles/76561198023046954)
