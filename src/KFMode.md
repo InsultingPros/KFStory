@@ -155,7 +155,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 
 * Authors - [*Sugarfree*](./tech/Links.md#Sugarfree)
 * KF-MIS-Horzinebunker_B5.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/vhiiurfefy1ihwh/KF-MIS-Horzinebunker_B5.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-mis-horzinebunker_v1_2.51077/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/vhiiurfefy1ihwh/KF-MIS-Horzinebunker_B5.zip/file/>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-mis-horzinebunker_v1_2.51077/>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=3443418745>)
 
 ![IMG](./images/kf_Horzinebunker.jpeg)
 
