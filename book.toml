@@ -5,7 +5,6 @@ authors = ["Shtoyan"]
 description = "Map lists for KF1 objective based gametypes."
 src = "src"
 language = "en"
-multilingual = false
 
 [build]
 build-dir = "book"
