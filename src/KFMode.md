@@ -38,6 +38,7 @@ Most of these maps modify spawns, inventory and god knows what else. So try to u
 * Authors - [*S281*](./tech/Links.md#S281) & [*Fel*](./tech/Links.md#Fel)
 * KF-RoadtoPerdition-STD-Mission_FIX.rom
 * Links - [Mediafire](<https://www.mediafire.com/file/ynazn7f0mlvc8u0/KF-RoadtoPerdition-STD-Mission_FIX.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=123545027>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-road-to-perdition-campaign-mission-map.50648/>), [ModDb](<https://www.moddb.com/games/killing-floor/addons/kf-obsidian-mission-map>)
+* Notes - check the updated [KFO version](./KFObjective.md#road-to-perdition-kfo).
 
 ![IMG](./images/kf_RoadtoPerdition.jpeg)
 
