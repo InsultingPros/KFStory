@@ -205,7 +205,7 @@
 </blockquote>
 <p>Giger’s creatures came to have some fun in KF. Recommended to play on medium game difficulties and full team.</p>
 <p>Cmdline for dedicated servers:</p>
-<pre><code class="language-java">Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFServerPerksMut,AliensKFXenos.MutAliensPath,AliensKFExtra.AKFDetailMut
+<pre><code class="language-bash">Game=AliensKFGameType.AliensKFGameType?Mutator=AliensKFServerPerksMut.AliensKFServerPerksMut,AliensKFXenos.MutAliensPath,AliensKFExtra.AKFDetailMut
 </code></pre>
 <h2 id="aliens-mod-v12"><a class="header" href="#aliens-mod-v12">Aliens Mod v1.2</a></h2>
 <ul>
@@ -287,7 +287,7 @@
 <div style="break-before: page; page-break-before: always;"></div><p><img src="./media/ds.png" alt="IMG" /></p>
 <p>Necromorphs are pretty wonky but they are still fun to kill. Weapons from DS are provided too.</p>
 <p>Cmdline for dedicated servers:</p>
-<pre><code class="language-java">Game=DeadSpaceKFGameType.DeadSpaceKFGameType
+<pre><code class="language-bash">Game=DeadSpaceKFGameType.DeadSpaceKFGameType
 </code></pre>
 <ul>
 <li>Authors - <em>WPC</em></li>
@@ -307,7 +307,7 @@
 <li>Replace KF weapons with Doom weapons (initial weapons and shop weapons).</li>
 </ol>
 <p>Cmdline for dedicated servers:</p>
-<pre><code class="language-java">Game=DoomPawnsKF.DoomGameType
+<pre><code class="language-bash">Game=DoomPawnsKF.DoomGameType
 </code></pre>
 <ul>
 <li>Authors - <a href="./tech/Links.html#Marco"><em>Marco</em></a></li>
@@ -368,7 +368,7 @@
 <p>Both teams spawn with M79 grenade launchers and must blow up the opposing team’s building floor by floor. Respawns are infinite, but each time a floor is destroyed you will spawn on the next available floor down. Once the last spawn area in your building is destroyed you will not be able to respawn if you die © <a href="./tech/Links.html#KF_Alex"><em>Alex Quick</em></a></p>
 <p>And you can always add some bots for more fun!</p>
 <p>Cmdline for dedicated servers:</p>
-<pre><code class="language-java">Game=Glassmutator.GlasshouseGameInfo
+<pre><code class="language-bash">Game=Glassmutator.GlasshouseGameInfo
 </code></pre>
 <h2 id="glass-house-mod"><a class="header" href="#glass-house-mod">Glass House Mod</a></h2>
 <ul>
@@ -401,7 +401,7 @@
 <li>Use <code>admin addbots &lt;desired_number&gt;</code> command to add bots. They are fun, so try em.</li>
 </ul>
 <p>Cmdline for dedicated servers:</p>
-<pre><code class="language-java">Game=KFGunGame.KFGG?MaxPlayers=32?MinPlayers=8
+<pre><code class="language-bash">Game=KFGunGame.KFGG?MaxPlayers=32?MinPlayers=8
 </code></pre>
 <h2 id="gun-game-mod"><a class="header" href="#gun-game-mod">Gun Game Mod</a></h2>
 <ul>
@@ -1018,7 +1018,7 @@
 </blockquote>
 <p>Official Objective mode by TWI. It grew up from <a href="./tech/Links.html#KF_Alex"><em>Alex Quick</em></a>’s <a href="https://forums.tripwireinteractive.com/index.php?threads/story-mode-gametype.79469/">modification</a> that exclusively aimed to power story driven maps.</p>
 <p>Cmdline for dedicated servers:</p>
-<pre><code class="language-java">Game=KFStoryGame.KFStoryGameInfo
+<pre><code class="language-bash">Game=KFStoryGame.KFStoryGameInfo
 </code></pre>
 <h2 id="peak"><a class="header" href="#peak">Peak</a></h2>
 <ul>
@@ -1370,7 +1370,7 @@
 </blockquote>
 <p>In a free, add-on mod for Killing Floor, created by David Hensley (with help from Killing Floor originator, <a href="./tech/Links.html#KF_Alex"><em>Alex Quick</em></a>), you can fight off the bizarre and warped toys of someone’s nightmare, that are hell-bent on finishing you off. All the standard Zeds are replaced with evil toys, set in the Devil’s Dollhouse map ©</p>
 <p>Cmdline for dedicated servers:</p>
-<pre><code class="language-java">Game=KFCharPuppets.TOYGameInfo
+<pre><code class="language-bash">Game=KFCharPuppets.TOYGameInfo
 </code></pre>
 <h2 id="toy-master-original"><a class="header" href="#toy-master-original">Toy Master Original</a></h2>
 <ul>
@@ -1397,7 +1397,7 @@
 </ul>
 <div style="break-before: page; page-break-before: always;"></div><p>This is a silly mod inspired by Trials in UT2004. It features objectives you have to go through, record speed runs, rankings based on speed runs, double / multi jumping support and dodging / walldodging support. By interface it is slightly like UT2004 Assault © <a href="./tech/Links.html#Marco"><em>Marco</em></a></p>
 <p>Cmdline for dedicated servers:</p>
-<pre><code class="language-java">Game=TrialsMod.TrialGame
+<pre><code class="language-bash">Game=TrialsMod.TrialGame
 </code></pre>
 <h2 id="trials-v10"><a class="header" href="#trials-v10">Trials v1.0</a></h2>
 <ul>
@@ -1540,7 +1540,7 @@ Following instructions will help you to configure your server to use that mutato
 </li>
 <li>Open <code>MapVoteHistory.ini</code>, find maps that require <a href="tech/./Links.html#map-packages" title="fixes zed classes in old maps scripted triggers">CustomSpawnFix</a> and fill <code>U=</code> fields like in this example:</li>
 </ul>
-<pre><code class="language-java">H=(M="KF-SaarV7",P=9,S=5,G=,U="CustomSpawnFix.CustomSpawnFixMut")
+<pre><code class="language-bash">H=(M="KF-SaarV7",P=9,S=5,G=,U="CustomSpawnFix.CustomSpawnFixMut")
 </code></pre>
 <ul>
 <li>If some of the maps are missing from <code>MapVoteHistory.ini</code> - either play on them first or add them here manually.</li>
