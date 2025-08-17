@@ -8,7 +8,7 @@ In a free, add-on mod for Killing Floor, created by David Hensley (with help fro
 
 Cmdline for dedicated servers:
 
-```java
+```bash
 Game=KFCharPuppets.TOYGameInfo
 ```
 

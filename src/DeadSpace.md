@@ -4,7 +4,7 @@ Necromorphs are pretty wonky but they are still fun to kill. Weapons from DS are
 
 Cmdline for dedicated servers:
 
-```java
+```bash
 Game=DeadSpaceKFGameType.DeadSpaceKFGameType
 ```
 

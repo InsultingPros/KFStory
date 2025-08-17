@@ -7,7 +7,7 @@ And you can always add some bots for more fun!
 
 Cmdline for dedicated servers:
 
-```java
+```bash
 Game=Glassmutator.GlasshouseGameInfo
 ```
 

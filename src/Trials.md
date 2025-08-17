@@ -2,7 +2,7 @@ This is a silly mod inspired by Trials in UT2004. It features objectives you hav
 
 Cmdline for dedicated servers:
 
-```java
+```bash
 Game=TrialsMod.TrialGame
 ```
 

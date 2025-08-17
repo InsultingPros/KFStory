@@ -4,7 +4,7 @@ Official Objective mode by TWI. It grew up from [*Alex Quick*](./tech/Links.md#K
 
 Cmdline for dedicated servers:
 
-```java
+```bash
 Game=KFStoryGame.KFStoryGameInfo
 ```
 

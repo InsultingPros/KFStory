@@ -37,7 +37,7 @@ If you have it:
   * In `killingfloor.ini` fill both **Maps** and **DefaultMaps** sections.
 * Open `MapVoteHistory.ini`, find maps that require [CustomSpawnFix] and fill `U=` fields like in this example:
 
-```java
+```bash
 H=(M="KF-SaarV7",P=9,S=5,G=,U="CustomSpawnFix.CustomSpawnFixMut")
 ```
 
