@@ -1,6 +1,7 @@
 [Github Issues]: <https://github.com/InsultingPros/KFStory/issues>
 [CustomSpawnFix]: ./tech/Links.md#map-packages 'fixes zed classes in old maps scripted triggers'
 
+> [!NOTE]
 > Map lists are **HUGE**. A lot of days were spent sorting files, creating categories and filling in all the information in the right places. So there can be typos, missing maps, links, credits and false information. If you find any, please let us know: [GitHub Issues] / [Discord](https://discord.gg/eREYb3AgeT).
 
 ## General Info

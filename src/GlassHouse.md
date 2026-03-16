@@ -1,5 +1,5 @@
-
-> Performance can suffer if you blow up too many tiles. And this was WIP project, don't expect too much polish.
+> [!NOTE]
+> Performance can suffer if you blow up too many tiles. This was WIP project, don't expect too much polish.
 
 Both teams spawn with M79 grenade launchers and must blow up the opposing team's building floor by floor. Respawns are infinite, but each time a floor is destroyed you will spawn on the next available floor down. Once the last spawn area in your building is destroyed you will not be able to respawn if you die © [*Alex Quick*](./tech/Links.md#KF_Alex)
 
@@ -24,7 +24,7 @@ Game=Glassmutator.GlasshouseGameInfo
 
 * Authors - [*Fel*](./tech/Links.md#Fel)
 * GH-HellPit.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/7jddsmv7t11g6c1/GH-HellPit.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gh-hell-pit.79717/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/7jddsmv7t11g6c1/GH-HellPit.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/GH-HellPit.zip>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gh-hell-pit.79717/>)
 * Notes - *Greylisted*
 
 ![IMG](./images/gh_HellPit.jpeg)
@@ -33,7 +33,7 @@ Game=Glassmutator.GlasshouseGameInfo
 
 * Authors - [*Fel*](./tech/Links.md#Fel)
 * GH-Latitude.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/prf951dcnkml6bi/GH-Latitude.zip/file>)
+* Links - [Mediafire](<https://www.mediafire.com/file/prf951dcnkml6bi/GH-Latitude.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/GH-Latitude.zip>)
 * Notes - *Greylisted*
 
 ![IMG](./images/gh_Latitude.jpeg)

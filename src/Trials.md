@@ -13,7 +13,7 @@ Game=TrialsMod.TrialGame
   * TR-PowerGenerator-M.rom
   * TR-Sulferon.rom
   * TR-BeatTrials.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/hd5eo4e233afbew/TrialsMod_Full.zip/file>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gametype-trials-mod.103311/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/hd5eo4e233afbew/TrialsMod_Full.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/TrialsMod.Full.zip>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/gametype-trials-mod.103311/>)
 * Notes - PowerGenerator-M requires [Doom I / II mod](./Doom.md#doom-i--ii-mod)
 
 ![IMG](./images/tr_Tutorial.jpeg)
@@ -26,6 +26,6 @@ Game=TrialsMod.TrialGame
 
 * Authors - [*Marco*](./tech/Links.md#Marco)
 * TR-Construct.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/0sd9yz4v7wxibwz/TR-Construct.zip/file>)
+* Links - [Mediafire](<https://www.mediafire.com/file/0sd9yz4v7wxibwz/TR-Construct.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/TR-Construct.zip>)
 
 ![IMG](./images/tr_Construct.jpeg)

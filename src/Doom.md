@@ -18,19 +18,20 @@ Game=DoomPawnsKF.DoomGameType
 ```
 
 * Authors - [*Marco*](./tech/Links.md#Marco)
-* Links - [Mediafire](<https://www.mediafire.com/file/over08lx7th14wx/DoomPawnsKF.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=97737990>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-doom-i-ii.37838/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/over08lx7th14wx/DoomPawnsKF.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/DoomPawnsKF.zip>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=97737990>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-doom-i-ii.37838/>)
 
 ### Doom 3 Mod Beta 4
 
+> [!NOTE]
 > Better install [Doom 3 SE](#doom-3-mod-scrn-edition) on top of this - it contains **many** [fixes](https://github.com/poosh/KF-ScrnDoom3#version-history).
 
 * Authors - [*Marco*](./tech/Links.md#Marco)
-* Links - [Mediafire](<https://www.mediafire.com/file/r5xzwslbdondt58/Doom3KFBeta4.zip/file>), [Workshop #1](<https://steamcommunity.com/workshop/filedetails/?id=98454734> 'monster pack'), [Workshop #2](<https://steamcommunity.com/workshop/filedetails/?id=98456936> 'textures'), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-doom-iii.52427/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/r5xzwslbdondt58/Doom3KFBeta4.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/Doom3KFBeta4.zip>), [Workshop #1](<https://steamcommunity.com/workshop/filedetails/?id=98454734> 'monster pack'), [Workshop #2](<https://steamcommunity.com/workshop/filedetails/?id=98456936> 'textures'), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/kf-doom-iii.52427/>)
 
 ### Doom 3 Mod ScRN Edition
 
 * Authors - [*Poosh*](./tech/Links.md#Poosh)
-* Links - [Mediafire](<https://www.mediafire.com/file/6b39wqk9om7nszp/ScrnDoom3KF.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=134455165>), [Github](<https://github.com/poosh/KF-ScrnDoom3>)
+* Links - [Mediafire](<https://www.mediafire.com/file/6b39wqk9om7nszp/ScrnDoom3KF.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/ScrnDoom3KF.zip>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=134455165>), [Github](<https://github.com/poosh/KF-ScrnDoom3>)
 
 ## **Doom II Maps**
 
@@ -42,7 +43,7 @@ Game=DoomPawnsKF.DoomGameType
   * KFS-Doom2Map30F.rom
   * KFS-Doom2Map31F.rom
   * KFS-Doom2Map32F.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/3955f9f7zq3vrka/KFDoomCampaign.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98248061>)
+* Links - [Mediafire](<https://www.mediafire.com/file/3955f9f7zq3vrka/KFDoomCampaign.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/KFDoomCampaign.zip>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98248061>)
 * Notes - *Greylisted*
 
 ![IMG](./images/doom_singleplayer1.png)
@@ -57,7 +58,7 @@ Game=DoomPawnsKF.DoomGameType
   * KFS-DraggedintoHell03v2.rom
   * KFS-DraggedintoHell04v2.rom
   * KFS-DraggedintoHell05v1.rom
-* Links - [Mediafire](<https://www.mediafire.com/file/4kcyndtkq6tui72/DraggedintoHell.zip/file>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98483655>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/draggedintohellv1-for-doom-mutator.43225/>)
+* Links - [Mediafire](<https://www.mediafire.com/file/4kcyndtkq6tui72/DraggedintoHell.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/DraggedintoHell.zip>), [Workshop](<https://steamcommunity.com/sharedfiles/filedetails/?id=98483655>), [Forum](<https://forums.tripwireinteractive.com/index.php?threads/draggedintohellv1-for-doom-mutator.43225/>)
 * Notes - *Greylisted*
 
 ![IMG](./images/doom_DraggedintoHell1.png)

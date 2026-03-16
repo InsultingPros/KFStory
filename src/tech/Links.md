@@ -1,18 +1,29 @@
-[ScrnStoryGame]: <https://www.mediafire.com/file/sf1rm5e688dp9jt/ScrnStoryGame.zip/file>
-[FoundryObj]: <https://www.mediafire.com/file/6tpf11xsf7p9bg9/FoundryObj.zip/file>
-[KFChaingunTurret]: <https://www.mediafire.com/file/a0t0ypyd5wbbprt/KFChaingunTurret.zip/file>
-[Fall_TriggerPack]: <https://www.mediafire.com/file/iyqot9pefdfcub3/Fall_TriggerPack.zip/file>
-[KFGasCan]: <https://www.mediafire.com/file/p0d5acpbcunk7sw/KFGasCan.zip/file>
-[clientmaterialtrigger]: <https://www.mediafire.com/file/x3ekplflstb3fc8/clientmaterialtrigger.zip/file>
 
 [NetReduce]: <https://forums.tripwireinteractive.com/index.php?threads/utility-de-serverpackage-listing.103071/> 'hack of ol hacks to reduce serverpackage size'
 [NetReduceSE]: <https://steamcommunity.com/groups/ScrNBalance/discussions/6/610575007209675730/> 'same thing but with config file'
-
 [CustomSpawnFix]: <https://forums.tripwireinteractive.com/index.php?threads/mutator-customspawnfix.102956/> 'fixes zed classes in old maps scripted triggers'
 
-# Reference Links
+## Map Packages
 
-Contains all links in this repo.
+> [!NOTE]
+> Always keep [CustomSpawnFix] around, it will help greatly if you have invisible zeds. Thanks Tripwire for renaming zed classes in latest patches and breaking old story maps.
+
+> [!IMPORTANT]
+> Use [NetReduce] and [NetReduceSE] at your risk. With them you will get broken spawns, missing pickups-keys-switches and other random bugs.
+
+These packages are **Whitelisted**, they do not alter perk progression and achievements:
+
+| Package                 | Description                                                         | Download Links |
+|:------------------------|:--------------------------------------------------------------------|:---------------|
+| `ScrnStoryGame`         | Adds many and many additional scripts, npc support, dialogues, etc. | [Mediafire](<https://www.mediafire.com/file/sf1rm5e688dp9jt/ScrnStoryGame.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/ScrnStoryGame.zip>) |
+| `FoundryObj`            | A bit more scripts ^.                                               | [Mediafire](<https://www.mediafire.com/file/6tpf11xsf7p9bg9/FoundryObj.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/FoundryObj.zip>) |
+| `KFChaingunTurret`      | A usable gatling gun.                                               | [Mediafire](<https://www.mediafire.com/file/a0t0ypyd5wbbprt/KFChaingunTurret.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/KFChaingunTurret.zip>) |
+| `Fall_TriggerPack`      | One of the oldest ones around, has few useful triggers.             | [Mediafire](<https://www.mediafire.com/file/iyqot9pefdfcub3/Fall_TriggerPack.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/Fall_TriggerPack.zip>) |
+| `KFGasCan`              | Gas can and related scripts.                                        | [Mediafire](<https://www.mediafire.com/file/p0d5acpbcunk7sw/KFGasCan.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/KFGasCan.zip>) |
+| `clientmaterialtrigger` | Allows to change materials for clients                              | [Mediafire](<https://www.mediafire.com/file/x3ekplflstb3fc8/clientmaterialtrigger.zip/file>), [Github](<https://github.com/InsultingPros/KFStory-Assets/releases/download/assets/clientmaterialtrigger.zip>) |
+
+## Map Authors
+
 <!-- ## Templates
 
 [*NAME*](Docs/../_links.md#NAME)
@@ -26,23 +37,6 @@ Contains all links in this repo.
 Github -> Steam (steamID64 links) -> Forums -> Other sites.
 ```
 -->
-
-## Map Packages
-
-> Always keep [CustomSpawnFix] around, it will help greatly if you have invisible zeds. Thanks Tripwire for renaming zed classes in latest patches and breaking old story maps.
-
-> Avoid [NetReduce] and [NetReduceSE] at all costs, or you will get broken spawns, pickups, missing keys, switches, etc etc.
-
-These packages are **Whitelisted**, if you see them don't worry:
-
-* [ScrnStoryGame] - adds many and many additional scripts, npc support, dialogues, etc.
-* [FoundryObj] - a bit more scripts ^.
-* [KFChaingunTurret] - a usable gatling gun.
-* [Fall_TriggerPack] - one of the oldest ones around, has few useful triggers.
-* [KFGasCan] - gas can and related scripts.
-* [clientmaterialtrigger] - allows to change materials for clients.
-
-## Map Authors
 
 * <a name="avp2501"></a>**avp2501** - [Steam](https://steamcommunity.com/profiles/76561197966104966)
 * <a name="Bangulo"></a>**Bangulo** - [TWI](https://forums.tripwireinteractive.com/index.php?members/bangulo.44593/)
