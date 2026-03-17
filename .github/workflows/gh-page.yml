@@ -1,27 +1,33 @@
-name: Build and Publish to GitHub Pages
-
+name: Deploy to GitHub Pages
 on:
   push:
     branches:
       - main
-  pull_request:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+    permissions:
+      contents: write  # To push a branch
+      pull-requests: write  # To create a PR from that branch
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v2
+      - uses: actions/checkout@v6
         with:
-          mdbook-version: "latest"
-          # mdbook-version: 'latest' / "0.4.25"
+            fetch-depth: 0
+
+      - name: Setup Latest mdBook
+        run: |
+          tag=$(curl 'https://api.github.com/repos/rust-lang/mdbook/releases/latest' | jq -r '.tag_name')
+          url="https://github.com/rust-lang/mdbook/releases/download/${tag}/mdbook-${tag}-x86_64-unknown-linux-gnu.tar.gz"
+          mkdir mdbook
+          curl -sSL $url | tar -xz --directory=./mdbook
+          echo `pwd`/mdbook >> $GITHUB_PATH
 
       - name: Build Book
-        run: mdbook build
+        run: |
+          # This assumes your book is in the root of your repository.
+          # Just add a `cd` here if you need to change to another directory.
+          mdbook build
 
       - name: Setup static-sitemap-cli
         run: npm install static-sitemap-cli
@@ -31,9 +37,16 @@ jobs:
           cd book
           npx sscli --no-clean --base https://insultingpros.github.io/KFStory/
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        if: ${{ github.ref == 'refs/heads/main' }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./book
+      - name: Deploy GitHub Pages
+        run: |
+          git worktree add gh-pages
+          git config user.name "Deploy from CI"
+          git config user.email ""
+          cd gh-pages
+          # Delete the ref to avoid keeping history.
+          git update-ref -d refs/heads/gh-pages
+          rm -rf *
+          mv ../book/* .
+          git add .
+          git commit -m "Deploy $GITHUB_SHA to gh-pages"
+          git push --force --set-upstream origin gh-pages
