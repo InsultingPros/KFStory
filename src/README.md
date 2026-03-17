@@ -4,8 +4,6 @@
 > [!NOTE]
 > Map lists are **HUGE**. A lot of days were spent sorting files, creating categories and filling in all the information in the right places. So there can be typos, missing maps, links, credits and false information. If you find any, please let us know: [GitHub Issues] / [Discord](https://discord.gg/eREYb3AgeT).
 
-## General Info
-
 Ola! I adore **Killing Floor 1** story maps and greatly respect all the work, time that their authors put into their creations. So I aimed to create a place where everyone can easily find, compare, download and install any map in a few clicks. Enjoy.
 
 * Maps are categorized by gametypes (map prefixes).

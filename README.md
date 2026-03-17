@@ -1,12 +1,12 @@
 # KF Story Maps and GameTypes
 
-[![Github Pages Deploy](https://github.com/InsultingPros/KFStory/actions/workflows/gh-page.yml/badge.svg?branch=main)](https://github.com/InsultingPros/KFStory/actions/workflows/gh-page.yml)
+[Github Pages Deploy]: https://img.shields.io/github/actions/workflow/status/InsultingPros/KFStory/gh-page.yml?style=for-the-badge&label=Github%20Pages%20Deploy
 
-This directory holds the code related to [**Killing Floor 1**](https://store.steampowered.com/app/1250/Killing_Floor/) story mode maps and gametypes.
+[![Github Pages Deploy]](https://github.com/InsultingPros/KFStory/actions/workflows/gh-page.yml)
 
-## Requirements
+This repository hosts the website for [**Killing Floor 1**](https://store.steampowered.com/app/1250/Killing_Floor/) story mode maps and gametypes.
 
-The website is built with [mdbook](https://rust-lang.github.io/mdBook/). For local development:
+For local development you need to set up the [mdbook](https://rust-lang.github.io/mdBook/):
 
 ```bash
 # setup
